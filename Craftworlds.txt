@@ -1,0 +1,1894 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40K 8th Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Archon",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 2645,
+          "optionName" : "Huskblade",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2646,
+          "optionName" : "Agoniser",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2647,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 2648,
+          "optionName" : "Venom blade",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2649,
+          "optionName" : "Blast pistol",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must take a melee weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2645", "2646", "2647", "2648" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many melee weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2645", "2646", "2647", "2648" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many melee ranged weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2649" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 70,
+        "unitID" : 2479,
+        "autoAddDictionary" : {
+          "2645" : "1"
+        }
+      }, {
+        "unitName" : "Drazhar",
+        "listOfOptions" : null,
+        "listOfRestrictions" : [ {
+          "listOfNamesOfUnitID" : [ "2480" ],
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You may only have one Drazhar.",
+          "nameOfCheck" : "checkUnitsInList",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "conditionalType" : "<",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 2,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 120,
+        "unitID" : 2480,
+        "autoAddDictionary" : null
+      }, {
+        "unitName" : "Lelith Hespearax",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2650,
+          "optionName" : "Implaer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "listOfNamesOfUnitID" : [ "2481" ],
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You may only have one Lelith Hesperax",
+          "nameOfCheck" : "checkUnitsInList",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "conditionalType" : "<",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 2,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many melee weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2650" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 80,
+        "unitID" : 2481,
+        "autoAddDictionary" : null
+      }, {
+        "unitName" : "Succubus",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2651,
+          "optionName" : "Agoniser",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 2652,
+          "optionName" : "$Wych Cult Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2653,
+          "optionName" : "Blast pistol",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2654,
+          "optionName" : "Impaler",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4718,
+          "optionName" : "Splinter pistol",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must take a weapon.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2651", "2653", "2654", "$Wych Cult Weapons" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2651", "2653", "2654.$Wych Cult Weapons" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 50,
+        "unitID" : 2482,
+        "autoAddDictionary" : {
+          "2651" : "1"
+        }
+      }, {
+        "unitName" : "Urien Rakarth",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2655,
+          "optionName" : "Ichor injector",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "listOfNamesOfUnitID" : [ "2483" ],
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You may only have one Urien Rakarth.",
+          "nameOfCheck" : "checkUnitsInList",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "conditionalType" : "<",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 2,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have one ichor injector.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "2655" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 90,
+        "unitID" : 2483,
+        "autoAddDictionary" : {
+          "2655" : "1"
+        }
+      }, {
+        "unitName" : "Haemonculus",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2656,
+          "optionName" : "Stinger pistol",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2657,
+          "optionName" : "Ichor injector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2658,
+          "optionName" : "Hexrifle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 11,
+          "listOfRestrictions" : null,
+          "optionID" : 2659,
+          "optionName" : "Liquifier gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 2661,
+          "optionName" : "$Weapons Of Torture",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many ichor injectors.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2657" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many ranged weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2656", "2658", "2659" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough ranged weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2656", "2658", "2659" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many weapons of torture.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "$Weapons Of Torture" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 70,
+        "unitID" : 2484,
+        "autoAddDictionary" : {
+          "2656" : "1"
+        }
+      }, {
+        "unitName" : "[5]Kabalite Warriors",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 2662,
+          "optionName" : "Additional Kabalite Warrior",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2663,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2664,
+          "optionName" : "Agoniser",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 2665,
+          "optionName" : "Phantasm grenade launcher",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2666,
+          "optionName" : "Blast pistol",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2667,
+          "optionName" : "Splinter cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 2668,
+          "optionName" : "Dark lance",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 2669,
+          "optionName" : "Shreder",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 2670,
+          "optionName" : "Blaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4719,
+          "optionName" : "Splinter pistol",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 15,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many kabalite warriors.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2662" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your sybarite has too many melee weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2663", "2664" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your sybarite has too many ranged weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2666" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your sybarite has too many phantasm grenade launchers.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2665" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 30,
+        "unitID" : 2485,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[5]Wyches",
+        "listOfOptions" : [ {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 2671,
+          "optionName" : "Additional Wych",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 2672,
+          "optionName" : "Phantasm grenade launcher",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2673,
+          "optionName" : "Blast pistol",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2674,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2675,
+          "optionName" : "Agoniser",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 2676,
+          "optionName" : "$Wych Cult Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 15,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many wyches.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2671" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your hekatrix has too many Phantasm grenade launchers.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2672" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your hekatrix has too many blast pistols.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2673" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your hekatrix has too many melee weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2674", "2675" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 40,
+        "unitID" : 2486,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[5]Wracks",
+        "listOfOptions" : [ {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 2677,
+          "optionName" : "Additional Wrack",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 11,
+          "listOfRestrictions" : null,
+          "optionID" : 2678,
+          "optionName" : "Liquifier gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 2679,
+          "optionName" : "Ossefactor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 2680,
+          "optionName" : "$Weapons Of Torture",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 2681,
+          "optionName" : "$Tools Of Torment",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 5,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many wracks.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2677" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your acothyst has too many weapons of torture.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "$Weapons Of Torture" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your acothyst has too many tools of torment.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "$Tools Of Torment" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 45,
+        "unitID" : 2487,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Lhamaen",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 15,
+        "unitID" : 2488,
+        "autoAddDictionary" : null
+      }, {
+        "unitName" : "Medusae",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 21,
+        "unitID" : 2489,
+        "autoAddDictionary" : null
+      }, {
+        "unitName" : "Sslyth",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 27,
+        "unitID" : 2490,
+        "autoAddDictionary" : null
+      }, {
+        "unitName" : "Ur-ghul",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 15,
+        "unitID" : 2491,
+        "autoAddDictionary" : null
+      }, {
+        "unitName" : "[5]Incubi",
+        "listOfOptions" : [ {
+          "optionCost" : 16,
+          "listOfRestrictions" : null,
+          "optionID" : 2682,
+          "optionName" : "Additional Incubi",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 5,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many incubi",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2682" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 80,
+        "unitID" : 2492,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[5]Mandrakes",
+        "listOfOptions" : [ {
+          "optionCost" : 16,
+          "listOfRestrictions" : null,
+          "optionID" : 2683,
+          "optionName" : "Additional Mandrake",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 5,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many mandrakes.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2683" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 80,
+        "unitID" : 2493,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Beastmaster",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2684,
+          "optionName" : "Agoniser",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have one agoniser.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "2684" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 36,
+        "unitID" : 2494,
+        "autoAddDictionary" : {
+          "2684" : "1"
+        }
+      }, {
+        "unitName" : "[3]Grotesques",
+        "listOfOptions" : [ {
+          "optionCost" : 32,
+          "listOfRestrictions" : null,
+          "optionID" : 2685,
+          "optionName" : "Additional Grotesque",
+          "autoAddDictionary" : {
+            "2686" : "1"
+          }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 2686,
+          "optionName" : "Flesh gauntlet",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 11,
+          "listOfRestrictions" : null,
+          "optionID" : 2687,
+          "optionName" : "Liquifier gun",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 7,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many grotesques.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2685" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 96,
+        "unitID" : 2495,
+        "autoAddDictionary" : {
+          "2686" : "3"
+        }
+      }, {
+        "unitName" : "Clawed Fiends",
+        "listOfOptions" : [ {
+          "optionCost" : 32,
+          "listOfRestrictions" : null,
+          "optionID" : 2688,
+          "optionName" : "Additional Clawed Fiend",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 5,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many clawed fiends.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2688" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 32,
+        "unitID" : 2496,
+        "autoAddDictionary" : null
+      }, {
+        "unitName" : "[2]Khymerae",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2689,
+          "optionName" : "Additional Khymerae",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 5,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many khymerae.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2689" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 20,
+        "unitID" : 2497,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Razorwing flocks",
+        "listOfOptions" : [ {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 2690,
+          "optionName" : "Additional Razorwing Flock",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 9,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many razorwings.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2690" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 12,
+        "unitID" : 2498,
+        "autoAddDictionary" : null
+      }, {
+        "unitName" : "[3]Reavers",
+        "listOfOptions" : [ {
+          "optionCost" : 19,
+          "listOfRestrictions" : null,
+          "optionID" : 2691,
+          "optionName" : "Additional Reaver",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2692,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2693,
+          "optionName" : "Agoniser",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 2694,
+          "optionName" : "Heat lance",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 2695,
+          "optionName" : "Blaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 2696,
+          "optionName" : "Grav-talon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 2697,
+          "optionName" : "Cluster clatrops",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your arena champion has too many melee weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2692", "2693" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 9,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many reavers.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2691" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 57,
+        "unitID" : 2499,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[5]Hellions",
+        "listOfOptions" : [ {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 2698,
+          "optionName" : "Additional Hellion",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 2699,
+          "optionName" : "Phantasm grenade launcher",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2700,
+          "optionName" : "Splinter pistol and stunclaw",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2702,
+          "optionName" : "Splinter pistol and power sword",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2703,
+          "optionName" : "Splinter pistol and agoniser",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 15,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many hellions.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2698" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your helliarch has too many phantasm grenade launchers.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2699" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your helliarch has too many weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2700", "2702", "2703" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 70,
+        "unitID" : 2500,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[5]Scourges",
+        "listOfOptions" : [ {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 2704,
+          "optionName" : "Additional Scourge",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2705,
+          "optionName" : "Splinter cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 2706,
+          "optionName" : "Dark lance",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 2707,
+          "optionName" : "Heat lance",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 2708,
+          "optionName" : "Shredder",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 2709,
+          "optionName" : "Haywire blaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 2710,
+          "optionName" : "Blaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2711,
+          "optionName" : "Blast pistol",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 2712,
+          "optionName" : "Venom blade",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2713,
+          "optionName" : "Power lance",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2714,
+          "optionName" : "Agoniser",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4720,
+          "optionName" : "Splinter pistol",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 5,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many scourges.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2704" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 4,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many troops weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2705", "2706", "2707", "2708", "2709", "2710" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your solarite has too many melee weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2713", "2714", "2712" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "Your solarite has too many ranged weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2710", "2711" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 60,
+        "unitID" : 2501,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Talos",
+        "listOfOptions" : [ {
+          "optionCost" : 75,
+          "listOfRestrictions" : null,
+          "optionID" : 2715,
+          "optionName" : "Additional Talos",
+          "autoAddDictionary" : {
+            "2717" : "2",
+            "2716" : "2"
+          }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2716,
+          "optionName" : "Splinter cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2717,
+          "optionName" : "Macro-scalpel",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2718,
+          "optionName" : "Ichor injector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 22,
+          "listOfRestrictions" : null,
+          "optionID" : 2719,
+          "optionName" : "Twin liquifier gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 2720,
+          "optionName" : "Chain-flail",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 2721,
+          "optionName" : "Talos gauntlet",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 24,
+          "listOfRestrictions" : null,
+          "optionID" : 2722,
+          "optionName" : "Two heat lances",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 16,
+          "listOfRestrictions" : null,
+          "optionID" : 2723,
+          "optionName" : "Two haywire blasters",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4721,
+          "optionName" : "Stinger pod",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many talos.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2715" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 75,
+        "unitID" : 2502,
+        "autoAddDictionary" : {
+          "2717" : "2",
+          "2716" : "2"
+        }
+      }, {
+        "unitName" : "Cronos",
+        "listOfOptions" : [ {
+          "optionCost" : 65,
+          "listOfRestrictions" : null,
+          "optionID" : 2724,
+          "optionName" : "Additional Cronos",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2725,
+          "optionName" : "Spirit vortex",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2726,
+          "optionName" : "Spirit probe",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many cronos",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2724" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 65,
+        "unitID" : 2503,
+        "autoAddDictionary" : null
+      }, {
+        "unitName" : "Ravager",
+        "listOfOptions" : [ {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 2727,
+          "optionName" : "Dark lance",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 2728,
+          "optionName" : "Disintergrator cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 2729,
+          "optionName" : "$Vehicle Equipment",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 3,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must take three weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2727", "2728" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 3,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2727", "2728" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 80,
+        "unitID" : 2504,
+        "autoAddDictionary" : {
+          "2727" : "3"
+        }
+      }, {
+        "unitName" : "Raider",
+        "listOfOptions" : [ {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 2730,
+          "optionName" : "Dark lance",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 2731,
+          "optionName" : "Disintergrator cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2732,
+          "optionName" : "Splinter racks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 2733,
+          "optionName" : "$Vehicle Equipment",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2730", "2731" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2730", "2731" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many splinter racks",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2732" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Dedicated Transport",
+        "unitCost" : 65,
+        "unitID" : 2505,
+        "autoAddDictionary" : {
+          "2730" : "1"
+        }
+      }, {
+        "unitName" : "Venom",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2734,
+          "optionName" : "Splinter cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 2735,
+          "optionName" : "$Vehicle Equipment",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many splinter cannons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2734" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough splinter cannons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2734" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        } ],
+        "unitCategory" : "Dedicated Transport",
+        "unitCost" : 55,
+        "unitID" : 2506,
+        "autoAddDictionary" : {
+          "2734" : "1"
+        }
+      }, {
+        "unitName" : "Razorwing Jetfighter",
+        "listOfOptions" : [ {
+          "optionCost" : 30,
+          "listOfRestrictions" : null,
+          "optionID" : 2736,
+          "optionName" : "Two disintergrator cannons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 40,
+          "listOfRestrictions" : null,
+          "optionID" : 2737,
+          "optionName" : "Twin dark lances",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2738,
+          "optionName" : "Splinter cannon",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2736", "2737" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many primary weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2736", "2737" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many splinter cannons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2738" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Flyers",
+        "unitCost" : 105,
+        "unitID" : 2507,
+        "autoAddDictionary" : {
+          "2736" : "1"
+        }
+      }, {
+        "unitName" : "Voidraven Bomber",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 2739,
+          "optionName" : "Voidraven missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4722,
+          "optionName" : "Two dark scythes",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many voidraven missiles.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "2739" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Flyers",
+        "unitCost" : 155,
+        "unitID" : 2508,
+        "autoAddDictionary" : null
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2463,
+          "optionName" : "Hydra gauntlets",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2464,
+          "optionName" : "Razorflails",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2465,
+          "optionName" : "Shardnet and impaler",
+          "autoAddDictionary" : null
+        } ],
+        "equipmentName" : "$Wych Cult Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2466,
+          "optionName" : "Hexrifle",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 11,
+          "listOfRestrictions" : null,
+          "optionID" : 2467,
+          "optionName" : "Liquifier gun",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 2468,
+          "optionName" : "Stinger pistol",
+          "autoAddDictionary" : null
+        } ],
+        "equipmentName" : "$Tools Of Torment"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2469,
+          "optionName" : "Agoniser",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 2470,
+          "optionName" : "Electrocorrosive whip",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 2471,
+          "optionName" : "Flesh gauntlet",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 2472,
+          "optionName" : "Mindphase gauntlet",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 2473,
+          "optionName" : "Scissorhand",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 2474,
+          "optionName" : "Venom blade",
+          "autoAddDictionary" : null
+        } ],
+        "equipmentName" : "$Weapons Of Torture"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 2475,
+          "optionName" : "Chain-snares",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 2476,
+          "optionName" : "Grisly trophes",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 2477,
+          "optionName" : "Phantasm grenade launcher",
+          "autoAddDictionary" : null
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 2478,
+          "optionName" : "Shock prow",
+          "autoAddDictionary" : null
+        } ],
+        "equipmentName" : "$Vehicle Equipment"
+      } ],
+      "armyName" : "Drukhari"
+    } ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+  } ]
+}
