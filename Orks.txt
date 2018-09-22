@@ -1,0 +1,1459 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40K 8th Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Warboss",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 4160,
+          "optionName" : "Kustom shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 4161,
+          "optionName" : "Big choppa",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4162,
+          "optionName" : "$Shooty Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4163,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4164,
+          "optionName" : "Attack squig",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 55,
+        "unitID" : 3986,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Warboss In Mega Armour",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4165,
+          "optionName" : "$Shooty Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4167,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 4168,
+          "optionName" : "Kustom shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 4169,
+          "optionName" : "Power klaw",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 107,
+        "unitID" : 3987,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Warboss On Warbike",
+        "listOfOptions" : [ {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 4170,
+          "optionName" : "Big choppa",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4171,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4172,
+          "optionName" : "$Shooty Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4173,
+          "optionName" : "Attack squig",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 86,
+        "unitID" : 3988,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Weirdboy",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 62,
+        "unitID" : 3989,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Big Mek",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 4174,
+          "optionName" : "Grot Oiler",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4175,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4176,
+          "optionName" : "$Souped-Up Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4177,
+          "optionName" : "Kustom force field",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 45,
+          "listOfRestrictions" : null,
+          "optionID" : 4178,
+          "optionName" : "Shokk attack gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4179,
+          "optionName" : "Killsaw (single)",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 55,
+        "unitID" : 3990,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Big Mek In Mega Armour",
+        "listOfOptions" : [ {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 4180,
+          "optionName" : "Kustom mega-blaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 4181,
+          "optionName" : "Power klaw",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 4182,
+          "optionName" : "Grot Oiler",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4183,
+          "optionName" : "Killsaw (single)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4184,
+          "optionName" : "Kustom force field",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 11,
+          "listOfRestrictions" : null,
+          "optionID" : 4185,
+          "optionName" : "Tellyport blasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4186,
+          "optionName" : "$Shooty Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 77,
+        "unitID" : 3991,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Big Mek On Warbike",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4187,
+          "optionName" : "$Souped-Up Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4188,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4189,
+          "optionName" : "Kustom force field",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 45,
+          "listOfRestrictions" : null,
+          "optionID" : 4190,
+          "optionName" : "Shokk attack gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4191,
+          "optionName" : "Killsaw (single)",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 81,
+        "unitID" : 3992,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Ghazghkull Thraka",
+        "listOfOptions" : [ {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 4192,
+          "optionName" : "Twin big shoota",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "listOfNamesOfUnitID" : [ "3993" ],
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You may only have one Ghazghkull Thraka.",
+          "nameOfCheck" : "checkUnitsInList",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "conditionalType" : "<",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 2,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 215,
+        "unitID" : 3993,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kaptin Badrukk",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 84,
+        "unitID" : 3994,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Boss Zagstruk",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 88,
+        "unitID" : 3995,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Boss Snikrot",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 69,
+        "unitID" : 3996,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Mek",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 4193,
+          "optionName" : "Grot oiler",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4194,
+          "optionName" : "Killsaw (single)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4195,
+          "optionName" : "$Souped-Up Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 22,
+        "unitID" : 3997,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Painboy",
+        "listOfOptions" : [ {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 4196,
+          "optionName" : "Power klaw",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 4197,
+          "optionName" : "Grot Orderly",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4198,
+          "optionName" : "Killsaw (single)",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 40,
+        "unitID" : 3998,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Painboy On Warbike",
+        "listOfOptions" : [ {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4199,
+          "optionName" : "Killsaw (single)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 4200,
+          "optionName" : "Power klaw",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 90,
+        "unitID" : 3999,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Mad Dok Grotsnik",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 74,
+        "unitID" : 4000,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Boyz",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 4201,
+          "optionName" : "Additional Ork Boy",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4202,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4203,
+          "optionName" : "$Shooty Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4204,
+          "optionName" : "$'Eavy Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Troops",
+        "unitCost" : 60,
+        "unitID" : 4001,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Gretchin",
+        "listOfOptions" : [ {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 4205,
+          "optionName" : "Additional Gretchin",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Troops",
+        "unitCost" : 30,
+        "unitID" : 4002,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Runtherd",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4206,
+          "optionName" : "Grot-pod",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4207,
+          "optionName" : "Grot lash",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4208,
+          "optionName" : "Squig hound",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 26,
+        "unitID" : 4003,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Burna Boyz",
+        "listOfOptions" : [ {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 4210,
+          "optionName" : "Additional Burna Boyz",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 3631,
+          "optionName" : "Killsaw(single)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3632,
+          "optionName" : "$Souped-Up Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 70,
+        "unitID" : 4004,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Tankbustas",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3634,
+          "optionName" : "Additional Tankbusta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 3635,
+          "optionName" : "Rokkit launcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3636,
+          "optionName" : "Bomb Squig",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3637,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3638,
+          "optionName" : "Tankhammer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 3639,
+          "optionName" : "Pair of rokkit pistol",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 25,
+        "unitID" : 4005,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Nobz",
+        "listOfOptions" : [ {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 3640,
+          "optionName" : "Additional Nob",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3641,
+          "optionName" : "Ammo Runt",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3642,
+          "optionName" : "$Shooty Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3643,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 3644,
+          "optionName" : "Killsaw(single)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 3834,
+          "optionName" : "Power stabba",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3901,
+          "optionName" : "Cybork body",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 51,
+        "unitID" : 4006,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Nob With Waaagh! Banner",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3922,
+          "optionName" : "Kustom shoota",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 75,
+        "unitID" : 4007,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Nobz On Warbikes",
+        "listOfOptions" : [ {
+          "optionCost" : 42,
+          "listOfRestrictions" : null,
+          "optionID" : 3923,
+          "optionName" : "Additional Nob on Warbike",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4036,
+          "optionName" : "$Shooty Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4047,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 126,
+        "unitID" : 4008,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Meganobz",
+        "listOfOptions" : [ {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 4048,
+          "optionName" : "Additional Meganob",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 4130,
+          "optionName" : "Kustom Shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 4166,
+          "optionName" : "Power klaw",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 38,
+          "listOfRestrictions" : null,
+          "optionID" : 4209,
+          "optionName" : "Killsaws(pair)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4211,
+          "optionName" : "Kombi-weapon with rokkit launcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 19,
+          "listOfRestrictions" : null,
+          "optionID" : 4212,
+          "optionName" : "Kombi-weapon with skorcha",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 75,
+        "unitID" : 4009,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kommandos",
+        "listOfOptions" : [ {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 4213,
+          "optionName" : "Additional Kommando",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 4214,
+          "optionName" : "Big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4215,
+          "optionName" : "Burna",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 4216,
+          "optionName" : "Rokkit launcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4217,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 45,
+        "unitID" : 4010,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Trukk",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 4218,
+          "optionName" : "Big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 4219,
+          "optionName" : "Rokkit launcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 4220,
+          "optionName" : "Wreckin' Ball",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Dedicated Transport",
+        "unitCost" : 76,
+        "unitID" : 4011,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Stormboyz",
+        "listOfOptions" : [ {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 4221,
+          "optionName" : "Additional Stormboy",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4222,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 40,
+        "unitID" : 4012,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Deffkoptas",
+        "listOfOptions" : [ {
+          "optionCost" : 55,
+          "listOfRestrictions" : null,
+          "optionID" : 4223,
+          "optionName" : "Additional Deffkopta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4224,
+          "optionName" : "Kopta rokkits",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 4225,
+          "optionName" : "Kustom mega-blaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 4226,
+          "optionName" : "Twin big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4227,
+          "optionName" : "Bigbomm",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4228,
+          "optionName" : "Killsaw(single)",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 55,
+        "unitID" : 4013,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Dakkajet",
+        "listOfOptions" : [ {
+          "optionCost" : 40,
+          "listOfRestrictions" : null,
+          "optionID" : 4229,
+          "optionName" : "Four supa shootas",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Flyers",
+        "unitCost" : 88,
+        "unitID" : 4014,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Burna-Bommer",
+        "listOfOptions" : [ {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4230,
+          "optionName" : "Two supa shootas",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 4231,
+          "optionName" : "Twin big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4232,
+          "optionName" : "Skorcha missile",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Flyers",
+        "unitCost" : 102,
+        "unitID" : 4015,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Blitza-Bommer",
+        "listOfOptions" : [ {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4233,
+          "optionName" : "Two supa shootas",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 4234,
+          "optionName" : "Big shoota",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Flyers",
+        "unitCost" : 108,
+        "unitID" : 4016,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Wazbom Blastajet",
+        "listOfOptions" : [ {
+          "optionCost" : 24,
+          "listOfRestrictions" : null,
+          "optionID" : 4236,
+          "optionName" : "Two wazbom mega-kannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 16,
+          "listOfRestrictions" : null,
+          "optionID" : 4237,
+          "optionName" : "Smasha gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 4238,
+          "optionName" : "Stikkbomb flinga",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 36,
+          "listOfRestrictions" : null,
+          "optionID" : 4239,
+          "optionName" : "Two tellyport mega-blastas.",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4240,
+          "optionName" : "Two supa shootas",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4241,
+          "optionName" : "Kustom force field",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Flyers",
+        "unitCost" : 99,
+        "unitID" : 4017,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Warbikers",
+        "listOfOptions" : [ {
+          "optionCost" : 27,
+          "listOfRestrictions" : null,
+          "optionID" : 4242,
+          "optionName" : "Additional Warbike",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4243,
+          "optionName" : "$Choppy Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 81,
+        "unitID" : 4018,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Wartrakks",
+        "listOfOptions" : [ {
+          "optionCost" : 49,
+          "listOfRestrictions" : null,
+          "optionID" : 4244,
+          "optionName" : "Additional Wartrakks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 4245,
+          "optionName" : "Twin big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4246,
+          "optionName" : "Rack of rokkits",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 49,
+        "unitID" : 4019,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Skorchas",
+        "listOfOptions" : [ {
+          "optionCost" : 49,
+          "listOfRestrictions" : null,
+          "optionID" : 4235,
+          "optionName" : "Additional Skorcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 4247,
+          "optionName" : "Skorcha",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 49,
+        "unitID" : 4020,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Warbuggies",
+        "listOfOptions" : [ {
+          "optionCost" : 44,
+          "listOfRestrictions" : null,
+          "optionID" : 4248,
+          "optionName" : "Additional Warbuggie",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 4249,
+          "optionName" : "Twin big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4250,
+          "optionName" : "Rack of rokkits",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 44,
+        "unitID" : 4021,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Big Gunz",
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 4251,
+          "optionName" : "Grot gunner",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 4252,
+          "optionName" : "Additional Big Gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 4253,
+          "optionName" : "Kannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 18,
+          "listOfRestrictions" : null,
+          "optionID" : 4254,
+          "optionName" : "Lobba",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 18,
+          "listOfRestrictions" : null,
+          "optionID" : 4255,
+          "optionName" : "Zzap Gun",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 8,
+        "unitID" : 4022,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Mek Gunz",
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 4256,
+          "optionName" : "Grot gunner",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 4257,
+          "optionName" : "Additional Mek Gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 32,
+          "listOfRestrictions" : null,
+          "optionID" : 4258,
+          "optionName" : "Bubblechukka",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 23,
+          "listOfRestrictions" : null,
+          "optionID" : 4259,
+          "optionName" : "Kustom mega-kannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 16,
+          "listOfRestrictions" : null,
+          "optionID" : 4260,
+          "optionName" : "Smash gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 4261,
+          "optionName" : "Traktor cannon",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 15,
+        "unitID" : 4023,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Battlewaggon",
+        "listOfOptions" : [ {
+          "optionCost" : 27,
+          "listOfRestrictions" : null,
+          "optionID" : 4262,
+          "optionName" : "Killkannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 4263,
+          "optionName" : "Kannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 18,
+          "listOfRestrictions" : null,
+          "optionID" : 4264,
+          "optionName" : "Lobba",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 18,
+          "listOfRestrictions" : null,
+          "optionID" : 4265,
+          "optionName" : "Zzap gun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 4266,
+          "optionName" : "Big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 4267,
+          "optionName" : "Rokkit launcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 19,
+          "listOfRestrictions" : null,
+          "optionID" : 4268,
+          "optionName" : "Deff rolla",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 4269,
+          "optionName" : "Grabbin' klaw",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 4270,
+          "optionName" : "Wreckin' Ball",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 161,
+        "unitID" : 4024,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Deff Dreads",
+        "listOfOptions" : [ {
+          "optionCost" : 74,
+          "listOfRestrictions" : null,
+          "optionID" : 4271,
+          "optionName" : "Additional Deff Dread",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 4272,
+          "optionName" : "Two big shootas",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 45,
+          "listOfRestrictions" : null,
+          "optionID" : 4273,
+          "optionName" : "Two dread klaws",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 4274,
+          "optionName" : "Extra dread klaw",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 4275,
+          "optionName" : "Skorcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 4276,
+          "optionName" : "Kustom mega-blasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 4277,
+          "optionName" : "Rokkit launcha",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 74,
+        "unitID" : 4025,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Killa Kans",
+        "listOfOptions" : [ {
+          "optionCost" : 51,
+          "listOfRestrictions" : null,
+          "optionID" : 4278,
+          "optionName" : "Additional Killa Kan",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 4279,
+          "optionName" : "Big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 4280,
+          "optionName" : "Rokkit launcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 4281,
+          "optionName" : "Kustom mega-blasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 4282,
+          "optionName" : "Skorcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 4283,
+          "optionName" : "Grotzooka",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 51,
+        "unitID" : 4026,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Morkanaut",
+        "listOfOptions" : [ {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 4284,
+          "optionName" : "Kustom mega-blasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4285,
+          "optionName" : "Two twin big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 24,
+          "listOfRestrictions" : null,
+          "optionID" : 4286,
+          "optionName" : "Two rokkit launchas",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 23,
+          "listOfRestrictions" : null,
+          "optionID" : 4287,
+          "optionName" : "Kustom mega-cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4288,
+          "optionName" : "Kustom force field",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 270,
+        "unitID" : 4027,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Gorkanaut",
+        "listOfOptions" : [ {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4289,
+          "optionName" : "Two twin big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 24,
+          "listOfRestrictions" : null,
+          "optionID" : 4290,
+          "optionName" : "Two rokkit launchas",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 4291,
+          "optionName" : "Skorcha",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 295,
+        "unitID" : 4028,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Lootas",
+        "listOfOptions" : [ {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 4292,
+          "optionName" : "Additional Loota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4293,
+          "optionName" : "Killsaw(single)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4294,
+          "optionName" : "$Souped-Up Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 85,
+        "unitID" : 4029,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Flash Gitz",
+        "listOfOptions" : [ {
+          "optionCost" : 27,
+          "listOfRestrictions" : null,
+          "optionID" : 4295,
+          "optionName" : "Additional Flash Git",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 4296,
+          "optionName" : "Ammo runt",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 135,
+        "unitID" : 4030,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Stompa",
+        "listOfOptions" : [ {
+          "optionCost" : 28,
+          "listOfRestrictions" : null,
+          "optionID" : 4297,
+          "optionName" : "Supa-gatler",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 18,
+          "listOfRestrictions" : null,
+          "optionID" : 4298,
+          "optionName" : "Three big shootas",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 4299,
+          "optionName" : "Twin big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 17,
+          "listOfRestrictions" : null,
+          "optionID" : 4300,
+          "optionName" : "Skorcha",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lords of War",
+        "unitCost" : 900,
+        "unitID" : 4031,
+        "autoAddDictionary" : { }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3973,
+          "optionName" : "Shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3974,
+          "optionName" : "Custom shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 3975,
+          "optionName" : "Kombi-weapon with rokkit launcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 19,
+          "listOfRestrictions" : null,
+          "optionID" : 3976,
+          "optionName" : "Kombi-weapon with skorcha",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Shooty Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 19,
+          "listOfRestrictions" : null,
+          "optionID" : 3977,
+          "optionName" : "Kombi-weapon with skorcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 3978,
+          "optionName" : "Kombi-weapon with rokkit launcha",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 3979,
+          "optionName" : "Kustom mega-blasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 3980,
+          "optionName" : "Kustom mega-slugga",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 3981,
+          "optionName" : "Rokkit launcha",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Souped-Up Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 3982,
+          "optionName" : "Big shoota",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 3983,
+          "optionName" : "Rokkit launcha",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$'Eavy Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 3984,
+          "optionName" : "Big choppa",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 3985,
+          "optionName" : "Power klaw",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Choppy Weapons"
+      } ],
+      "armyName" : "Orks"
+    } ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+  } ]
+}

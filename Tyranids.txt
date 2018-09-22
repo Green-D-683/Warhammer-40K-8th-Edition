@@ -1,0 +1,2251 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40K 8th Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Broodlord",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 162,
+        "unitID" : 3660,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Hive Tyrant",
+        "listOfOptions" : [ {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 3701,
+          "optionName" : "Monstrous scything talons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3702,
+          "optionName" : "$Monstrous Bio-Cannons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3703,
+          "optionName" : "$Monstrous Bio-Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 27,
+          "listOfRestrictions" : null,
+          "optionID" : 3704,
+          "optionName" : "Wings",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3705,
+          "optionName" : "Toxin Sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3706,
+          "optionName" : "Adrenal Glands",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 4748,
+          "optionName" : "Monstrous scything talons (two pairs",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 2,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3701", "$Monstrous Bio-Cannons", "$Monstrous Bio-Weapons" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3701", "$Monstrous Bio-Cannons", "$Monstrous Bio-Weapons" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many wings.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3704" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too toxin sacs.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3705" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too adrenal glands.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3706" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 143,
+        "unitID" : 3661,
+        "autoAddDictionary" : {
+          "4748" : "1"
+        }
+      }, {
+        "unitName" : "The Swarmlord",
+        "listOfOptions" : null,
+        "listOfRestrictions" : [ {
+          "listOfNamesOfUnitID" : [ "3662" ],
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You may only have one Swarmlord",
+          "nameOfCheck" : "checkUnitsInList",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "conditionalType" : "<",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 2,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 300,
+        "unitID" : 3662,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Tyranid Prime",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3707,
+          "optionName" : "Devourer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3708,
+          "optionName" : "$Basic Bio-Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3709,
+          "optionName" : "$Melee Bio-Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3710,
+          "optionName" : "Flesh hooks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3711,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3712,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many toxin sacs.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3711" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many adrenal glands.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3712" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many flesh hooks.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3710" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 100,
+        "unitID" : 3663,
+        "autoAddDictionary" : {
+          "3707" : "1"
+        }
+      }, {
+        "unitName" : "Tervigon",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3713,
+          "optionName" : "Massive scything talons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 3714,
+          "optionName" : "Stinger salvo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 3715,
+          "optionName" : "Massive crushing claws",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3716,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3717,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough massive weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3713", "3715" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many massive weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3713", "3715" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have one stinger salvo.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "3714" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many toxin sacs.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3716" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many adrenal glands.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3717" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 225,
+        "unitID" : 3664,
+        "autoAddDictionary" : {
+          "3713" : "1",
+          "3714" : "1"
+        }
+      }, {
+        "unitName" : "Neurothorpe",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 70,
+        "unitID" : 3665,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Old One Eye",
+        "listOfOptions" : null,
+        "listOfRestrictions" : [ {
+          "listOfNamesOfUnitID" : [ "3666" ],
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You may only have one Ole One Eye.",
+          "nameOfCheck" : "checkUnitsInList",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "conditionalType" : "<",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 2,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 200,
+        "unitID" : 3666,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[3]Tyranid Warriors",
+        "listOfOptions" : [ {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 3718,
+          "optionName" : "Additional Tyranid Warrior",
+          "autoAddDictionary" : {
+            "3719" : "1"
+          }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3719,
+          "optionName" : "Devourer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3720,
+          "optionName" : "$Basic Bio-Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3721,
+          "optionName" : "$Melee Bio-Weapons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3722,
+          "optionName" : "$Basic Bio-Cannons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3723,
+          "optionName" : "Flesh hooks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3724,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3725,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 6,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many Tyranid Warriors.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3718" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 60,
+        "unitID" : 3667,
+        "autoAddDictionary" : {
+          "3719" : "3"
+        }
+      }, {
+        "unitName" : "[5]Genestealers",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3726,
+          "optionName" : "Additional Genestealer",
+          "autoAddDictionary" : {
+            "3727" : "1"
+          }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3727,
+          "optionName" : "Rending claws",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3728,
+          "optionName" : "Flesh hooks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3729,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3730,
+          "optionName" : "Extended carapaces",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4749,
+          "optionName" : "Scything talons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4750,
+          "optionName" : "Acid maw",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 15,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many genestealers.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3726" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 50,
+        "unitID" : 3668,
+        "autoAddDictionary" : {
+          "3727" : "5"
+        }
+      }, {
+        "unitName" : "[10]Termagants",
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3731,
+          "optionName" : "Additional Termagant",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3732,
+          "optionName" : "Devourer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3733,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3734,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4751,
+          "optionName" : "Spinefists",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 20,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many Termagants.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3731" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 40,
+        "unitID" : 3669,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[10]Hormagaunts",
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3735,
+          "optionName" : "Additional Hormagaunt",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3736,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3737,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 20,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many Hormagaunts.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3735" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 50,
+        "unitID" : 3670,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[3]Ripper Swarms",
+        "listOfOptions" : [ {
+          "optionCost" : 11,
+          "listOfRestrictions" : null,
+          "optionID" : 3738,
+          "optionName" : "Additional Ripper Swarm",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3739,
+          "optionName" : "Spinemaws",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 6,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many Ripper Swarms",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3738" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 33,
+        "unitID" : 3671,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[3]Tyrant Guard",
+        "listOfOptions" : [ {
+          "optionCost" : 35,
+          "listOfRestrictions" : null,
+          "optionID" : 3740,
+          "optionName" : "Additional Tyrant Guard",
+          "autoAddDictionary" : {
+            "3741" : "1"
+          }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3741,
+          "optionName" : "Rending claws",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 3742,
+          "optionName" : "Crushing claws",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3743,
+          "optionName" : "Lash whip and bonesword",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3744,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3745,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 3,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many tyrant guards.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3740" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 105,
+        "unitID" : 3672,
+        "autoAddDictionary" : {
+          "3741" : "3"
+        }
+      }, {
+        "unitName" : "[3]Hive Guard",
+        "listOfOptions" : [ {
+          "optionCost" : 18,
+          "listOfRestrictions" : null,
+          "optionID" : 3746,
+          "optionName" : "Additional Hive Guard",
+          "autoAddDictionary" : {
+            "3747" : "1"
+          }
+        }, {
+          "optionCost" : 30,
+          "listOfRestrictions" : null,
+          "optionID" : 3747,
+          "optionName" : "Impaler cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 21,
+          "listOfRestrictions" : null,
+          "optionID" : 3748,
+          "optionName" : "Shockcannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3749,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3750,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 3,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many hive guards.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3746" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 54,
+        "unitID" : 3673,
+        "autoAddDictionary" : {
+          "3747" : "3"
+        }
+      }, {
+        "unitName" : "Lictor",
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3751,
+          "optionName" : "Flesh hooks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3752,
+          "optionName" : "Rending claws",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have one flesh hook and rending claw.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "3751", "3752" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 41,
+        "unitID" : 3674,
+        "autoAddDictionary" : {
+          "3751" : "1",
+          "3752" : "1"
+        }
+      }, {
+        "unitName" : "Deathleaper",
+        "listOfOptions" : null,
+        "listOfRestrictions" : [ {
+          "listOfNamesOfUnitID" : [ "3675" ],
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You may only have one Deathleaper.",
+          "nameOfCheck" : "checkUnitsInList",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "conditionalType" : "<",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 2,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have one flesh hook and rending claw.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "3753", "3754" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 90,
+        "unitID" : 3675,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[3]Zoanthropes",
+        "listOfOptions" : [ {
+          "optionCost" : 40,
+          "listOfRestrictions" : null,
+          "optionID" : 3755,
+          "optionName" : "Additional Zoanthrope",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 3,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many zoanthropes.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3755" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 120,
+        "unitID" : 3676,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Maleceptor",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3756,
+          "optionName" : "Massive scything talons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have massive scything talons.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "3756" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 162,
+        "unitID" : 3677,
+        "autoAddDictionary" : {
+          "3756" : "1"
+        }
+      }, {
+        "unitName" : "[3]Venomthropes",
+        "listOfOptions" : [ {
+          "optionCost" : 30,
+          "listOfRestrictions" : null,
+          "optionID" : 3757,
+          "optionName" : "Additional Venomthrope",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 3,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many venomthropes.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3757" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 90,
+        "unitID" : 3678,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Pyrovores",
+        "listOfOptions" : [ {
+          "optionCost" : 38,
+          "listOfRestrictions" : null,
+          "optionID" : 3758,
+          "optionName" : "Additional Pyrovore",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many Pyrovores.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3758" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 38,
+        "unitID" : 3679,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Haruspex",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 198,
+        "unitID" : 3680,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[10]Gargoyles",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 3759,
+          "optionName" : "Additional Gargoyle",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 20,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many gargoyles.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3759" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 60,
+        "unitID" : 3681,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[3]Raveners",
+        "listOfOptions" : [ {
+          "optionCost" : 23,
+          "listOfRestrictions" : null,
+          "optionID" : 3760,
+          "optionName" : "Additional Ravener",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3761,
+          "optionName" : "Rending claws",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3762,
+          "optionName" : "Spinefists",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3763,
+          "optionName" : "Deavourer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3764,
+          "optionName" : "Deathspitter",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 6,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many raveners",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3760" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 69,
+        "unitID" : 3682,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "The Red Terror",
+        "listOfOptions" : null,
+        "listOfRestrictions" : [ {
+          "listOfNamesOfUnitID" : [ "3683" ],
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You may only have one Red Terror.",
+          "nameOfCheck" : "checkUnitsInList",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "conditionalType" : "<",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 2,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 75,
+        "unitID" : 3683,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Mulcolid Spores",
+        "listOfOptions" : [ {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 3765,
+          "optionName" : "Additional Mucolid Spore",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many mucolid spores.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3765" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 20,
+        "unitID" : 3684,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "[3]Spore Mines",
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3766,
+          "optionName" : "Additional Spore Mine",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 6,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many spore mines.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3766" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 30,
+        "unitID" : 3685,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Exocrine",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 216,
+        "unitID" : 3686,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Tyrannofex",
+        "listOfOptions" : [ {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 3767,
+          "optionName" : "Acid spray",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 3768,
+          "optionName" : "Stinger salvo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 3769,
+          "optionName" : "Fleshborer hive",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 49,
+          "listOfRestrictions" : null,
+          "optionID" : 3770,
+          "optionName" : "Rupture cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3771,
+          "optionName" : "Toxic sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3772,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have a stinger salvo.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "3768" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3767", "3769", "3770" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3767", "3769", "3770" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many toxic sacs.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3771" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many adrenal glands.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3772" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 181,
+        "unitID" : 3687,
+        "autoAddDictionary" : {
+          "3767" : "1",
+          "3768" : "1"
+        }
+      }, {
+        "unitName" : "Biovores",
+        "listOfOptions" : [ {
+          "optionCost" : 36,
+          "listOfRestrictions" : null,
+          "optionID" : 3773,
+          "optionName" : "Additional Biovore",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many biovores.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3773" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 36,
+        "unitID" : 3688,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Toxicrene",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 157,
+        "unitID" : 3689,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Carnifexes",
+        "listOfOptions" : [ {
+          "optionCost" : 67,
+          "listOfRestrictions" : null,
+          "optionID" : 3774,
+          "optionName" : "Additional Carnifex",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 3775,
+          "optionName" : "Two pairs of monstrous scything talons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 3776,
+          "optionName" : "One monstrous scything talon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3777,
+          "optionName" : "$Monstrous Bio-Cannons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 3778,
+          "optionName" : "Monstrous crushing claws",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 3779,
+          "optionName" : "Toxic sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3780,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 3781,
+          "optionName" : "Bio-plasma",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3782,
+          "optionName" : "Enchanced senses",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3783,
+          "optionName" : "Monstrous acid maw",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 3784,
+          "optionName" : "Tusks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 3785,
+          "optionName" : "Threser scythe",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3786,
+          "optionName" : "Bone mace",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3787,
+          "optionName" : "Spine banks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3788,
+          "optionName" : "Spore cysts",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many carnifex.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3774" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 67,
+        "unitID" : 3690,
+        "autoAddDictionary" : {
+          "3775" : "1"
+        }
+      }, {
+        "unitName" : "Screamer-Killers",
+        "listOfOptions" : [ {
+          "optionCost" : 90,
+          "listOfRestrictions" : null,
+          "optionID" : 3789,
+          "optionName" : "Additional Screamer-Killer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3790,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3791,
+          "optionName" : "Spore cysts",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many screamer-killers",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3789" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 90,
+        "unitID" : 3691,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Thornbacks",
+        "listOfOptions" : [ {
+          "optionCost" : 70,
+          "listOfRestrictions" : null,
+          "optionID" : 3792,
+          "optionName" : "Additional Thornback",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 3793,
+          "optionName" : "Devourer with brainleech worms",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3794,
+          "optionName" : "Chitin thorns",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 3795,
+          "optionName" : "Stranglethorn cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 3796,
+          "optionName" : "Deathspitter with slimer maggots",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3797,
+          "optionName" : "Adrenal gland",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3798,
+          "optionName" : "Enchanced senses",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3799,
+          "optionName" : "Spine banks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 3800,
+          "optionName" : "Thresher scythe",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 2,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many thornbacks.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3792" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 70,
+        "unitID" : 3692,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Mawloc",
+        "listOfOptions" : [ {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3802,
+          "optionName" : "Toxin spike",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many toxin spikes.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3802" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 104,
+        "unitID" : 3693,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Trygon",
+        "listOfOptions" : [ {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3803,
+          "optionName" : "Toxinspike",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 60,
+          "listOfRestrictions" : null,
+          "optionID" : 3804,
+          "optionName" : "Three pairs of massive scything talons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3805,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 3809,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many toxinspikes.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3803" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have three pairs of massive scything talons.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "3804" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many toxin sacs.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3809" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many adrenal glands.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3805" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 108,
+        "unitID" : 3694,
+        "autoAddDictionary" : {
+          "3803" : "1",
+          "3804" : "1"
+        }
+      }, {
+        "unitName" : "Trygon Prime",
+        "listOfOptions" : [ {
+          "optionCost" : 60,
+          "listOfRestrictions" : null,
+          "optionID" : 3806,
+          "optionName" : "Three pairs of massive scything talons.",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3807,
+          "optionName" : "Toxinspike",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 3808,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3810,
+          "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have three massive scything talons.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "3806" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many toxin spikes.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3807" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many toxic sacs.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3808" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many adrenal glands.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3810" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 138,
+        "unitID" : 3695,
+        "autoAddDictionary" : {
+          "3806" : "1"
+        }
+      }, {
+        "unitName" : "Tyrannocyte",
+        "listOfOptions" : [ {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 3811,
+          "optionName" : "Five death spitters",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 50,
+          "listOfRestrictions" : null,
+          "optionID" : 3813,
+          "optionName" : "Five barbed stranglers",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 100,
+          "listOfRestrictions" : null,
+          "optionID" : 3814,
+          "optionName" : "Five venom cannons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3811", "3813", "3814" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3811", "3813", "3814" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Dedicated Transport",
+        "unitCost" : 98,
+        "unitID" : 3696,
+        "autoAddDictionary" : {
+          "3811" : "1"
+        }
+      }, {
+        "unitName" : "Harpy",
+        "listOfOptions" : [ {
+          "optionCost" : 50,
+          "listOfRestrictions" : null,
+          "optionID" : 3815,
+          "optionName" : "Two stranglethorn cannons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 50,
+          "listOfRestrictions" : null,
+          "optionID" : 3816,
+          "optionName" : "Two heavy venom cannons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 3817,
+          "optionName" : "Stinger salvo",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3815", "3816" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3815", "3816" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many stonger slavos.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3817" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Flyers",
+        "unitCost" : 121,
+        "unitID" : 3697,
+        "autoAddDictionary" : {
+          "3815" : "1",
+          "3817" : "1"
+        }
+      }, {
+        "unitName" : "Hive Crone",
+        "listOfOptions" : [ {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 3818,
+          "optionName" : "Stinger salvos",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You must have one stinger salvo.",
+          "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "optionQuantity",
+          "listOfNamesOfUpgradeID" : [ "3818" ],
+          "conditionalType" : "==",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : 1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : null
+        } ],
+        "unitCategory" : "Flyers",
+        "unitCost" : 153,
+        "unitID" : 3698,
+        "autoAddDictionary" : {
+          "3818" : "1"
+        }
+      }, {
+        "unitName" : "Sporocyst",
+        "listOfOptions" : [ {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 3819,
+          "optionName" : "Five death spitters",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 50,
+          "listOfRestrictions" : null,
+          "optionID" : 3820,
+          "optionName" : "Five barbed stranglers",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 100,
+          "listOfRestrictions" : null,
+          "optionID" : 3821,
+          "optionName" : "Five venom cannons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : [ {
+          "numberOfTimesNeededToBeFound" : 1,
+          "maxAllowed" : -1,
+          "multiplier" : -1,
+          "errorMessage" : "You don't have enough weapons.",
+          "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3819", "3820", "3821" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        }, {
+          "numberOfTimesNeededToBeFound" : -1,
+          "maxAllowed" : 1,
+          "multiplier" : -1,
+          "errorMessage" : "You have too many weapons.",
+          "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
+          "globalProperty" : "",
+          "nameOfUpgradeProperty" : "",
+          "listOfNamesOfUpgradeID" : [ "3819", "3820", "3821" ],
+          "conditionalType" : "",
+          "upgradeID" : -1,
+          "nameOfUnitProperty" : "",
+          "additionalRestrictions" : null,
+          "numberNeeded" : -1,
+          "unitID" : -1,
+          "startingModels" : -1,
+          "nameOfCompareUpgradeProperty" : ""
+        } ],
+        "unitCategory" : "Fortification",
+        "unitCost" : 79,
+        "unitID" : 3699,
+        "autoAddDictionary" : {
+          "3819" : "1"
+        }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3540,
+          "optionName" : "Scything Talons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 3551,
+          "optionName" : "Spinefists",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3633,
+          "optionName" : "Deathspitter",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Basic Bio-Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10,
+          "listOfRestrictions" : null,
+          "optionID" : 3648,
+          "optionName" : "Barbed strangler",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 3649,
+          "optionName" : "Venom cannon",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Basic Bio-Cannons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3650,
+          "optionName" : "Rending claws",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3651,
+          "optionName" : "Boneswords",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 3652,
+          "optionName" : "Lashwhip and bonesword",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Melee Bio-Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3653,
+          "optionName" : "Monstrous rending claws",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
+          "optionID" : 3654,
+          "optionName" : "Monstrous boneswords",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 3655,
+          "optionName" : "Lash whip and monstrous bonesword",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Monstrous Bio-Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 3656,
+          "optionName" : "Two deathspitters with slimer maggots",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 3657,
+          "optionName" : "Two devourers with brainleech worms",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 3658,
+          "optionName" : "Stranglethron cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 3659,
+          "optionName" : "Heavy venom cannon",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Monstrous Bio-Cannons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3645,
+          "optionName" : "Scything Talons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3646,
+          "optionName" : "Spinefists",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 3647,
+          "optionName" : "Deathspitter",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Basic Bio-Weapons Termagants"
+      } ],
+      "armyName" : "Tyranids"
+    } ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+  } ]
+}

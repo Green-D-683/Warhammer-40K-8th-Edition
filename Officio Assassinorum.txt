@@ -1,0 +1,44 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40K 8th Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Vindicare Assassin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 90,
+        "unitID" : 4156,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Callidus Assassin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 80,
+        "unitID" : 4157,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Eversor Assassin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 70,
+        "unitID" : 4158,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Culexus Assassin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 85,
+        "unitID" : 4159,
+        "autoAddDictionary" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Officio Assassinorum"
+    } ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+  } ]
+}
