@@ -1,0 +1,128 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40K 8th Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Primaris Psyker",
+        "listOfOptions" : [ {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 4392,
+          "optionName" : "Force stave",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 28,
+        "unitID" : 4385,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Wyrdvane Psykers",
+        "listOfOptions" : [ {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 4393,
+          "optionName" : "Additional Wyrdvane Psyker",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 24,
+        "unitID" : 4386,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Astropath",
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 4394,
+          "optionName" : "Telepathica Stave",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4395,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 15,
+        "unitID" : 4387,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Prosecutors",
+        "listOfOptions" : [ {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 4396,
+          "optionName" : "Additional Prosecutor",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 60,
+        "unitID" : 4388,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Vigilators",
+        "listOfOptions" : [ {
+          "optionCost" : 11,
+          "listOfRestrictions" : null,
+          "optionID" : 4397,
+          "optionName" : "Additional Vigilator",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 55,
+        "unitID" : 4389,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Witchseekers",
+        "listOfOptions" : [ {
+          "optionCost" : 11,
+          "listOfRestrictions" : null,
+          "optionID" : 4398,
+          "optionName" : "Additional Witchseeker",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 4399,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 55,
+        "unitID" : 4390,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Null-Maiden Rhino",
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 4400,
+          "optionName" : "Storm bolter",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 4401,
+          "optionName" : "Hunter-killer missile",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 70,
+        "unitID" : 4391,
+        "autoAddDictionary" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Adeptus Astra Telepathica"
+    } ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+  } ]
+}
