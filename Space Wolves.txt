@@ -217,7 +217,7 @@
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 4421,
-          "optionName" : "Runic Axe",
+          "optionName" : "Runic axe",
           "autoAddDictionary" : { }
         }, {
           "optionCost" : 14,
