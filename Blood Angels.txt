@@ -6924,7 +6924,8 @@
         } ],
         "equipmentName" : "$Terminator Melee Weapons Characters"
       } ],
-      "armyName" : "Blood Angels"
+      "armyName" : "Blood Angels",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

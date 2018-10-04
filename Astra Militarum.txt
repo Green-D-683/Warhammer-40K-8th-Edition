@@ -5950,7 +5950,8 @@
         } ],
         "equipmentName" : "$Melee Weapons"
       } ],
-      "armyName" : "Astra Militarum"
+      "armyName" : "Astra Militarum",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

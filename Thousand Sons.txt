@@ -1862,7 +1862,8 @@
         "autoAddDictionary" : { }
       } ],
       "listOfEquipmentOptions" : null,
-      "armyName" : "Thousand Sons"
+      "armyName" : "Thousand Sons",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

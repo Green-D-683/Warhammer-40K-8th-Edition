@@ -3645,7 +3645,8 @@
         } ],
         "equipmentName" : "$Chaos Icon"
       } ],
-      "armyName" : "Chaos Space Marines"
+      "armyName" : "Chaos Space Marines",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

@@ -3376,7 +3376,8 @@
         } ],
         "equipmentName" : "$Vanguard Equipment Characters"
       } ],
-      "armyName" : "Deathwatch"
+      "armyName" : "Deathwatch",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

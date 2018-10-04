@@ -2582,7 +2582,8 @@
         } ],
         "equipmentName" : "$Special Weapons Terminators"
       } ],
-      "armyName" : "Grey Knights"
+      "armyName" : "Grey Knights",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

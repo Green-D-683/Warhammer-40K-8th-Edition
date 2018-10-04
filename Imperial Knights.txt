@@ -1144,7 +1144,8 @@
         } ],
         "equipmentName" : "$Carapace Weapons"
       } ],
-      "armyName" : "Imperial Knights"
+      "armyName" : "Imperial Knights",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

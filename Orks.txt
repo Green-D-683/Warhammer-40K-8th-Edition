@@ -40,7 +40,10 @@
         "unitCategory" : "HQ",
         "unitCost" : 55,
         "unitID" : 3986,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4161" : "1",
+          "4160" : "1"
+        }
       }, {
         "unitName" : "Warboss In Mega Armour",
         "listOfOptions" : [ {
@@ -72,7 +75,10 @@
         "unitCategory" : "HQ",
         "unitCost" : 107,
         "unitID" : 3987,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4168" : "1",
+          "4169" : "1"
+        }
       }, {
         "unitName" : "Warboss On Warbike",
         "listOfOptions" : [ {
@@ -104,7 +110,9 @@
         "unitCategory" : "HQ",
         "unitCost" : 86,
         "unitID" : 3988,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4170" : "1"
+        }
       }, {
         "unitName" : "Weirdboy",
         "listOfOptions" : null,
@@ -206,7 +214,10 @@
         "unitCategory" : "HQ",
         "unitCost" : 77,
         "unitID" : 3991,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4180" : "1",
+          "4181" : "1"
+        }
       }, {
         "unitName" : "Big Mek On Warbike",
         "listOfOptions" : [ {
@@ -247,13 +258,7 @@
         "autoAddDictionary" : { }
       }, {
         "unitName" : "Ghazghkull Thraka",
-        "listOfOptions" : [ {
-          "optionCost" : 14,
-          "listOfRestrictions" : null,
-          "optionID" : 4192,
-          "optionName" : "Twin big shoota",
-          "autoAddDictionary" : { }
-        } ],
+        "listOfOptions" : null,
         "listOfRestrictions" : [ {
           "listOfNamesOfUnitID" : [ "3993" ],
           "numberOfTimesNeededToBeFound" : -1,
@@ -351,7 +356,9 @@
         "unitCategory" : "Elites",
         "unitCost" : 40,
         "unitID" : 3998,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4196" : "1"
+        }
       }, {
         "unitName" : "Painboy On Warbike",
         "listOfOptions" : [ {
@@ -371,7 +378,9 @@
         "unitCategory" : "Elites",
         "unitCost" : 90,
         "unitID" : 3999,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4200" : "1"
+        }
       }, {
         "unitName" : "Mad Dok Grotsnik",
         "listOfOptions" : null,
@@ -381,7 +390,7 @@
         "unitID" : 4000,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Boyz",
+        "unitName" : "[10]Boyz",
         "listOfOptions" : [ {
           "optionCost" : 6,
           "listOfRestrictions" : null,
@@ -406,6 +415,12 @@
           "optionID" : 4204,
           "optionName" : "$'Eavy Weapons",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4759,
+          "optionName" : "Slugga and shoota",
+          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Troops",
@@ -413,7 +428,7 @@
         "unitID" : 4001,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Gretchin",
+        "unitName" : "[10]Gretchin",
         "listOfOptions" : [ {
           "optionCost" : 3,
           "listOfRestrictions" : null,
@@ -453,7 +468,7 @@
         "unitID" : 4003,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Burna Boyz",
+        "unitName" : "[5]Burna Boyz",
         "listOfOptions" : [ {
           "optionCost" : 14,
           "listOfRestrictions" : null,
@@ -472,6 +487,12 @@
           "optionID" : 3632,
           "optionName" : "$Souped-Up Weapons",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4760,
+          "optionName" : "Spanner",
+          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -479,13 +500,15 @@
         "unitID" : 4004,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Tankbustas",
+        "unitName" : "[5]Tankbustas",
         "listOfOptions" : [ {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3634,
           "optionName" : "Additional Tankbusta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "3635" : "1"
+          }
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
@@ -521,9 +544,11 @@
         "unitCategory" : "Elites",
         "unitCost" : 25,
         "unitID" : 4005,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "3635" : "5"
+        }
       }, {
-        "unitName" : "Nobz",
+        "unitName" : "[3]Nobz",
         "listOfOptions" : [ {
           "optionCost" : 17,
           "listOfRestrictions" : null,
@@ -585,9 +610,11 @@
         "unitCategory" : "Elites",
         "unitCost" : 75,
         "unitID" : 4007,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "3922" : "1"
+        }
       }, {
-        "unitName" : "Nobz On Warbikes",
+        "unitName" : "[3]Nobz On Warbikes",
         "listOfOptions" : [ {
           "optionCost" : 42,
           "listOfRestrictions" : null,
@@ -613,13 +640,16 @@
         "unitID" : 4008,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Meganobz",
+        "unitName" : "[3]Meganobz",
         "listOfOptions" : [ {
           "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 4048,
           "optionName" : "Additional Meganob",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4130" : "1",
+            "4166" : "1"
+          }
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
@@ -655,9 +685,12 @@
         "unitCategory" : "Elites",
         "unitCost" : 75,
         "unitID" : 4009,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4130" : "3",
+          "4166" : "3"
+        }
       }, {
-        "unitName" : "Kommandos",
+        "unitName" : "[5]Kommandos",
         "listOfOptions" : [ {
           "optionCost" : 9,
           "listOfRestrictions" : null,
@@ -719,9 +752,11 @@
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 76,
         "unitID" : 4011,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4218" : "1"
+        }
       }, {
-        "unitName" : "Stormboyz",
+        "unitName" : "[5]Stormboyz",
         "listOfOptions" : [ {
           "optionCost" : 8,
           "listOfRestrictions" : null,
@@ -747,7 +782,9 @@
           "listOfRestrictions" : null,
           "optionID" : 4223,
           "optionName" : "Additional Deffkopta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4224" : "1"
+          }
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
@@ -783,7 +820,9 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 55,
         "unitID" : 4013,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4224" : "1"
+        }
       }, {
         "unitName" : "Dakkajet",
         "listOfOptions" : [ {
@@ -797,7 +836,9 @@
         "unitCategory" : "Flyers",
         "unitCost" : 88,
         "unitID" : 4014,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4229" : "1"
+        }
       }, {
         "unitName" : "Burna-Bommer",
         "listOfOptions" : [ {
@@ -823,7 +864,10 @@
         "unitCategory" : "Flyers",
         "unitCost" : 102,
         "unitID" : 4015,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4230" : "1",
+          "4231" : "1"
+        }
       }, {
         "unitName" : "Blitza-Bommer",
         "listOfOptions" : [ {
@@ -843,7 +887,10 @@
         "unitCategory" : "Flyers",
         "unitCost" : 108,
         "unitID" : 4016,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4233" : "1",
+          "4234" : "1"
+        }
       }, {
         "unitName" : "Wazbom Blastajet",
         "listOfOptions" : [ {
@@ -887,9 +934,13 @@
         "unitCategory" : "Flyers",
         "unitCost" : 99,
         "unitID" : 4017,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4236" : "1",
+          "4237" : "1",
+          "4238" : "1"
+        }
       }, {
-        "unitName" : "Warbikers",
+        "unitName" : "[3]Warbikers",
         "listOfOptions" : [ {
           "optionCost" : 27,
           "listOfRestrictions" : null,
@@ -915,7 +966,9 @@
           "listOfRestrictions" : null,
           "optionID" : 4244,
           "optionName" : "Additional Wartrakks",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4245" : "1"
+          }
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
@@ -933,7 +986,9 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 49,
         "unitID" : 4019,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4245" : "1"
+        }
       }, {
         "unitName" : "Skorchas",
         "listOfOptions" : [ {
@@ -941,7 +996,9 @@
           "listOfRestrictions" : null,
           "optionID" : 4235,
           "optionName" : "Additional Skorcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4247" : "1"
+          }
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
@@ -953,7 +1010,9 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 49,
         "unitID" : 4020,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4247" : "1"
+        }
       }, {
         "unitName" : "Warbuggies",
         "listOfOptions" : [ {
@@ -961,7 +1020,9 @@
           "listOfRestrictions" : null,
           "optionID" : 4248,
           "optionName" : "Additional Warbuggie",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4249" : "1"
+          }
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
@@ -979,7 +1040,9 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 44,
         "unitID" : 4021,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4249" : "1"
+        }
       }, {
         "unitName" : "Big Gunz",
         "listOfOptions" : [ {
@@ -993,7 +1056,10 @@
           "listOfRestrictions" : null,
           "optionID" : 4252,
           "optionName" : "Additional Big Gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4251" : "2",
+            "4253" : "1"
+          }
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
@@ -1017,7 +1083,10 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 8,
         "unitID" : 4022,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4251" : "2",
+          "4253" : "1"
+        }
       }, {
         "unitName" : "Mek Gunz",
         "listOfOptions" : [ {
@@ -1031,7 +1100,10 @@
           "listOfRestrictions" : null,
           "optionID" : 4257,
           "optionName" : "Additional Mek Gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4256" : "5",
+            "4258" : "1"
+          }
         }, {
           "optionCost" : 32,
           "listOfRestrictions" : null,
@@ -1061,7 +1133,10 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 15,
         "unitID" : 4023,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4256" : "5",
+          "4258" : "1"
+        }
       }, {
         "unitName" : "Battlewaggon",
         "listOfOptions" : [ {
@@ -1118,6 +1193,12 @@
           "optionID" : 4270,
           "optionName" : "Wreckin' Ball",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4761,
+          "optionName" : "'Ard case",
+          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
@@ -1131,7 +1212,10 @@
           "listOfRestrictions" : null,
           "optionID" : 4271,
           "optionName" : "Additional Deff Dread",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4272" : "1",
+            "4273" : "1"
+          }
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
@@ -1173,7 +1257,10 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 74,
         "unitID" : 4025,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4272" : "1",
+          "4273" : "1"
+        }
       }, {
         "unitName" : "Killa Kans",
         "listOfOptions" : [ {
@@ -1181,7 +1268,9 @@
           "listOfRestrictions" : null,
           "optionID" : 4278,
           "optionName" : "Additional Killa Kan",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4279" : "1"
+          }
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
@@ -1217,7 +1306,9 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 51,
         "unitID" : 4026,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4279" : "1"
+        }
       }, {
         "unitName" : "Morkanaut",
         "listOfOptions" : [ {
@@ -1255,7 +1346,12 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 270,
         "unitID" : 4027,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4284" : "1",
+          "4285" : "1",
+          "4286" : "1",
+          "4287" : "1"
+        }
       }, {
         "unitName" : "Gorkanaut",
         "listOfOptions" : [ {
@@ -1281,9 +1377,13 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 295,
         "unitID" : 4028,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4289" : "1",
+          "4290" : "1",
+          "4291" : "1"
+        }
       }, {
-        "unitName" : "Lootas",
+        "unitName" : "[5]Lootas",
         "listOfOptions" : [ {
           "optionCost" : 17,
           "listOfRestrictions" : null,
@@ -1302,6 +1402,12 @@
           "optionID" : 4294,
           "optionName" : "$Souped-Up Weapons",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4762,
+          "optionName" : "Spanners",
+          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
@@ -1309,7 +1415,7 @@
         "unitID" : 4029,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Flash Gitz",
+        "unitName" : "[5]Flash Gitz",
         "listOfOptions" : [ {
           "optionCost" : 27,
           "listOfRestrictions" : null,
@@ -1321,6 +1427,18 @@
           "listOfRestrictions" : null,
           "optionID" : 4296,
           "optionName" : "Ammo runt",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4763,
+          "optionName" : "Choppa",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4764,
+          "optionName" : "Slugga",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
@@ -1354,12 +1472,23 @@
           "optionID" : 4300,
           "optionName" : "Skorcha",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4765,
+          "optionName" : "Additional supa-rokkits",
+          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Lords of War",
         "unitCost" : 900,
         "unitID" : 4031,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4297" : "1",
+          "4298" : "1",
+          "4299" : "1",
+          "4300" : "1"
+        }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -1452,7 +1581,8 @@
         } ],
         "equipmentName" : "$Choppy Weapons"
       } ],
-      "armyName" : "Orks"
+      "armyName" : "Orks",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

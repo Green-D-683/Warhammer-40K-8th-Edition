@@ -5,7 +5,13 @@
       "listOfRestrictions" : null,
       "listOfUnits" : [ {
         "unitName" : "Celestine",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 50,
+          "listOfRestrictions" : null,
+          "optionID" : 4766,
+          "optionName" : "Geminae Superia",
+          "autoAddDictionary" : { }
+        } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
         "unitCost" : 150,
@@ -36,6 +42,12 @@
           "listOfRestrictions" : null,
           "optionID" : 4341,
           "optionName" : "Eviscerator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4767,
+          "optionName" : "Boltgun",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
@@ -68,7 +80,7 @@
         "unitID" : 4145,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Battle Sisters Squad",
+        "unitName" : "[5]Battle Sisters Squad",
         "listOfOptions" : [ {
           "optionCost" : 9,
           "listOfRestrictions" : null,
@@ -112,7 +124,7 @@
         "unitID" : 4146,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Seraphim Squad",
+        "unitName" : "[5]Seraphim Squad",
         "listOfOptions" : [ {
           "optionCost" : 11,
           "listOfRestrictions" : null,
@@ -156,7 +168,7 @@
         "unitID" : 4147,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Celestian Squad",
+        "unitName" : "[5]Celestian Squad",
         "listOfOptions" : [ {
           "optionCost" : 11,
           "listOfRestrictions" : null,
@@ -200,7 +212,7 @@
         "unitID" : 4148,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Mistress Of  Repentance",
+        "unitName" : "Mistress Of Repentance",
         "listOfOptions" : [ {
           "optionCost" : 3,
           "listOfRestrictions" : null,
@@ -212,14 +224,16 @@
         "unitCategory" : "Elites",
         "unitCost" : 35,
         "unitID" : 4149,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4360" : "1"
+        }
       }, {
-        "unitName" : "Repentia Squad",
+        "unitName" : "[3]Repentia Squad",
         "listOfOptions" : [ {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 4361,
-          "optionName" : "Additional Repentia",
+          "optionName" : "Additional Sister Repentia",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
@@ -228,7 +242,7 @@
         "unitID" : 4150,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Retributor Squad",
+        "unitName" : "[5]Retributor Squad",
         "listOfOptions" : [ {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -266,7 +280,7 @@
         "unitID" : 4151,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Dominion Squad",
+        "unitName" : "[5]Dominion Squad",
         "listOfOptions" : [ {
           "optionCost" : 10,
           "listOfRestrictions" : null,
@@ -322,7 +336,9 @@
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 73,
         "unitID" : 4153,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4376" : "1"
+        }
       }, {
         "unitName" : "Immolator",
         "listOfOptions" : [ {
@@ -360,7 +376,9 @@
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 68,
         "unitID" : 4154,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4378" : "1"
+        }
       }, {
         "unitName" : "Exorcist",
         "listOfOptions" : [ {
@@ -440,13 +458,15 @@
         "unitID" : 4321,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Crusaders",
+        "unitName" : "[2]Crusaders",
         "listOfOptions" : [ {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 4333,
           "optionName" : "Additional Crusader",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4334" : "1"
+          }
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
@@ -458,9 +478,11 @@
         "unitCategory" : "Elites",
         "unitCost" : 22,
         "unitID" : 4322,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4334" : "2"
+        }
       }, {
-        "unitName" : "Death Cult Assassins",
+        "unitName" : "[2]Death Cult Assassins",
         "listOfOptions" : [ {
           "optionCost" : 17,
           "listOfRestrictions" : null,
@@ -474,7 +496,7 @@
         "unitID" : 4323,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Arco-flagellants",
+        "unitName" : "[3]Arco-flagellants",
         "listOfOptions" : [ {
           "optionCost" : 15,
           "listOfRestrictions" : null,
@@ -494,13 +516,31 @@
           "listOfRestrictions" : null,
           "optionID" : 4337,
           "optionName" : "Additional Penitent Engine",
+          "autoAddDictionary" : {
+            "4192" : "1",
+            "4758" : "1"
+          }
+        }, {
+          "optionCost" : 40,
+          "listOfRestrictions" : null,
+          "optionID" : 4192,
+          "optionName" : "Penitent buzz-blades",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 34,
+          "listOfRestrictions" : null,
+          "optionID" : 4758,
+          "optionName" : "Two heavy flamers",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
         "unitCost" : 55,
         "unitID" : 4325,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4192" : "1",
+          "4758" : "1"
+        }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -632,7 +672,8 @@
         } ],
         "equipmentName" : "$Pistols"
       } ],
-      "armyName" : "Adeptus Ministorum"
+      "armyName" : "Adeptus Ministorum",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

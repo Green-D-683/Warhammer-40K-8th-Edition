@@ -140,12 +140,6 @@
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { }
         }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4412,
-          "optionName" : "$Combi-Weapons",
-          "autoAddDictionary" : { }
-        }, {
           "optionCost" : 24,
           "listOfRestrictions" : null,
           "optionID" : 4413,
@@ -197,12 +191,6 @@
           "optionID" : 4419,
           "optionName" : "$Combi-Weapons",
           "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 2,
-          "listOfRestrictions" : null,
-          "optionID" : 4420,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
@@ -211,62 +199,6 @@
         "autoAddDictionary" : {
           "4414" : "1"
         }
-      }, {
-        "unitName" : "Rune Priest On Bike",
-        "listOfOptions" : [ {
-          "optionCost" : 16,
-          "listOfRestrictions" : null,
-          "optionID" : 4421,
-          "optionName" : "Runic axe",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 14,
-          "listOfRestrictions" : null,
-          "optionID" : 4422,
-          "optionName" : "Runic stave",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 12,
-          "listOfRestrictions" : null,
-          "optionID" : 4423,
-          "optionName" : "Runic sword",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 2,
-          "listOfRestrictions" : null,
-          "optionID" : 4424,
-          "optionName" : "Twin boltgun",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 26,
-          "listOfRestrictions" : null,
-          "optionID" : 4425,
-          "optionName" : "Psychoc hood",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 7,
-          "listOfRestrictions" : null,
-          "optionID" : 4426,
-          "optionName" : "Runic armour",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 7,
-          "listOfRestrictions" : null,
-          "optionID" : 4427,
-          "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4428,
-          "optionName" : "$Combi-Weapons",
-          "autoAddDictionary" : { }
-        } ],
-        "listOfRestrictions" : null,
-        "unitCategory" : "HQ",
-        "unitCost" : 109,
-        "unitID" : 4104,
-        "autoAddDictionary" : { }
       }, {
         "unitName" : "Njal Stormcaller",
         "listOfOptions" : null,
@@ -332,32 +264,6 @@
           "4432" : "1"
         }
       }, {
-        "unitName" : "Wolf Priest On Bike",
-        "listOfOptions" : [ {
-          "optionCost" : 2,
-          "listOfRestrictions" : null,
-          "optionID" : 4434,
-          "optionName" : "Twin boltgun",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 7,
-          "listOfRestrictions" : null,
-          "optionID" : 4435,
-          "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4436,
-          "optionName" : "$Combi-Weapons",
-          "autoAddDictionary" : { }
-        } ],
-        "listOfRestrictions" : null,
-        "unitCategory" : "HQ",
-        "unitCost" : 135,
-        "unitID" : 4109,
-        "autoAddDictionary" : { }
-      }, {
         "unitName" : "Ulrik The Slayer",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
@@ -408,50 +314,6 @@
         "unitCategory" : "HQ",
         "unitCost" : 60,
         "unitID" : 4111,
-        "autoAddDictionary" : { }
-      }, {
-        "unitName" : "Wolf Guard Battle Leader On Bike",
-        "listOfOptions" : [ {
-          "optionCost" : 2,
-          "listOfRestrictions" : null,
-          "optionID" : 4441,
-          "optionName" : "Twin boltgun",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4442,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 7,
-          "listOfRestrictions" : null,
-          "optionID" : 4443,
-          "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 15,
-          "listOfRestrictions" : null,
-          "optionID" : 4444,
-          "optionName" : "Storm shield",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4445,
-          "optionName" : "$Combi-Weapons",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4446,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
-        } ],
-        "listOfRestrictions" : null,
-        "unitCategory" : "HQ",
-        "unitCost" : 85,
-        "unitID" : 4112,
         "autoAddDictionary" : { }
       }, {
         "unitName" : "Wolf Guard Battle Leader In Terminator Armour",
@@ -541,12 +403,6 @@
           "optionName" : "Assault cannon",
           "autoAddDictionary" : { }
         }, {
-          "optionCost" : 17,
-          "listOfRestrictions" : null,
-          "optionID" : 4457,
-          "optionName" : "Heavy flamer",
-          "autoAddDictionary" : { }
-        }, {
           "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 4458,
@@ -609,7 +465,7 @@
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 4466,
-          "optionName" : "Plasam pistol",
+          "optionName" : "Plasma pistol",
           "autoAddDictionary" : { }
         }, {
           "optionCost" : 5,
@@ -800,83 +656,13 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 58,
+        "unitCost" : 45,
         "unitID" : 4119,
         "autoAddDictionary" : {
           "4488" : "1",
           "4489" : "1",
           "4490" : "1"
         }
-      }, {
-        "unitName" : "Iron Priest On Bike",
-        "listOfOptions" : [ {
-          "optionCost" : 25,
-          "listOfRestrictions" : null,
-          "optionID" : 4491,
-          "optionName" : "Thunder hammer",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 12,
-          "listOfRestrictions" : null,
-          "optionID" : 4492,
-          "optionName" : "Servo-arm",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 2,
-          "listOfRestrictions" : null,
-          "optionID" : 4493,
-          "optionName" : "Twin boltguns",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 30,
-          "listOfRestrictions" : null,
-          "optionID" : 4494,
-          "optionName" : "Tempest hammer",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 15,
-          "listOfRestrictions" : null,
-          "optionID" : 4495,
-          "optionName" : "Helfrost pistol",
-          "autoAddDictionary" : { }
-        } ],
-        "listOfRestrictions" : null,
-        "unitCategory" : "HQ",
-        "unitCost" : 65,
-        "unitID" : 4120,
-        "autoAddDictionary" : { }
-      }, {
-        "unitName" : "Iron Priest On Thunderwolf",
-        "listOfOptions" : [ {
-          "optionCost" : 25,
-          "listOfRestrictions" : null,
-          "optionID" : 4496,
-          "optionName" : "Thunder hammer",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 12,
-          "listOfRestrictions" : null,
-          "optionID" : 4497,
-          "optionName" : "Servo-arm",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 30,
-          "listOfRestrictions" : null,
-          "optionID" : 4498,
-          "optionName" : "Tempest hammer",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 15,
-          "listOfRestrictions" : null,
-          "optionID" : 4499,
-          "optionName" : "Helfrost pistol",
-          "autoAddDictionary" : { }
-        } ],
-        "listOfRestrictions" : null,
-        "unitCategory" : "HQ",
-        "unitCost" : 80,
-        "unitID" : 4121,
-        "autoAddDictionary" : { }
       }, {
         "unitName" : "Cyberwolves",
         "listOfOptions" : [ {
@@ -1036,77 +822,7 @@
           "4514" : "1"
         }
       }, {
-        "unitName" : "Lone Wolf",
-        "listOfOptions" : [ {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4518,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 15,
-          "listOfRestrictions" : null,
-          "optionID" : 4519,
-          "optionName" : "Storm shield",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 7,
-          "listOfRestrictions" : null,
-          "optionID" : 4520,
-          "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4521,
-          "optionName" : "$Combi-Weapons",
-          "autoAddDictionary" : { }
-        } ],
-        "listOfRestrictions" : null,
-        "unitCategory" : "Elites",
-        "unitCost" : 75,
-        "unitID" : 4125,
-        "autoAddDictionary" : { }
-      }, {
-        "unitName" : "Lone Wolf In Terminator Armour",
-        "listOfOptions" : [ {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4522,
-          "optionName" : "$Combi-Weapons",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4523,
-          "optionName" : "$Terminator Melee Weapons",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 15,
-          "listOfRestrictions" : null,
-          "optionID" : 4524,
-          "optionName" : "Storm shield",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 4,
-          "listOfRestrictions" : null,
-          "optionID" : 4525,
-          "optionName" : "Power sword",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 2,
-          "listOfRestrictions" : null,
-          "optionID" : 4526,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { }
-        } ],
-        "listOfRestrictions" : null,
-        "unitCategory" : "Elites",
-        "unitCost" : 115,
-        "unitID" : 4126,
-        "autoAddDictionary" : { }
-      }, {
-        "unitName" : "Muderfang",
+        "unitName" : "Murderfang",
         "listOfOptions" : [ {
           "optionCost" : 2,
           "listOfRestrictions" : null,
@@ -1122,12 +838,9 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 200,
+        "unitCost" : 170,
         "unitID" : 4127,
-        "autoAddDictionary" : {
-          "4527" : "1",
-          "4528" : "1"
-        }
+        "autoAddDictionary" : { }
       }, {
         "unitName" : "[5]Wolf Guard",
         "listOfOptions" : [ {
@@ -1166,61 +879,11 @@
           "optionID" : 4534,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 16,
-          "listOfRestrictions" : null,
-          "optionID" : 4875,
-          "optionName" : "Wolf Guard Pack Leader",
-          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 75,
         "unitID" : 4128,
-        "autoAddDictionary" : { }
-      }, {
-        "unitName" : "Wolf Guard On Bikes",
-        "listOfOptions" : [ {
-          "optionCost" : 34,
-          "listOfRestrictions" : null,
-          "optionID" : 4535,
-          "optionName" : "Additional Wolf Guard on Bike",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 2,
-          "listOfRestrictions" : null,
-          "optionID" : 4536,
-          "optionName" : "Twin boltgun",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4537,
-          "optionName" : "$Combi-Weapons",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 0,
-          "listOfRestrictions" : null,
-          "optionID" : 4538,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 5,
-          "listOfRestrictions" : null,
-          "optionID" : 4539,
-          "optionName" : "Storm shield",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 7,
-          "listOfRestrictions" : null,
-          "optionID" : 4540,
-          "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { }
-        } ],
-        "listOfRestrictions" : null,
-        "unitCategory" : "Elites",
-        "unitCost" : 170,
-        "unitID" : 4129,
         "autoAddDictionary" : { }
       }, {
         "unitName" : "Arjac Rockfist",
@@ -1282,12 +945,6 @@
           "listOfRestrictions" : null,
           "optionID" : 4551,
           "optionName" : "$Terminator Heavy Weapons",
-          "autoAddDictionary" : { }
-        }, {
-          "optionCost" : 26,
-          "listOfRestrictions" : null,
-          "optionID" : 4874,
-          "optionName" : "Wolf Guard Terminator Pack Leader",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
@@ -1821,7 +1478,9 @@
         "unitCategory" : "HQ",
         "unitCost" : 74,
         "unitID" : 4782,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4785" : "1"
+        }
       }, {
         "unitName" : "Wolf Lord In Terminator Armour",
         "listOfOptions" : [ {
@@ -2020,6 +1679,12 @@
           "listOfRestrictions" : null,
           "optionID" : 4839,
           "optionName" : "Chainsword",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 18,
+          "listOfRestrictions" : null,
+          "optionID" : 4104,
+          "optionName" : "Additional Intercesor",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
@@ -2221,12 +1886,19 @@
           "optionID" : 4873,
           "optionName" : "Master-crafted power sword",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 4121,
+          "optionName" : "Combat shield",
+          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 40,
         "unitID" : 4871,
         "autoAddDictionary" : {
+          "4121" : "1",
           "4873" : "1"
         }
       }, {
@@ -2471,6 +2143,12 @@
           "optionID" : 4914,
           "optionName" : "Fenrisian great axe and blizzard shield",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 45,
+          "listOfRestrictions" : null,
+          "optionID" : 4109,
+          "optionName" : "Great wolf claw",
+          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -2633,13 +2311,21 @@
           "optionID" : 4946,
           "optionName" : "Two plasma exterminators",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 25,
+          "listOfRestrictions" : null,
+          "optionID" : 4112,
+          "optionName" : "Additional Inceptor",
+          "autoAddDictionary" : {
+            "4945" : "1"
+          }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
         "unitCost" : 75,
         "unitID" : 4944,
         "autoAddDictionary" : {
-          "4945" : "1"
+          "4945" : "3"
         }
       }, {
         "unitName" : "[3]Wolf Scout Bikers",
@@ -3245,6 +2931,44 @@
           "5039" : "1",
           "5040" : "1"
         }
+      }, {
+        "unitName" : "Wolf Lord On Thunderwolf",
+        "listOfOptions" : [ {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 7267,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 7377,
+          "optionName" : "Storm shield",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7379,
+          "optionName" : "$Melee Weapons Characters",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7542,
+          "optionName" : "Boltgun",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7610,
+          "optionName" : "$Combi-Weapons",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 118,
+        "unitID" : 6960,
+        "autoAddDictionary" : { }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -3676,7 +3400,8 @@
         } ],
         "equipmentName" : "$Dreadnought Heavy Weapons"
       } ],
-      "armyName" : "Space Wolves"
+      "armyName" : "Space Wolves",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

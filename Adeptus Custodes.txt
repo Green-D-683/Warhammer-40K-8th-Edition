@@ -765,7 +765,8 @@
         }
       } ],
       "listOfEquipmentOptions" : null,
-      "armyName" : "Adeptus Custodes"
+      "armyName" : "Adeptus Custodes",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

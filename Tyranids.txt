@@ -1411,7 +1411,9 @@
           "listOfRestrictions" : null,
           "optionID" : 3774,
           "optionName" : "Additional Carnifex",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "3775" : "1"
+          }
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
@@ -1422,7 +1424,7 @@
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3776,
-          "optionName" : "One monstrous scything talon",
+          "optionName" : "Monstrous scything talona",
           "autoAddDictionary" : { }
         }, {
           "optionCost" : 0,
@@ -1496,6 +1498,12 @@
           "optionID" : 3788,
           "optionName" : "Spore cysts",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 3535,
+          "optionName" : "Chitin thorns",
+          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1528,7 +1536,9 @@
           "listOfRestrictions" : null,
           "optionID" : 3789,
           "optionName" : "Additional Screamer-Killer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "3848" : "1"
+          }
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
@@ -1540,6 +1550,12 @@
           "listOfRestrictions" : null,
           "optionID" : 3791,
           "optionName" : "Spore cysts",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 3848,
+          "optionName" : "Two pairs monstrous scything talons",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -1563,7 +1579,9 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 90,
         "unitID" : 3691,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "3848" : "1"
+        }
       }, {
         "unitName" : "Thornbacks",
         "listOfOptions" : [ {
@@ -1571,7 +1589,11 @@
           "listOfRestrictions" : null,
           "optionID" : 3792,
           "optionName" : "Additional Thornback",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "3793" : "2",
+            "3871" : "1",
+            "3794" : "1"
+          }
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
@@ -1620,6 +1642,12 @@
           "optionID" : 3800,
           "optionName" : "Thresher scythe",
           "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 14,
+          "listOfRestrictions" : null,
+          "optionID" : 3871,
+          "optionName" : "Monstrous scything talons",
+          "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1642,7 +1670,11 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 70,
         "unitID" : 3692,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "3793" : "2",
+          "3871" : "1",
+          "3794" : "1"
+        }
       }, {
         "unitName" : "Mawloc",
         "listOfOptions" : [ {
@@ -1650,6 +1682,24 @@
           "listOfRestrictions" : null,
           "optionID" : 3802,
           "optionName" : "Toxin spike",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4752,
+          "optionName" : "Biostatic rattle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 4753,
+          "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 4754,
+          "optionName" : "Adrenal glands",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -1699,6 +1749,18 @@
           "listOfRestrictions" : null,
           "optionID" : 3809,
           "optionName" : "Toxin sacs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4755,
+          "optionName" : "Biostatic rattle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4756,
+          "optionName" : "Prehensile pincer tail",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -1802,6 +1864,12 @@
           "listOfRestrictions" : null,
           "optionID" : 3810,
           "optionName" : "Adrenal glands",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 4757,
+          "optionName" : "Prehensile pincer tail",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -2244,7 +2312,8 @@
         } ],
         "equipmentName" : "$Basic Bio-Weapons Termagants"
       } ],
-      "armyName" : "Tyranids"
+      "armyName" : "Tyranids",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

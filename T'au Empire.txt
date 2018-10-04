@@ -2775,7 +2775,8 @@
         } ],
         "equipmentName" : "$Tactical Drones"
       } ],
-      "armyName" : "T'au Empire"
+      "armyName" : "T'au Empire",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

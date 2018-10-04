@@ -16,9 +16,11 @@
         "unitCategory" : "HQ",
         "unitCost" : 28,
         "unitID" : 4385,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4385" : "1"
+        }
       }, {
-        "unitName" : "Wyrdvane Psykers",
+        "unitName" : "[3]Wyrdvane Psykers",
         "listOfOptions" : [ {
           "optionCost" : 8,
           "listOfRestrictions" : null,
@@ -50,9 +52,11 @@
         "unitCategory" : "Elites",
         "unitCost" : 15,
         "unitID" : 4387,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4394" : "1"
+        }
       }, {
-        "unitName" : "Prosecutors",
+        "unitName" : "[5]Prosecutors",
         "listOfOptions" : [ {
           "optionCost" : 12,
           "listOfRestrictions" : null,
@@ -66,27 +70,39 @@
         "unitID" : 4388,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "Vigilators",
+        "unitName" : "[5]Vigilators",
         "listOfOptions" : [ {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 4397,
           "optionName" : "Additional Vigilator",
+          "autoAddDictionary" : {
+            "4768" : "1"
+          }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 4768,
+          "optionName" : "Executioner greatblade",
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 55,
         "unitID" : 4389,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4768" : "5"
+        }
       }, {
-        "unitName" : "Witchseekers",
+        "unitName" : "[5]Witchseekers",
         "listOfOptions" : [ {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 4398,
           "optionName" : "Additional Witchseeker",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : {
+            "4399" : "1"
+          }
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
@@ -98,7 +114,9 @@
         "unitCategory" : "Elites",
         "unitCost" : 55,
         "unitID" : 4390,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4399" : "5"
+        }
       }, {
         "unitName" : "Null-Maiden Rhino",
         "listOfOptions" : [ {
@@ -115,13 +133,16 @@
           "autoAddDictionary" : { }
         } ],
         "listOfRestrictions" : null,
-        "unitCategory" : "Elites",
+        "unitCategory" : "Dedicated Transport",
         "unitCost" : 70,
         "unitID" : 4391,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : {
+          "4400" : "1"
+        }
       } ],
       "listOfEquipmentOptions" : null,
-      "armyName" : "Adeptus Astra Telepathica"
+      "armyName" : "Adeptus Astra Telepathica",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

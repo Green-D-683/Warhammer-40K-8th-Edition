@@ -3711,7 +3711,7 @@
         "unitID" : 1881,
         "autoAddDictionary" : { }
       }, {
-        "unitName" : "[3[]Centurion Devastator Squad",
+        "unitName" : "[3]Centurion Devastator Squad",
         "listOfOptions" : [ {
           "optionCost" : 80,
           "listOfRestrictions" : null,
@@ -6078,7 +6078,8 @@
         } ],
         "equipmentName" : "$Dreadnought Heavy Weapons"
       } ],
-      "armyName" : "Space Marines"
+      "armyName" : "Space Marines",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

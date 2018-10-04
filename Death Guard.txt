@@ -2032,7 +2032,8 @@
         } ],
         "equipmentName" : "$Terminator Melee Weapons"
       } ],
-      "armyName" : "Death Guard"
+      "armyName" : "Death Guard",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

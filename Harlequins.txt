@@ -414,7 +414,8 @@
         "autoAddDictionary" : null
       } ],
       "listOfEquipmentOptions" : null,
-      "armyName" : "Harlequins"
+      "armyName" : "Harlequins",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

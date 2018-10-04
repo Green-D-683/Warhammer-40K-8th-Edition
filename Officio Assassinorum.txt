@@ -37,7 +37,8 @@
         "autoAddDictionary" : { }
       } ],
       "listOfEquipmentOptions" : null,
-      "armyName" : "Officio Assassinorum"
+      "armyName" : "Officio Assassinorum",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]

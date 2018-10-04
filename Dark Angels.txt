@@ -5507,7 +5507,8 @@
         } ],
         "equipmentName" : "$Dreadnought Heavy Weapons"
       } ],
-      "armyName" : "Dark Angels"
+      "armyName" : "Dark Angels",
+      "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
   } ]
