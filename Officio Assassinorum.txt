@@ -8,17 +8,19 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 90,
+        "unitCost" : 80,
         "unitID" : 4156,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Callidus Assassin",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 80,
+        "unitCost" : 70,
         "unitID" : 4157,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Eversor Assassin",
         "listOfOptions" : null,
@@ -26,7 +28,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 70,
         "unitID" : 4158,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Culexus Assassin",
         "listOfOptions" : null,
@@ -34,12 +37,14 @@
         "unitCategory" : "Elites",
         "unitCost" : 85,
         "unitID" : 4159,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
       "armyName" : "Officio Assassinorum",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }

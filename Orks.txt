@@ -10,31 +10,36 @@
           "listOfRestrictions" : null,
           "optionID" : 4160,
           "optionName" : "Kustom shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 4161,
           "optionName" : "Big choppa",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4162,
           "optionName" : "$Shooty Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4163,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4164,
           "optionName" : "Attack squig",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
@@ -43,7 +48,8 @@
         "autoAddDictionary" : {
           "4161" : "1",
           "4160" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Warboss In Mega Armour",
         "listOfOptions" : [ {
@@ -51,25 +57,29 @@
           "listOfRestrictions" : null,
           "optionID" : 4165,
           "optionName" : "$Shooty Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4167,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4168,
           "optionName" : "Kustom shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 4169,
           "optionName" : "Power klaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
@@ -78,7 +88,8 @@
         "autoAddDictionary" : {
           "4168" : "1",
           "4169" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Warboss On Warbike",
         "listOfOptions" : [ {
@@ -86,25 +97,29 @@
           "listOfRestrictions" : null,
           "optionID" : 4170,
           "optionName" : "Big choppa",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4171,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4172,
           "optionName" : "$Shooty Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4173,
           "optionName" : "Attack squig",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
@@ -112,7 +127,8 @@
         "unitID" : 3988,
         "autoAddDictionary" : {
           "4170" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Weirdboy",
         "listOfOptions" : null,
@@ -120,7 +136,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 62,
         "unitID" : 3989,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Big Mek",
         "listOfOptions" : [ {
@@ -128,43 +145,50 @@
           "listOfRestrictions" : null,
           "optionID" : 4174,
           "optionName" : "Grot Oiler",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4175,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4176,
           "optionName" : "$Souped-Up Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4177,
           "optionName" : "Kustom force field",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 45,
           "listOfRestrictions" : null,
           "optionID" : 4178,
           "optionName" : "Shokk attack gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4179,
           "optionName" : "Killsaw (single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
         "unitCost" : 55,
         "unitID" : 3990,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Big Mek In Mega Armour",
         "listOfOptions" : [ {
@@ -172,43 +196,50 @@
           "listOfRestrictions" : null,
           "optionID" : 4180,
           "optionName" : "Kustom mega-blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 4181,
           "optionName" : "Power klaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4182,
           "optionName" : "Grot Oiler",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4183,
           "optionName" : "Killsaw (single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4184,
           "optionName" : "Kustom force field",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 4185,
           "optionName" : "Tellyport blasta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4186,
           "optionName" : "$Shooty Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
@@ -217,7 +248,8 @@
         "autoAddDictionary" : {
           "4180" : "1",
           "4181" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Big Mek On Warbike",
         "listOfOptions" : [ {
@@ -225,37 +257,43 @@
           "listOfRestrictions" : null,
           "optionID" : 4187,
           "optionName" : "$Souped-Up Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4188,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4189,
           "optionName" : "Kustom force field",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 45,
           "listOfRestrictions" : null,
           "optionID" : 4190,
           "optionName" : "Shokk attack gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4191,
           "optionName" : "Killsaw (single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
         "unitCost" : 81,
         "unitID" : 3992,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Ghazghkull Thraka",
         "listOfOptions" : null,
@@ -280,7 +318,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 215,
         "unitID" : 3993,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Kaptin Badrukk",
         "listOfOptions" : null,
@@ -288,7 +327,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 84,
         "unitID" : 3994,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Boss Zagstruk",
         "listOfOptions" : null,
@@ -296,7 +336,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 88,
         "unitID" : 3995,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Boss Snikrot",
         "listOfOptions" : null,
@@ -304,7 +345,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 69,
         "unitID" : 3996,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Mek",
         "listOfOptions" : [ {
@@ -312,25 +354,29 @@
           "listOfRestrictions" : null,
           "optionID" : 4193,
           "optionName" : "Grot oiler",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4194,
           "optionName" : "Killsaw (single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4195,
           "optionName" : "$Souped-Up Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 22,
         "unitID" : 3997,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Painboy",
         "listOfOptions" : [ {
@@ -338,19 +384,22 @@
           "listOfRestrictions" : null,
           "optionID" : 4196,
           "optionName" : "Power klaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4197,
           "optionName" : "Grot Orderly",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4198,
           "optionName" : "Killsaw (single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -358,7 +407,8 @@
         "unitID" : 3998,
         "autoAddDictionary" : {
           "4196" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Painboy On Warbike",
         "listOfOptions" : [ {
@@ -366,13 +416,15 @@
           "listOfRestrictions" : null,
           "optionID" : 4199,
           "optionName" : "Killsaw (single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 4200,
           "optionName" : "Power klaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -380,7 +432,8 @@
         "unitID" : 3999,
         "autoAddDictionary" : {
           "4200" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Mad Dok Grotsnik",
         "listOfOptions" : null,
@@ -388,7 +441,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 74,
         "unitID" : 4000,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Boyz",
         "listOfOptions" : [ {
@@ -396,37 +450,43 @@
           "listOfRestrictions" : null,
           "optionID" : 4201,
           "optionName" : "Additional Ork Boy",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4202,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4203,
           "optionName" : "$Shooty Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4204,
           "optionName" : "$'Eavy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4759,
           "optionName" : "Slugga and shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Troops",
         "unitCost" : 60,
         "unitID" : 4001,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Gretchin",
         "listOfOptions" : [ {
@@ -434,13 +494,15 @@
           "listOfRestrictions" : null,
           "optionID" : 4205,
           "optionName" : "Additional Gretchin",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Troops",
         "unitCost" : 30,
         "unitID" : 4002,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Runtherd",
         "listOfOptions" : [ {
@@ -448,25 +510,29 @@
           "listOfRestrictions" : null,
           "optionID" : 4206,
           "optionName" : "Grot-pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4207,
           "optionName" : "Grot lash",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4208,
           "optionName" : "Squig hound",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 26,
         "unitID" : 4003,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Burna Boyz",
         "listOfOptions" : [ {
@@ -474,31 +540,36 @@
           "listOfRestrictions" : null,
           "optionID" : 4210,
           "optionName" : "Additional Burna Boyz",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 3631,
           "optionName" : "Killsaw(single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3632,
           "optionName" : "$Souped-Up Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4760,
           "optionName" : "Spanner",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 70,
         "unitID" : 4004,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Tankbustas",
         "listOfOptions" : [ {
@@ -508,37 +579,43 @@
           "optionName" : "Additional Tankbusta",
           "autoAddDictionary" : {
             "3635" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3635,
           "optionName" : "Rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3636,
           "optionName" : "Bomb Squig",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3637,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3638,
           "optionName" : "Tankhammer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3639,
           "optionName" : "Pair of rokkit pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -546,7 +623,8 @@
         "unitID" : 4005,
         "autoAddDictionary" : {
           "3635" : "5"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Nobz",
         "listOfOptions" : [ {
@@ -554,49 +632,57 @@
           "listOfRestrictions" : null,
           "optionID" : 3640,
           "optionName" : "Additional Nob",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 3641,
           "optionName" : "Ammo Runt",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3642,
           "optionName" : "$Shooty Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3643,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 3644,
           "optionName" : "Killsaw(single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3834,
           "optionName" : "Power stabba",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3901,
           "optionName" : "Cybork body",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 51,
         "unitID" : 4006,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Nob With Waaagh! Banner",
         "listOfOptions" : [ {
@@ -604,7 +690,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3922,
           "optionName" : "Kustom shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -612,7 +699,8 @@
         "unitID" : 4007,
         "autoAddDictionary" : {
           "3922" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Nobz On Warbikes",
         "listOfOptions" : [ {
@@ -620,25 +708,29 @@
           "listOfRestrictions" : null,
           "optionID" : 3923,
           "optionName" : "Additional Nob on Warbike",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4036,
           "optionName" : "$Shooty Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4047,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 126,
         "unitID" : 4008,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Meganobz",
         "listOfOptions" : [ {
@@ -649,37 +741,43 @@
           "autoAddDictionary" : {
             "4130" : "1",
             "4166" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4130,
           "optionName" : "Kustom Shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 4166,
           "optionName" : "Power klaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 38,
           "listOfRestrictions" : null,
           "optionID" : 4209,
           "optionName" : "Killsaws(pair)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4211,
           "optionName" : "Kombi-weapon with rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 19,
           "listOfRestrictions" : null,
           "optionID" : 4212,
           "optionName" : "Kombi-weapon with skorcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -688,7 +786,8 @@
         "autoAddDictionary" : {
           "4130" : "3",
           "4166" : "3"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Kommandos",
         "listOfOptions" : [ {
@@ -696,37 +795,43 @@
           "listOfRestrictions" : null,
           "optionID" : 4213,
           "optionName" : "Additional Kommando",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 4214,
           "optionName" : "Big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4215,
           "optionName" : "Burna",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4216,
           "optionName" : "Rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4217,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 45,
         "unitID" : 4010,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Trukk",
         "listOfOptions" : [ {
@@ -734,19 +839,22 @@
           "listOfRestrictions" : null,
           "optionID" : 4218,
           "optionName" : "Big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4219,
           "optionName" : "Rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 4220,
           "optionName" : "Wreckin' Ball",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Dedicated Transport",
@@ -754,7 +862,8 @@
         "unitID" : 4011,
         "autoAddDictionary" : {
           "4218" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Stormboyz",
         "listOfOptions" : [ {
@@ -762,19 +871,22 @@
           "listOfRestrictions" : null,
           "optionID" : 4221,
           "optionName" : "Additional Stormboy",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4222,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
         "unitCost" : 40,
         "unitID" : 4012,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Deffkoptas",
         "listOfOptions" : [ {
@@ -784,37 +896,43 @@
           "optionName" : "Additional Deffkopta",
           "autoAddDictionary" : {
             "4224" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4224,
           "optionName" : "Kopta rokkits",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 4225,
           "optionName" : "Kustom mega-blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 4226,
           "optionName" : "Twin big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4227,
           "optionName" : "Bigbomm",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4228,
           "optionName" : "Killsaw(single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
@@ -822,7 +940,8 @@
         "unitID" : 4013,
         "autoAddDictionary" : {
           "4224" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Dakkajet",
         "listOfOptions" : [ {
@@ -830,7 +949,8 @@
           "listOfRestrictions" : null,
           "optionID" : 4229,
           "optionName" : "Four supa shootas",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Flyers",
@@ -838,7 +958,8 @@
         "unitID" : 4014,
         "autoAddDictionary" : {
           "4229" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Burna-Bommer",
         "listOfOptions" : [ {
@@ -846,19 +967,22 @@
           "listOfRestrictions" : null,
           "optionID" : 4230,
           "optionName" : "Two supa shootas",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 4231,
           "optionName" : "Twin big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4232,
           "optionName" : "Skorcha missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Flyers",
@@ -867,7 +991,8 @@
         "autoAddDictionary" : {
           "4230" : "1",
           "4231" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Blitza-Bommer",
         "listOfOptions" : [ {
@@ -875,13 +1000,15 @@
           "listOfRestrictions" : null,
           "optionID" : 4233,
           "optionName" : "Two supa shootas",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 4234,
           "optionName" : "Big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Flyers",
@@ -890,7 +1017,8 @@
         "autoAddDictionary" : {
           "4233" : "1",
           "4234" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Wazbom Blastajet",
         "listOfOptions" : [ {
@@ -898,37 +1026,43 @@
           "listOfRestrictions" : null,
           "optionID" : 4236,
           "optionName" : "Two wazbom mega-kannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 4237,
           "optionName" : "Smasha gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4238,
           "optionName" : "Stikkbomb flinga",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 36,
           "listOfRestrictions" : null,
           "optionID" : 4239,
           "optionName" : "Two tellyport mega-blastas.",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4240,
           "optionName" : "Two supa shootas",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4241,
           "optionName" : "Kustom force field",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Flyers",
@@ -938,7 +1072,8 @@
           "4236" : "1",
           "4237" : "1",
           "4238" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Warbikers",
         "listOfOptions" : [ {
@@ -946,19 +1081,22 @@
           "listOfRestrictions" : null,
           "optionID" : 4242,
           "optionName" : "Additional Warbike",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4243,
           "optionName" : "$Choppy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
         "unitCost" : 81,
         "unitID" : 4018,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Wartrakks",
         "listOfOptions" : [ {
@@ -968,19 +1106,22 @@
           "optionName" : "Additional Wartrakks",
           "autoAddDictionary" : {
             "4245" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 4245,
           "optionName" : "Twin big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4246,
           "optionName" : "Rack of rokkits",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
@@ -988,7 +1129,8 @@
         "unitID" : 4019,
         "autoAddDictionary" : {
           "4245" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Skorchas",
         "listOfOptions" : [ {
@@ -998,13 +1140,15 @@
           "optionName" : "Additional Skorcha",
           "autoAddDictionary" : {
             "4247" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 4247,
           "optionName" : "Skorcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
@@ -1012,7 +1156,8 @@
         "unitID" : 4020,
         "autoAddDictionary" : {
           "4247" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Warbuggies",
         "listOfOptions" : [ {
@@ -1022,19 +1167,22 @@
           "optionName" : "Additional Warbuggie",
           "autoAddDictionary" : {
             "4249" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 4249,
           "optionName" : "Twin big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4250,
           "optionName" : "Rack of rokkits",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
@@ -1042,7 +1190,8 @@
         "unitID" : 4021,
         "autoAddDictionary" : {
           "4249" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Big Gunz",
         "listOfOptions" : [ {
@@ -1050,7 +1199,8 @@
           "listOfRestrictions" : null,
           "optionID" : 4251,
           "optionName" : "Grot gunner",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
@@ -1059,25 +1209,29 @@
           "autoAddDictionary" : {
             "4251" : "2",
             "4253" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 4253,
           "optionName" : "Kannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 4254,
           "optionName" : "Lobba",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 4255,
           "optionName" : "Zzap Gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
@@ -1086,7 +1240,8 @@
         "autoAddDictionary" : {
           "4251" : "2",
           "4253" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Mek Gunz",
         "listOfOptions" : [ {
@@ -1094,7 +1249,8 @@
           "listOfRestrictions" : null,
           "optionID" : 4256,
           "optionName" : "Grot gunner",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
@@ -1103,31 +1259,36 @@
           "autoAddDictionary" : {
             "4256" : "5",
             "4258" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 32,
           "listOfRestrictions" : null,
           "optionID" : 4258,
           "optionName" : "Bubblechukka",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 23,
           "listOfRestrictions" : null,
           "optionID" : 4259,
           "optionName" : "Kustom mega-kannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 4260,
           "optionName" : "Smash gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 4261,
           "optionName" : "Traktor cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
@@ -1136,7 +1297,8 @@
         "autoAddDictionary" : {
           "4256" : "5",
           "4258" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Battlewaggon",
         "listOfOptions" : [ {
@@ -1144,67 +1306,78 @@
           "listOfRestrictions" : null,
           "optionID" : 4262,
           "optionName" : "Killkannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 4263,
           "optionName" : "Kannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 4264,
           "optionName" : "Lobba",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 4265,
           "optionName" : "Zzap gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 4266,
           "optionName" : "Big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4267,
           "optionName" : "Rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 19,
           "listOfRestrictions" : null,
           "optionID" : 4268,
           "optionName" : "Deff rolla",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 4269,
           "optionName" : "Grabbin' klaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 4270,
           "optionName" : "Wreckin' Ball",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4761,
           "optionName" : "'Ard case",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
         "unitCost" : 161,
         "unitID" : 4024,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Deff Dreads",
         "listOfOptions" : [ {
@@ -1215,43 +1388,50 @@
           "autoAddDictionary" : {
             "4272" : "1",
             "4273" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4272,
           "optionName" : "Two big shootas",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 45,
           "listOfRestrictions" : null,
           "optionID" : 4273,
           "optionName" : "Two dread klaws",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 4274,
           "optionName" : "Extra dread klaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 4275,
           "optionName" : "Skorcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 4276,
           "optionName" : "Kustom mega-blasta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4277,
           "optionName" : "Rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
@@ -1260,7 +1440,8 @@
         "autoAddDictionary" : {
           "4272" : "1",
           "4273" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Killa Kans",
         "listOfOptions" : [ {
@@ -1270,37 +1451,43 @@
           "optionName" : "Additional Killa Kan",
           "autoAddDictionary" : {
             "4279" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 4279,
           "optionName" : "Big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4280,
           "optionName" : "Rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 4281,
           "optionName" : "Kustom mega-blasta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 4282,
           "optionName" : "Skorcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 4283,
           "optionName" : "Grotzooka",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
@@ -1308,7 +1495,8 @@
         "unitID" : 4026,
         "autoAddDictionary" : {
           "4279" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Morkanaut",
         "listOfOptions" : [ {
@@ -1316,31 +1504,36 @@
           "listOfRestrictions" : null,
           "optionID" : 4284,
           "optionName" : "Kustom mega-blasta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4285,
           "optionName" : "Two twin big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 24,
           "listOfRestrictions" : null,
           "optionID" : 4286,
           "optionName" : "Two rokkit launchas",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 23,
           "listOfRestrictions" : null,
           "optionID" : 4287,
           "optionName" : "Kustom mega-cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4288,
           "optionName" : "Kustom force field",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
@@ -1351,7 +1544,8 @@
           "4285" : "1",
           "4286" : "1",
           "4287" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Gorkanaut",
         "listOfOptions" : [ {
@@ -1359,19 +1553,22 @@
           "listOfRestrictions" : null,
           "optionID" : 4289,
           "optionName" : "Two twin big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 24,
           "listOfRestrictions" : null,
           "optionID" : 4290,
           "optionName" : "Two rokkit launchas",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 4291,
           "optionName" : "Skorcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
@@ -1381,7 +1578,8 @@
           "4289" : "1",
           "4290" : "1",
           "4291" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Lootas",
         "listOfOptions" : [ {
@@ -1389,31 +1587,36 @@
           "listOfRestrictions" : null,
           "optionID" : 4292,
           "optionName" : "Additional Loota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 4293,
           "optionName" : "Killsaw(single)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4294,
           "optionName" : "$Souped-Up Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4762,
           "optionName" : "Spanners",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
         "unitCost" : 85,
         "unitID" : 4029,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Flash Gitz",
         "listOfOptions" : [ {
@@ -1421,31 +1624,36 @@
           "listOfRestrictions" : null,
           "optionID" : 4295,
           "optionName" : "Additional Flash Git",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4296,
           "optionName" : "Ammo runt",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4763,
           "optionName" : "Choppa",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4764,
           "optionName" : "Slugga",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
         "unitCost" : 135,
         "unitID" : 4030,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Stompa",
         "listOfOptions" : [ {
@@ -1453,31 +1661,36 @@
           "listOfRestrictions" : null,
           "optionID" : 4297,
           "optionName" : "Supa-gatler",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 4298,
           "optionName" : "Three big shootas",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 4299,
           "optionName" : "Twin big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 4300,
           "optionName" : "Skorcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4765,
           "optionName" : "Additional supa-rokkits",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Lords of War",
@@ -1488,7 +1701,8 @@
           "4298" : "1",
           "4299" : "1",
           "4300" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -1496,25 +1710,29 @@
           "listOfRestrictions" : null,
           "optionID" : 3973,
           "optionName" : "Shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 3974,
           "optionName" : "Custom shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3975,
           "optionName" : "Kombi-weapon with rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 19,
           "listOfRestrictions" : null,
           "optionID" : 3976,
           "optionName" : "Kombi-weapon with skorcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Shooty Weapons"
       }, {
@@ -1523,31 +1741,36 @@
           "listOfRestrictions" : null,
           "optionID" : 3977,
           "optionName" : "Kombi-weapon with skorcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3978,
           "optionName" : "Kombi-weapon with rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 3979,
           "optionName" : "Kustom mega-blasta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 3980,
           "optionName" : "Kustom mega-slugga",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3981,
           "optionName" : "Rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Souped-Up Weapons"
       }, {
@@ -1556,13 +1779,15 @@
           "listOfRestrictions" : null,
           "optionID" : 3982,
           "optionName" : "Big shoota",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3983,
           "optionName" : "Rokkit launcha",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$'Eavy Weapons"
       }, {
@@ -1571,19 +1796,22 @@
           "listOfRestrictions" : null,
           "optionID" : 3984,
           "optionName" : "Big choppa",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 3985,
           "optionName" : "Power klaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Choppy Weapons"
       } ],
       "armyName" : "Orks",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }

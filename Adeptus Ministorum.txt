@@ -10,13 +10,15 @@
           "listOfRestrictions" : null,
           "optionID" : 4766,
           "optionName" : "Geminae Superia",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
         "unitCost" : 150,
         "unitID" : 4141,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Canoness",
         "listOfOptions" : [ {
@@ -24,37 +26,43 @@
           "listOfRestrictions" : null,
           "optionID" : 4338,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4339,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4340,
           "optionName" : "$Pistols",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 4341,
           "optionName" : "Eviscerator",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4767,
           "optionName" : "Boltgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
         "unitCost" : 45,
         "unitID" : 4142,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Imagifier",
         "listOfOptions" : null,
@@ -62,7 +70,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 40,
         "unitID" : 4143,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Hospitaller",
         "listOfOptions" : null,
@@ -70,7 +79,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 30,
         "unitID" : 4144,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Dialogus",
         "listOfOptions" : null,
@@ -78,7 +88,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 15,
         "unitID" : 4145,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Battle Sisters Squad",
         "listOfOptions" : [ {
@@ -86,43 +97,50 @@
           "listOfRestrictions" : null,
           "optionID" : 4342,
           "optionName" : "Additional Battle Sister",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4343,
           "optionName" : "$Special Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4344,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4345,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4346,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4347,
           "optionName" : "$Pistols",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Troops",
         "unitCost" : 45,
         "unitID" : 4146,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Seraphim Squad",
         "listOfOptions" : [ {
@@ -130,43 +148,50 @@
           "listOfRestrictions" : null,
           "optionID" : 4348,
           "optionName" : "Additional Seraphim",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4349,
           "optionName" : "Two hand flamers",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 24,
           "listOfRestrictions" : null,
           "optionID" : 4350,
           "optionName" : "Two inferno pistols",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4351,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4352,
           "optionName" : "Power sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 4353,
           "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
         "unitCost" : 55,
         "unitID" : 4147,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Celestian Squad",
         "listOfOptions" : [ {
@@ -174,43 +199,50 @@
           "listOfRestrictions" : null,
           "optionID" : 4354,
           "optionName" : "Additional Celestian",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4355,
           "optionName" : "$Special Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4356,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4357,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4358,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4359,
           "optionName" : "$Pistols",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 55,
         "unitID" : 4148,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Mistress Of Repentance",
         "listOfOptions" : [ {
@@ -218,7 +250,8 @@
           "listOfRestrictions" : null,
           "optionID" : 4360,
           "optionName" : "Neural whips",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -226,7 +259,8 @@
         "unitID" : 4149,
         "autoAddDictionary" : {
           "4360" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Repentia Squad",
         "listOfOptions" : [ {
@@ -234,13 +268,15 @@
           "listOfRestrictions" : null,
           "optionID" : 4361,
           "optionName" : "Additional Sister Repentia",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 51,
         "unitID" : 4150,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Retributor Squad",
         "listOfOptions" : [ {
@@ -248,37 +284,43 @@
           "listOfRestrictions" : null,
           "optionID" : 4366,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4367,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4368,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4369,
           "optionName" : "$Pistols",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 4370,
           "optionName" : "Additional Retributor",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
         "unitCost" : 45,
         "unitID" : 4151,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Dominion Squad",
         "listOfOptions" : [ {
@@ -286,37 +328,43 @@
           "listOfRestrictions" : null,
           "optionID" : 4371,
           "optionName" : "Additional Dominion",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4372,
           "optionName" : "$Special Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4373,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4374,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4375,
           "optionName" : "$Pistols",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
         "unitCost" : 50,
         "unitID" : 4152,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Sororitas Rhino",
         "listOfOptions" : [ {
@@ -324,13 +372,15 @@
           "listOfRestrictions" : null,
           "optionID" : 4376,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 4377,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Dedicated Transport",
@@ -338,7 +388,8 @@
         "unitID" : 4153,
         "autoAddDictionary" : {
           "4376" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Immolator",
         "listOfOptions" : [ {
@@ -346,31 +397,36 @@
           "listOfRestrictions" : null,
           "optionID" : 4378,
           "optionName" : "Immolation Flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 4379,
           "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 54,
           "listOfRestrictions" : null,
           "optionID" : 4380,
           "optionName" : "Twin mulit-melta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4381,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 4382,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Dedicated Transport",
@@ -378,7 +434,8 @@
         "unitID" : 4154,
         "autoAddDictionary" : {
           "4378" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Exorcist",
         "listOfOptions" : [ {
@@ -386,19 +443,22 @@
           "listOfRestrictions" : null,
           "optionID" : 4383,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 4384,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
         "unitCost" : 160,
         "unitID" : 4155,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Uriah Jacobus",
         "listOfOptions" : null,
@@ -406,7 +466,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 100,
         "unitID" : 4320,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Ministorum Priest",
         "listOfOptions" : [ {
@@ -414,49 +475,57 @@
           "listOfRestrictions" : null,
           "optionID" : 4326,
           "optionName" : "$Pistols",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 4327,
           "optionName" : "Eviscerator",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4328,
           "optionName" : "Autogun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 4329,
           "optionName" : "Plasma gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4330,
           "optionName" : "Shotgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4331,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4332,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 35,
         "unitID" : 4321,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[2]Crusaders",
         "listOfOptions" : [ {
@@ -466,13 +535,15 @@
           "optionName" : "Additional Crusader",
           "autoAddDictionary" : {
             "4334" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4334,
           "optionName" : "Power sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -480,7 +551,8 @@
         "unitID" : 4322,
         "autoAddDictionary" : {
           "4334" : "2"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[2]Death Cult Assassins",
         "listOfOptions" : [ {
@@ -488,13 +560,15 @@
           "listOfRestrictions" : null,
           "optionID" : 4335,
           "optionName" : "Additional Death Cult Assassin",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 34,
         "unitID" : 4323,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Arco-flagellants",
         "listOfOptions" : [ {
@@ -502,13 +576,15 @@
           "listOfRestrictions" : null,
           "optionID" : 4336,
           "optionName" : "Additional Arco-flagellant",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 45,
         "unitID" : 4324,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Penitent Engines",
         "listOfOptions" : [ {
@@ -519,19 +595,22 @@
           "autoAddDictionary" : {
             "4192" : "1",
             "4758" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 4192,
           "optionName" : "Penitent buzz-blades",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 4758,
           "optionName" : "Two heavy flamers",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
@@ -540,7 +619,8 @@
         "autoAddDictionary" : {
           "4192" : "1",
           "4758" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -548,37 +628,43 @@
           "listOfRestrictions" : null,
           "optionID" : 4301,
           "optionName" : "Boltgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 4302,
           "optionName" : "Combi-flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 19,
           "listOfRestrictions" : null,
           "optionID" : 4303,
           "optionName" : "Combi-melta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 4304,
           "optionName" : "Combi-plasma",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 4305,
           "optionName" : "Condemnor boltgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4306,
           "optionName" : "Stormbolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Ranged Weapons"
       }, {
@@ -587,19 +673,22 @@
           "listOfRestrictions" : null,
           "optionID" : 4307,
           "optionName" : "Stormbolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 4308,
           "optionName" : "Flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 4309,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Special Weapons"
       }, {
@@ -608,25 +697,29 @@
           "listOfRestrictions" : null,
           "optionID" : 4313,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 4314,
           "optionName" : "Power axe",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4315,
           "optionName" : "Power maul",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4316,
           "optionName" : "Power sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Melee Weapons"
       }, {
@@ -635,19 +728,22 @@
           "listOfRestrictions" : null,
           "optionID" : 4317,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 4318,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 27,
           "listOfRestrictions" : null,
           "optionID" : 4319,
           "optionName" : "Multi-melta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Heavy Weapons"
       }, {
@@ -656,25 +752,29 @@
           "listOfRestrictions" : null,
           "optionID" : 4310,
           "optionName" : "Bolt pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 4311,
           "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4312,
           "optionName" : "Inferno pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Pistols"
       } ],
       "armyName" : "Adeptus Ministorum",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }

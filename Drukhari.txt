@@ -10,31 +10,36 @@
           "listOfRestrictions" : null,
           "optionID" : 2645,
           "optionName" : "Huskblade",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2646,
           "optionName" : "Agoniser",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2647,
           "optionName" : "Power sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2648,
           "optionName" : "Venom blade",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2649,
           "optionName" : "Blast pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -93,7 +98,8 @@
         "unitID" : 2479,
         "autoAddDictionary" : {
           "2645" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Drazhar",
         "listOfOptions" : null,
@@ -118,7 +124,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 120,
         "unitID" : 2480,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Lelith Hespearax",
         "listOfOptions" : [ {
@@ -126,7 +133,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2650,
           "optionName" : "Implaer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "listOfNamesOfUnitID" : [ "2481" ],
@@ -166,7 +174,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 80,
         "unitID" : 2481,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Succubus",
         "listOfOptions" : [ {
@@ -174,31 +183,36 @@
           "listOfRestrictions" : null,
           "optionID" : 2651,
           "optionName" : "Agoniser",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2652,
           "optionName" : "$Wych Cult Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2653,
           "optionName" : "Blast pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2654,
           "optionName" : "Impaler",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4718,
           "optionName" : "Splinter pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -240,7 +254,8 @@
         "unitID" : 2482,
         "autoAddDictionary" : {
           "2651" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Urien Rakarth",
         "listOfOptions" : [ {
@@ -248,7 +263,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2655,
           "optionName" : "Ichor injector",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "listOfNamesOfUnitID" : [ "2483" ],
@@ -290,7 +306,8 @@
         "unitID" : 2483,
         "autoAddDictionary" : {
           "2655" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Haemonculus",
         "listOfOptions" : [ {
@@ -298,31 +315,36 @@
           "listOfRestrictions" : null,
           "optionID" : 2656,
           "optionName" : "Stinger pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2657,
           "optionName" : "Ichor injector",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2658,
           "optionName" : "Hexrifle",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 2659,
           "optionName" : "Liquifier gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2661,
           "optionName" : "$Weapons Of Torture",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -398,7 +420,8 @@
         "unitID" : 2484,
         "autoAddDictionary" : {
           "2656" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Kabalite Warriors",
         "listOfOptions" : [ {
@@ -406,61 +429,71 @@
           "listOfRestrictions" : null,
           "optionID" : 2662,
           "optionName" : "Additional Kabalite Warrior",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2663,
           "optionName" : "Power sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2664,
           "optionName" : "Agoniser",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2665,
           "optionName" : "Phantasm grenade launcher",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2666,
           "optionName" : "Blast pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2667,
           "optionName" : "Splinter cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2668,
           "optionName" : "Dark lance",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2669,
           "optionName" : "Shreder",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 2670,
           "optionName" : "Blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4719,
           "optionName" : "Splinter pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -534,7 +567,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 30,
         "unitID" : 2485,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Wyches",
         "listOfOptions" : [ {
@@ -542,37 +576,43 @@
           "listOfRestrictions" : null,
           "optionID" : 2671,
           "optionName" : "Additional Wych",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2672,
           "optionName" : "Phantasm grenade launcher",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2673,
           "optionName" : "Blast pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2674,
           "optionName" : "Power sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2675,
           "optionName" : "Agoniser",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2676,
           "optionName" : "$Wych Cult Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -646,7 +686,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 40,
         "unitID" : 2486,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Wracks",
         "listOfOptions" : [ {
@@ -654,31 +695,36 @@
           "listOfRestrictions" : null,
           "optionID" : 2677,
           "optionName" : "Additional Wrack",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 2678,
           "optionName" : "Liquifier gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2679,
           "optionName" : "Ossefactor",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2680,
           "optionName" : "$Weapons Of Torture",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2681,
           "optionName" : "$Tools Of Torment",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -735,7 +781,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 45,
         "unitID" : 2487,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Lhamaen",
         "listOfOptions" : null,
@@ -743,7 +790,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 15,
         "unitID" : 2488,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Medusae",
         "listOfOptions" : null,
@@ -751,7 +799,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 21,
         "unitID" : 2489,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Sslyth",
         "listOfOptions" : null,
@@ -759,7 +808,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 27,
         "unitID" : 2490,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Ur-ghul",
         "listOfOptions" : null,
@@ -767,7 +817,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 15,
         "unitID" : 2491,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Incubi",
         "listOfOptions" : [ {
@@ -775,7 +826,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2682,
           "optionName" : "Additional Incubi",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -798,7 +850,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 80,
         "unitID" : 2492,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Mandrakes",
         "listOfOptions" : [ {
@@ -806,7 +859,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2683,
           "optionName" : "Additional Mandrake",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -829,7 +883,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 80,
         "unitID" : 2493,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Beastmaster",
         "listOfOptions" : [ {
@@ -837,7 +892,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2684,
           "optionName" : "Agoniser",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -862,7 +918,8 @@
         "unitID" : 2494,
         "autoAddDictionary" : {
           "2684" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Grotesques",
         "listOfOptions" : [ {
@@ -872,19 +929,22 @@
           "optionName" : "Additional Grotesque",
           "autoAddDictionary" : {
             "2686" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2686,
           "optionName" : "Flesh gauntlet",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 2687,
           "optionName" : "Liquifier gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -909,7 +969,8 @@
         "unitID" : 2495,
         "autoAddDictionary" : {
           "2686" : "3"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Clawed Fiends",
         "listOfOptions" : [ {
@@ -917,7 +978,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2688,
           "optionName" : "Additional Clawed Fiend",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -940,7 +1002,8 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 32,
         "unitID" : 2496,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[2]Khymerae",
         "listOfOptions" : [ {
@@ -948,7 +1011,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2689,
           "optionName" : "Additional Khymerae",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -971,7 +1035,8 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 20,
         "unitID" : 2497,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Razorwing flocks",
         "listOfOptions" : [ {
@@ -979,7 +1044,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2690,
           "optionName" : "Additional Razorwing Flock",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1002,7 +1068,8 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 12,
         "unitID" : 2498,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Reavers",
         "listOfOptions" : [ {
@@ -1010,43 +1077,50 @@
           "listOfRestrictions" : null,
           "optionID" : 2691,
           "optionName" : "Additional Reaver",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2692,
           "optionName" : "Power sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2693,
           "optionName" : "Agoniser",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2694,
           "optionName" : "Heat lance",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 2695,
           "optionName" : "Blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2696,
           "optionName" : "Grav-talon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2697,
           "optionName" : "Cluster clatrops",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1086,7 +1160,8 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 57,
         "unitID" : 2499,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Hellions",
         "listOfOptions" : [ {
@@ -1094,31 +1169,36 @@
           "listOfRestrictions" : null,
           "optionID" : 2698,
           "optionName" : "Additional Hellion",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2699,
           "optionName" : "Phantasm grenade launcher",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2700,
           "optionName" : "Splinter pistol and stunclaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2702,
           "optionName" : "Splinter pistol and power sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2703,
           "optionName" : "Splinter pistol and agoniser",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1175,7 +1255,8 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 70,
         "unitID" : 2500,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Scourges",
         "listOfOptions" : [ {
@@ -1183,73 +1264,85 @@
           "listOfRestrictions" : null,
           "optionID" : 2704,
           "optionName" : "Additional Scourge",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2705,
           "optionName" : "Splinter cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2706,
           "optionName" : "Dark lance",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2707,
           "optionName" : "Heat lance",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2708,
           "optionName" : "Shredder",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2709,
           "optionName" : "Haywire blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 2710,
           "optionName" : "Blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2711,
           "optionName" : "Blast pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2712,
           "optionName" : "Venom blade",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2713,
           "optionName" : "Power lance",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2714,
           "optionName" : "Agoniser",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4720,
           "optionName" : "Splinter pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1323,7 +1416,8 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 60,
         "unitID" : 2501,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Talos",
         "listOfOptions" : [ {
@@ -1334,61 +1428,71 @@
           "autoAddDictionary" : {
             "2717" : "2",
             "2716" : "2"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2716,
           "optionName" : "Splinter cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2717,
           "optionName" : "Macro-scalpel",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2718,
           "optionName" : "Ichor injector",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 2719,
           "optionName" : "Twin liquifier gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2720,
           "optionName" : "Chain-flail",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2721,
           "optionName" : "Talos gauntlet",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 24,
           "listOfRestrictions" : null,
           "optionID" : 2722,
           "optionName" : "Two heat lances",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 2723,
           "optionName" : "Two haywire blasters",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4721,
           "optionName" : "Stinger pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1414,7 +1518,8 @@
         "autoAddDictionary" : {
           "2717" : "2",
           "2716" : "2"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Cronos",
         "listOfOptions" : [ {
@@ -1422,19 +1527,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2724,
           "optionName" : "Additional Cronos",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2725,
           "optionName" : "Spirit vortex",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2726,
           "optionName" : "Spirit probe",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1457,7 +1565,8 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 65,
         "unitID" : 2503,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Ravager",
         "listOfOptions" : [ {
@@ -1465,19 +1574,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2727,
           "optionName" : "Dark lance",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2728,
           "optionName" : "Disintergrator cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2729,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 3,
@@ -1519,7 +1631,8 @@
         "unitID" : 2504,
         "autoAddDictionary" : {
           "2727" : "3"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Raider",
         "listOfOptions" : [ {
@@ -1527,25 +1640,29 @@
           "listOfRestrictions" : null,
           "optionID" : 2730,
           "optionName" : "Dark lance",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2731,
           "optionName" : "Disintergrator cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2732,
           "optionName" : "Splinter racks",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2733,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -1604,7 +1721,8 @@
         "unitID" : 2505,
         "autoAddDictionary" : {
           "2730" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Venom",
         "listOfOptions" : [ {
@@ -1612,13 +1730,15 @@
           "listOfRestrictions" : null,
           "optionID" : 2734,
           "optionName" : "Splinter cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2735,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1660,7 +1780,8 @@
         "unitID" : 2506,
         "autoAddDictionary" : {
           "2734" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Razorwing Jetfighter",
         "listOfOptions" : [ {
@@ -1668,19 +1789,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2736,
           "optionName" : "Two disintergrator cannons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 2737,
           "optionName" : "Twin dark lances",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2738,
           "optionName" : "Splinter cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -1739,7 +1863,8 @@
         "unitID" : 2507,
         "autoAddDictionary" : {
           "2736" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Voidraven Bomber",
         "listOfOptions" : [ {
@@ -1747,13 +1872,15 @@
           "listOfRestrictions" : null,
           "optionID" : 2739,
           "optionName" : "Voidraven missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4722,
           "optionName" : "Two dark scythes",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1776,7 +1903,8 @@
         "unitCategory" : "Flyers",
         "unitCost" : 155,
         "unitID" : 2508,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -1784,19 +1912,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2463,
           "optionName" : "Hydra gauntlets",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2464,
           "optionName" : "Razorflails",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2465,
           "optionName" : "Shardnet and impaler",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Wych Cult Weapons"
       }, {
@@ -1805,19 +1936,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2466,
           "optionName" : "Hexrifle",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 2467,
           "optionName" : "Liquifier gun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2468,
           "optionName" : "Stinger pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Tools Of Torment"
       }, {
@@ -1826,37 +1960,43 @@
           "listOfRestrictions" : null,
           "optionID" : 2469,
           "optionName" : "Agoniser",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2470,
           "optionName" : "Electrocorrosive whip",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2471,
           "optionName" : "Flesh gauntlet",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2472,
           "optionName" : "Mindphase gauntlet",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2473,
           "optionName" : "Scissorhand",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2474,
           "optionName" : "Venom blade",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Weapons Of Torture"
       }, {
@@ -1865,31 +2005,36 @@
           "listOfRestrictions" : null,
           "optionID" : 2475,
           "optionName" : "Chain-snares",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2476,
           "optionName" : "Grisly trophes",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2477,
           "optionName" : "Phantasm grenade launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 2478,
           "optionName" : "Shock prow",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Vehicle Equipment"
       } ],
       "armyName" : "Drukhari",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }

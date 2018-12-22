@@ -10,13 +10,15 @@
           "listOfRestrictions" : null,
           "optionID" : 3822,
           "optionName" : "MV62 Command-link Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 3823,
           "optionName" : "MV52 Shield Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "listOfNamesOfUnitID" : [ "3569" ],
@@ -88,9 +90,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 167,
+        "unitCost" : 110,
         "unitID" : 3569,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Commander Farsight",
         "listOfOptions" : null,
@@ -113,9 +116,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 151,
+        "unitCost" : 125,
         "unitID" : 3570,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Commander In XV8 Crisis Battlesuit",
         "listOfOptions" : [ {
@@ -123,37 +127,43 @@
           "listOfRestrictions" : null,
           "optionID" : 3824,
           "optionName" : "Burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3825,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3826,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3827,
           "optionName" : "$Support Systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3828,
           "optionName" : "XV8-02 Crisis Iridium Battlesuit",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3835,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -179,7 +189,8 @@
         "autoAddDictionary" : {
           "3825" : "1",
           "3824" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Commander in XV85 Enforcer Battlesuit",
         "listOfOptions" : [ {
@@ -187,31 +198,36 @@
           "listOfRestrictions" : null,
           "optionID" : 3829,
           "optionName" : "Burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3830,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3831,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3832,
           "optionName" : "$Support Systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3836,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -237,7 +253,8 @@
         "autoAddDictionary" : {
           "3829" : "1",
           "3830" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Commander in XV86 Coldstar Battlesuit",
         "listOfOptions" : [ {
@@ -245,31 +262,36 @@
           "listOfRestrictions" : null,
           "optionID" : 3837,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3838,
           "optionName" : "High-output burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3839,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3840,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3841,
           "optionName" : "$Support Systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -295,7 +317,8 @@
         "autoAddDictionary" : {
           "3838" : "1",
           "3839" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Aun'va",
         "listOfOptions" : [ {
@@ -303,7 +326,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3842,
           "optionName" : "Ethereal Guard",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "listOfNamesOfUnitID" : [ "3598" ],
@@ -343,7 +367,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 85,
         "unitID" : 3598,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Aun'shi",
         "listOfOptions" : null,
@@ -368,7 +393,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 60,
         "unitID" : 3599,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Ethereal",
         "listOfOptions" : [ {
@@ -376,19 +402,22 @@
           "listOfRestrictions" : null,
           "optionID" : 3843,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 3844,
           "optionName" : "Equilizers",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3845,
           "optionName" : "Hover Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -445,7 +474,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 45,
         "unitID" : 3600,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Cadre Fireblade",
         "listOfOptions" : [ {
@@ -453,13 +483,15 @@
           "listOfRestrictions" : null,
           "optionID" : 3846,
           "optionName" : "Markerlight",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3847,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -501,7 +533,8 @@
         "unitID" : 3601,
         "autoAddDictionary" : {
           "3846" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Darkstrider",
         "listOfOptions" : null,
@@ -546,45 +579,52 @@
         "autoAddDictionary" : {
           "3849" : "1",
           "3850" : "2"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Longstrike",
         "listOfOptions" : [ {
-          "optionCost" : 38,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3849,
           "optionName" : "Railgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3850,
           "optionName" : "2 MV1 Gun Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3851,
           "optionName" : "Ion cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3852,
           "optionName" : "Seeker missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3853,
           "optionName" : "Two burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3854,
           "optionName" : "Two smart missile system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -692,7 +732,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 137,
         "unitID" : 3603,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Breacher Team",
         "listOfOptions" : [ {
@@ -700,43 +741,50 @@
           "listOfRestrictions" : null,
           "optionID" : 3700,
           "optionName" : "Additional Fire Warrior",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3753,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3754,
           "optionName" : "MV36 Guardian Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3801,
           "optionName" : "Markerlight",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 3812,
           "optionName" : "Pulse pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3855,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3856,
           "optionName" : "Smart missile system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -759,7 +807,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 35,
         "unitID" : 3604,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Strike Team",
         "listOfOptions" : [ {
@@ -767,43 +816,50 @@
           "listOfRestrictions" : null,
           "optionID" : 3857,
           "optionName" : "Additional Fire Warrior",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3858,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3859,
           "optionName" : "Markerlight",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 3860,
           "optionName" : "Pulse pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3861,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3862,
           "optionName" : "Smart missile system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3145,
           "optionName" : "Pulse carbine",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -826,7 +882,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 35,
         "unitID" : 3605,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Kroot Carnivores",
         "listOfOptions" : [ {
@@ -834,7 +891,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3863,
           "optionName" : "Additional Kroot Carnivore",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -857,7 +915,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 50,
         "unitID" : 3606,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Kroot Shaper",
         "listOfOptions" : null,
@@ -865,7 +924,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 31,
         "unitID" : 3607,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Krootox Riders",
         "listOfOptions" : [ {
@@ -873,7 +933,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3864,
           "optionName" : "Additional Krootox Rider",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -896,7 +957,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 34,
         "unitID" : 3608,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]XV25 Stealth Battlesuits",
         "listOfOptions" : [ {
@@ -906,43 +968,50 @@
           "optionName" : "Additional Stealth Shas'ui",
           "autoAddDictionary" : {
             "3867" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3866,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3867,
           "optionName" : "Burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3868,
           "optionName" : "$Support Systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 21,
+          "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 3869,
           "optionName" : "Fusion blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 3870,
-          "optionName" : "Merkerlight and target lock",
-          "autoAddDictionary" : { }
+          "optionName" : "Markerlight and target lock",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4744,
           "optionName" : "Homing beacon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -967,47 +1036,54 @@
         "unitID" : 3609,
         "autoAddDictionary" : {
           "3867" : "3"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]XV8 Crisis Battlesuits",
         "listOfOptions" : [ {
-          "optionCost" : 42,
+          "optionCost" : 27,
           "listOfRestrictions" : null,
           "optionID" : 3872,
           "optionName" : "Additional Crisis Shas'ui",
           "autoAddDictionary" : {
             "3873" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3873,
           "optionName" : "Burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3874,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3875,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3876,
           "optionName" : "$Support Systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3877,
           "optionName" : "XV8-02 Crisis Iridium Battlesuit",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1028,51 +1104,58 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 126,
+        "unitCost" : 81,
         "unitID" : 3610,
         "autoAddDictionary" : {
           "3873" : "3"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]XV8 Crisis Bodyguards",
         "listOfOptions" : [ {
-          "optionCost" : 45,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3878,
           "optionName" : "Additional Crisis Bodyguard",
           "autoAddDictionary" : {
             "3879" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3879,
           "optionName" : "Burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3880,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3881,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3882,
           "optionName" : "$Support Systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3883,
           "optionName" : "XV8-02 Crisis Iridium Battlesuit",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1093,11 +1176,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 135,
+        "unitCost" : 90,
         "unitID" : 3611,
         "autoAddDictionary" : {
           "3879" : "3"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Firesight Marksman",
         "listOfOptions" : [ {
@@ -1105,13 +1189,15 @@
           "listOfRestrictions" : null,
           "optionID" : 3884,
           "optionName" : "Markerlight",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 3885,
           "optionName" : "Pulse pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1137,51 +1223,59 @@
         "autoAddDictionary" : {
           "3884" : "1",
           "3885" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "XV95 Ghostkeel Battlesuit",
         "listOfOptions" : [ {
-          "optionCost" : 35,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3886,
           "optionName" : "Fusion collider",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 18,
+          "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3887,
           "optionName" : "Two flamers",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3888,
           "optionName" : "2 MV5 Stealth Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 39,
+          "optionCost" : 32,
           "listOfRestrictions" : null,
           "optionID" : 3889,
           "optionName" : "Cyclic ion raker",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3890,
           "optionName" : "Two burst cannons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 42,
+          "optionCost" : 36,
           "listOfRestrictions" : null,
           "optionID" : 3891,
           "optionName" : "Two fusion blasters",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3892,
           "optionName" : "$Support Systems Ghostkeel/Riptide",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -1270,13 +1364,14 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 82,
+        "unitCost" : 70,
         "unitID" : 3613,
         "autoAddDictionary" : {
           "3886" : "1",
           "3887" : "1",
           "3888" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "XV104 Riptide Battlesuit",
         "listOfOptions" : [ {
@@ -1284,49 +1379,57 @@
           "listOfRestrictions" : null,
           "optionID" : 3893,
           "optionName" : "$Support Systems Ghostkeel/Riptide",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3894,
           "optionName" : "Heavy burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3895,
           "optionName" : "Two smart missile systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3896,
           "optionName" : "MV84 Shielded Missile Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3897,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 22,
+          "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3898,
           "optionName" : "Two plasma rifles",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 42,
+          "optionCost" : 36,
           "listOfRestrictions" : null,
           "optionID" : 3899,
           "optionName" : "Two fusion blasters",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 65,
+          "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3900,
           "optionName" : "Ion accelerator",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1437,7 +1540,8 @@
         "autoAddDictionary" : {
           "3894" : "1",
           "3895" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Pathfinder Team",
         "listOfOptions" : [ {
@@ -1447,61 +1551,71 @@
           "optionName" : "Additional Pathfinder",
           "autoAddDictionary" : {
             "3903" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3903,
           "optionName" : "Markerlight",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3904,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3905,
           "optionName" : "MB3 Recon Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3906,
           "optionName" : "Burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3907,
           "optionName" : "MV31 Pulse Accelerator Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3908,
           "optionName" : "MV33 Grav-inhibitor Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 3909,
           "optionName" : "Ion rifle",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3910,
           "optionName" : "Rail rifle",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 3911,
           "optionName" : "Pulse pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1526,42 +1640,48 @@
         "unitID" : 3615,
         "autoAddDictionary" : {
           "3903" : "5"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "TX4 Piranhas",
         "listOfOptions" : [ {
-          "optionCost" : 38,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3912,
           "optionName" : "Additional TX4 Piranha",
           "autoAddDictionary" : {
             "3913" : "1",
             "3914" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 24,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3913,
           "optionName" : "2 MV1 Gun Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3914,
           "optionName" : "Burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 21,
+          "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 3915,
           "optionName" : "Fusion blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3916,
           "optionName" : "Seeker missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1582,12 +1702,13 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 38,
+        "unitCost" : 30,
         "unitID" : 3616,
         "autoAddDictionary" : {
           "3913" : "1",
           "3914" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[4]Vespid Stingwings",
         "listOfOptions" : [ {
@@ -1595,7 +1716,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3917,
           "optionName" : "Additional Vespid Stingwing",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1618,7 +1740,8 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 56,
         "unitID" : 3617,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[4]Kroot Hounds",
         "listOfOptions" : [ {
@@ -1626,7 +1749,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3918,
           "optionName" : "Additional Kroot Hound",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1649,72 +1773,83 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 16,
         "unitID" : 3618,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "XV88 Broadside Battlesuits",
         "listOfOptions" : [ {
-          "optionCost" : 60,
+          "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3919,
           "optionName" : "Additional XV88 Broadside Battlesuit",
           "autoAddDictionary" : {
             "3920" : "1",
             "3921" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3920,
           "optionName" : "Heavy rail rifle",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3921,
           "optionName" : "Two smart missile systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3924,
           "optionName" : "MV8 Missile Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3925,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3926,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3927,
           "optionName" : "Two high-yield missiles pods",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 22,
+          "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3928,
           "optionName" : "Two plasma rifles",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3929,
           "optionName" : "Seeker missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3930,
           "optionName" : "$Support Systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1735,50 +1870,57 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 60,
+        "unitCost" : 35,
         "unitID" : 3619,
         "autoAddDictionary" : {
           "3920" : "1",
           "3921" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "TX7 Hammerhead Gunship",
         "listOfOptions" : [ {
-          "optionCost" : 38,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3931,
           "optionName" : "Railgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3932,
           "optionName" : "2 MV1 Gun Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3933,
           "optionName" : "Two burst cannons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3934,
           "optionName" : "Two smart missile systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3935,
           "optionName" : "Seeker missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3936,
           "optionName" : "Ion cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -1872,7 +2014,8 @@
         "autoAddDictionary" : {
           "3931" : "1",
           "3932" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "TX78 Sky Ray Gunship",
         "listOfOptions" : [ {
@@ -1880,37 +2023,42 @@
           "listOfRestrictions" : null,
           "optionID" : 3937,
           "optionName" : "Two markerlights",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3938,
           "optionName" : "Six seeker missiles",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3939,
           "optionName" : "2 MV1 Gun Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3940,
           "optionName" : "Two burst cannons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3941,
           "optionName" : "Two smart missile systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : -1,
           "multiplier" : -1,
-          "errorMessage" : "You must have too markerlights and siz seeker missiles.",
+          "errorMessage" : "You must have too markerlights and six seeker missiles.",
           "nameOfCheck" : "checkCurrentUnitUpgradeProperty",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "optionQuantity",
@@ -1958,13 +2106,14 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 100,
+        "unitCost" : 80,
         "unitID" : 3621,
         "autoAddDictionary" : {
           "3937" : "1",
           "3938" : "1",
           "3939" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "TY7 Devilfish",
         "listOfOptions" : [ {
@@ -1972,25 +2121,29 @@
           "listOfRestrictions" : null,
           "optionID" : 3942,
           "optionName" : "Burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3943,
           "optionName" : "2 MV1 Gun Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3944,
           "optionName" : "Two smart missile systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3945,
           "optionName" : "Seeker missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2062,12 +2215,13 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 80,
+        "unitCost" : 70,
         "unitID" : 3622,
         "autoAddDictionary" : {
           "3942" : "1",
           "3943" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "AX3 Razorshark Strike Fighter",
         "listOfOptions" : [ {
@@ -2075,25 +2229,29 @@
           "listOfRestrictions" : null,
           "optionID" : 3946,
           "optionName" : "Burst cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 45,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3947,
           "optionName" : "Quad ion turret",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3948,
           "optionName" : "Two seeker missiles",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3949,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2154,7 +2312,8 @@
           "3946" : "1",
           "3947" : "1",
           "3948" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "AX39 Sun Shark Bomber",
         "listOfOptions" : [ {
@@ -2162,25 +2321,29 @@
           "listOfRestrictions" : null,
           "optionID" : 3950,
           "optionName" : "Markerlight",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3951,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3952,
           "optionName" : "Two seeker missiles",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 4745,
           "optionName" : "2 MV17 Interceptor Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2242,7 +2405,8 @@
           "3951" : "1",
           "3952" : "1",
           "4745" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Tidewall Shieldline",
         "listOfOptions" : [ {
@@ -2250,7 +2414,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3953,
           "optionName" : "Tidewall Defence Platform",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2273,7 +2438,8 @@
         "unitCategory" : "Fortification",
         "unitCost" : 70,
         "unitID" : 3625,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Tidewall Droneport",
         "listOfOptions" : [ {
@@ -2281,7 +2447,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3954,
           "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2304,7 +2471,8 @@
         "unitCategory" : "Fortification",
         "unitCost" : 70,
         "unitID" : 3626,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Tidewall Gunrig",
         "listOfOptions" : [ {
@@ -2312,7 +2480,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3955,
           "optionName" : "Supremacy railgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2337,7 +2506,8 @@
         "unitID" : 3627,
         "autoAddDictionary" : {
           "3955" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "KV128 Stormsurge",
         "listOfOptions" : [ {
@@ -2345,55 +2515,64 @@
           "listOfRestrictions" : null,
           "optionID" : 3956,
           "optionName" : "Cluster rocket system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 3957,
           "optionName" : "Four destroyer missiles",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 18,
+          "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3958,
           "optionName" : "Two flamers",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 43,
           "listOfRestrictions" : null,
           "optionID" : 3959,
           "optionName" : "Pulse blastcannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3960,
           "optionName" : "Two smart missile systems",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3961,
           "optionName" : "Two burst cannons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3962,
           "optionName" : "Two airbursting fragmentation projectors",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 97,
+          "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3963,
           "optionName" : "Pulse driver cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3964,
           "optionName" : "$Support Systems Stormsurge",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2507,39 +2686,45 @@
           "3959" : "1",
           "3960" : "1",
           "3956" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Tactical Drones",
         "listOfOptions" : [ {
-          "optionCost" : 12,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3967,
           "optionName" : "MV1 Gun Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3968,
           "optionName" : "MV4 Shield Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3969,
           "optionName" : "MV7 Marker Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3970,
           "optionName" : "Markerlight",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
         "unitCost" : 0,
         "unitID" : 3629,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]MV71 Sniper Drone",
         "listOfOptions" : [ {
@@ -2547,13 +2732,24 @@
           "listOfRestrictions" : null,
           "optionID" : 3971,
           "optionName" : "Additional Sniper Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
         "unitCost" : 54,
         "unitID" : 3630,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
+      }, {
+        "unitName" : "The Eight",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lords of War",
+        "unitCost" : 1120,
+        "unitID" : 5071,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -2561,94 +2757,109 @@
           "listOfRestrictions" : null,
           "optionID" : 3562,
           "optionName" : "Airbursting fragmentation projector",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3563,
           "optionName" : "Burst Cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 3564,
           "optionName" : "Cyclic ion blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 9,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3565,
           "optionName" : "Flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 21,
+          "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 3566,
           "optionName" : "Fusion blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3567,
           "optionName" : "Missile pod",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 11,
+          "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3568,
           "optionName" : "Plasma rifle",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Ranged Weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 12,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3572,
           "optionName" : "Advanced targeting system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3575,
           "optionName" : "Counterfire defence system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3578,
           "optionName" : "Drone controller",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3581,
           "optionName" : "Early warning override",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3584,
           "optionName" : "Multi-tracker",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3587,
           "optionName" : "Shield generator",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3590,
           "optionName" : "Target lock",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 3593,
           "optionName" : "Velocity tracker",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Support Systems"
       }, {
@@ -2657,49 +2868,57 @@
           "listOfRestrictions" : null,
           "optionID" : 3573,
           "optionName" : "Advanced targeting system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3576,
           "optionName" : "Counterfire defence system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3579,
           "optionName" : "Drone controller",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3582,
           "optionName" : "Early warning override",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3585,
           "optionName" : "Multi-tracker",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 3589,
           "optionName" : "Shield generator",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3591,
           "optionName" : "Target lock",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3594,
           "optionName" : "Velocity tracker",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Support Systems Stormsurge"
       }, {
@@ -2708,76 +2927,88 @@
           "listOfRestrictions" : null,
           "optionID" : 3574,
           "optionName" : "Advanced targeting system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3577,
           "optionName" : "Counterfire defence system",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3580,
           "optionName" : "Drone controller",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3583,
           "optionName" : "Early warning override",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3586,
           "optionName" : "Multi-tracker",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3588,
           "optionName" : "Shield generator",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3592,
           "optionName" : "Target lock",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3595,
           "optionName" : "Velocity tracker",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Support Systems Ghostkeel/Riptide"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 12,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3833,
           "optionName" : "MV1 Gun Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3965,
           "optionName" : "MV4 Shield Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3966,
           "optionName" : "MV7 Marker Drone",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Tactical Drones"
       } ],
       "armyName" : "T'au Empire",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }

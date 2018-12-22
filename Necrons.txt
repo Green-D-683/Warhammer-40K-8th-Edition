@@ -25,9 +25,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 200,
+        "unitCost" : 160,
         "unitID" : 3362,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Nemesor Zahndrekh",
         "listOfOptions" : null,
@@ -50,9 +51,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 180,
+        "unitCost" : 150,
         "unitID" : 3363,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Vargard Obyron",
         "listOfOptions" : null,
@@ -75,9 +77,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 140,
+        "unitCost" : 125,
         "unitID" : 3364,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Illuminor Szeras",
         "listOfOptions" : null,
@@ -100,9 +103,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 143,
+        "unitCost" : 120,
         "unitID" : 3365,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Orikan The Diviner",
         "listOfOptions" : null,
@@ -127,7 +131,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 115,
         "unitID" : 3366,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Anrakyr The Traveller",
         "listOfOptions" : null,
@@ -152,7 +157,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 167,
         "unitID" : 3367,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Trazyn The Infinite",
         "listOfOptions" : null,
@@ -175,9 +181,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 100,
+        "unitCost" : 90,
         "unitID" : 3368,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Catacomb Command Barge",
         "listOfOptions" : [ {
@@ -185,43 +192,50 @@
           "listOfRestrictions" : null,
           "optionID" : 493,
           "optionName" : "Gauss Cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 497,
           "optionName" : "Staff of light",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3493,
           "optionName" : "Hyperphase sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3496,
           "optionName" : "Voidblade",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 11,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 3497,
           "optionName" : "Warscythe",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3498,
           "optionName" : "Resurrection orb",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 3499,
           "optionName" : "Tesla cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -310,12 +324,13 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 138,
+        "unitCost" : 124,
         "unitID" : 3369,
         "autoAddDictionary" : {
           "497" : "1",
           "493" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Overlord",
         "listOfOptions" : [ {
@@ -323,37 +338,43 @@
           "listOfRestrictions" : null,
           "optionID" : 3500,
           "optionName" : "Staff of light",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3501,
           "optionName" : "Hyperphase sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3502,
           "optionName" : "Voidblade",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 11,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 3503,
           "optionName" : "Warscythe",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3504,
           "optionName" : "Voidscythe",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3505,
           "optionName" : "Resurection orb",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -412,7 +433,8 @@
         "unitID" : 3370,
         "autoAddDictionary" : {
           "3500" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Lord",
         "listOfOptions" : [ {
@@ -420,31 +442,36 @@
           "listOfRestrictions" : null,
           "optionID" : 3506,
           "optionName" : "Staff of light",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3507,
           "optionName" : "Hyperphase sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3508,
           "optionName" : "Voidblade",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 11,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 3509,
           "optionName" : "Warscythe",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3510,
           "optionName" : "Resurection orb",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -499,11 +526,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 73,
+        "unitCost" : 65,
         "unitID" : 3371,
         "autoAddDictionary" : {
           "3506" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Cryptek",
         "listOfOptions" : [ {
@@ -511,19 +539,22 @@
           "listOfRestrictions" : null,
           "optionID" : 3511,
           "optionName" : "Staff of light",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3512,
           "optionName" : "Chronometron",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3513,
           "optionName" : "Canoptek cloak",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -565,7 +596,8 @@
         "unitID" : 3372,
         "autoAddDictionary" : {
           "3511" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Destroyer Lord",
         "listOfOptions" : [ {
@@ -573,37 +605,43 @@
           "listOfRestrictions" : null,
           "optionID" : 3514,
           "optionName" : "Staff of light",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3515,
           "optionName" : "Hyperphase sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3516,
           "optionName" : "Voidblade",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 11,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 3517,
           "optionName" : "Warscythe",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3518,
           "optionName" : "Phylactery",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3519,
           "optionName" : "Resurection Orb",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -662,15 +700,17 @@
         "unitID" : 3373,
         "autoAddDictionary" : {
           "3514" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Necron Warriors",
         "listOfOptions" : [ {
-          "optionCost" : 12,
+          "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 3520,
           "optionName" : "Additional Necron Warrior",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -691,9 +731,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 120,
+        "unitCost" : 110,
         "unitID" : 3374,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Immortals",
         "listOfOptions" : [ {
@@ -703,19 +744,22 @@
           "optionName" : "Additional Immortal",
           "autoAddDictionary" : {
             "3522" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 9,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 3522,
           "optionName" : "Gauss blaster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 9,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 3523,
           "optionName" : "Tesla carbine",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -740,7 +784,8 @@
         "unitID" : 3375,
         "autoAddDictionary" : {
           "3522" : "5"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Lychguard",
         "listOfOptions" : [ {
@@ -750,19 +795,22 @@
           "optionName" : "Additional Lychguard",
           "autoAddDictionary" : {
             "3525" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 11,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 3525,
           "optionName" : "Warscythe",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 3526,
           "optionName" : "Hyperphase sword and dispersion shield",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -787,15 +835,17 @@
         "unitID" : 3376,
         "autoAddDictionary" : {
           "3525" : "5"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Deathmarks",
         "listOfOptions" : [ {
-          "optionCost" : 19,
+          "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 3527,
           "optionName" : "Additional Deathmark",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -816,9 +866,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 95,
+        "unitCost" : 85,
         "unitID" : 3377,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Flayed Ones",
         "listOfOptions" : [ {
@@ -826,7 +877,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3528,
           "optionName" : "Additional Flayed One",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -849,29 +901,33 @@
         "unitCategory" : "Elites",
         "unitCost" : 85,
         "unitID" : 3378,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Triarch Praetorians",
         "listOfOptions" : [ {
-          "optionCost" : 22,
+          "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 3529,
           "optionName" : "Additional Triarch Praetorian",
           "autoAddDictionary" : {
             "3530" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3530,
           "optionName" : "Rod of covenant",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3531,
           "optionName" : "Voidblade and particle caster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -892,31 +948,35 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 110,
+        "unitCost" : 80,
         "unitID" : 3379,
         "autoAddDictionary" : {
           "3530" : "5"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Triarch Stalker",
         "listOfOptions" : [ {
-          "optionCost" : 54,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 3532,
           "optionName" : "Heat ray",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 41,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3533,
           "optionName" : "Particle shredder",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 54,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 3534,
           "optionName" : "Twin heavy gauss cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -954,11 +1014,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 117,
+        "unitCost" : 85,
         "unitID" : 3380,
         "autoAddDictionary" : {
           "3532" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "C'tan Shard Of The Deceiver",
         "listOfOptions" : null,
@@ -983,7 +1044,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 225,
         "unitID" : 3381,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "C'tan Shard Of The Nightbringer",
         "listOfOptions" : null,
@@ -1006,35 +1068,40 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 210,
+        "unitCost" : 180,
         "unitID" : 3382,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Canoptek Wraiths",
         "listOfOptions" : [ {
-          "optionCost" : 55,
+          "optionCost" : 48,
           "listOfRestrictions" : null,
           "optionID" : 3536,
           "optionName" : "Additional Canoptek Wraith",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 3537,
           "optionName" : "Particle caster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3538,
           "optionName" : "Transdimensional beamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 3539,
           "optionName" : "Whip coil",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1055,9 +1122,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 165,
+        "unitCost" : 144,
         "unitID" : 3383,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Canoptek Scarabs",
         "listOfOptions" : [ {
@@ -1065,7 +1133,8 @@
           "listOfRestrictions" : null,
           "optionID" : 3541,
           "optionName" : "Additional Canoptek Scarab",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1088,7 +1157,8 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 39,
         "unitID" : 3384,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Tomb Blades",
         "listOfOptions" : [ {
@@ -1098,43 +1168,50 @@
           "optionName" : "Additional Tomb Blade",
           "autoAddDictionary" : {
             "3543" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 18,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3543,
           "optionName" : "Two gauss blasters",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 18,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3544,
           "optionName" : "Two tesla carbines",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 3545,
           "optionName" : "Particle beamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3546,
           "optionName" : "Shieldvanes",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 3547,
           "optionName" : "Nebuloscope",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3548,
           "optionName" : "Shadowloom",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1159,7 +1236,8 @@
         "unitID" : 3385,
         "autoAddDictionary" : {
           "3543" : "3"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Destroyers",
         "listOfOptions" : [ {
@@ -1169,7 +1247,8 @@
           "optionName" : "Additional Destroyer",
           "autoAddDictionary" : {
             "3552" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
@@ -1177,19 +1256,22 @@
           "optionName" : "Heavy Destroyer",
           "autoAddDictionary" : {
             "3553" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3552,
           "optionName" : "Gauss cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 27,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3553,
           "optionName" : "Heavy gauss cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
@@ -1197,15 +1279,17 @@
         "unitID" : 3386,
         "autoAddDictionary" : {
           "3552" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Heavy Destroyers",
         "listOfOptions" : [ {
-          "optionCost" : 27,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3554,
           "optionName" : "Heavy gauss cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
@@ -1213,7 +1297,8 @@
           "optionName" : "Additional Heavy Destroyer",
           "autoAddDictionary" : {
             "3554" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1238,7 +1323,8 @@
         "unitID" : 3387,
         "autoAddDictionary" : {
           "3554" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Canoptek Spyders",
         "listOfOptions" : [ {
@@ -1246,25 +1332,29 @@
           "listOfRestrictions" : null,
           "optionID" : 3556,
           "optionName" : "Additional Canoptek Spyder",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3557,
           "optionName" : "Fabricator claw array",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3558,
           "optionName" : "Gloom prism",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3559,
           "optionName" : "Two particle beamers",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1287,15 +1377,17 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 65,
         "unitID" : 3388,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Monolith",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 381,
+        "unitCost" : 320,
         "unitID" : 3389,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Annihilation Barge",
         "listOfOptions" : [ {
@@ -1303,13 +1395,15 @@
           "listOfRestrictions" : null,
           "optionID" : 3560,
           "optionName" : "Gauss cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 3561,
           "optionName" : "Tesla cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -1347,72 +1441,81 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 133,
+        "unitCost" : 100,
         "unitID" : 3390,
         "autoAddDictionary" : {
           "3560" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Doomsday Ark",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 193,
+        "unitCost" : 160,
         "unitID" : 3391,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Transcendent C'tan",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 225,
+        "unitCost" : 200,
         "unitID" : 3392,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Ghost Ark",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 160,
+        "unitCost" : 145,
         "unitID" : 3393,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Doom Scythe",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Flyers",
-        "unitCost" : 205,
+        "unitCost" : 150,
         "unitID" : 3394,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Night Scythe",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Flyers",
-        "unitCost" : 160,
+        "unitCost" : 135,
         "unitID" : 3395,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Obelisk",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Lords of War",
-        "unitCost" : 426,
+        "unitCost" : 380,
         "unitID" : 3396,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Tesseract Vault ",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Lords of War",
-        "unitCost" : 496,
+        "unitCost" : 566,
         "unitID" : 3397,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,
       "armyName" : "Necrons",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }

@@ -25,9 +25,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 150,
+        "unitCost" : 135,
         "unitID" : 2415,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Farseer",
         "listOfOptions" : [ {
@@ -35,7 +36,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2519,
           "optionName" : "Singing spear",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -56,23 +58,26 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 100,
+        "unitCost" : 110,
         "unitID" : 2416,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Farseer Skyrunner",
         "listOfOptions" : [ {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2520,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2521,
           "optionName" : "Singing spear",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -114,21 +119,24 @@
         "unitID" : 2417,
         "autoAddDictionary" : {
           "2520" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[2]Warlock Conclave",
         "listOfOptions" : [ {
-          "optionCost" : 30,
+          "optionCost" : 45,
           "listOfRestrictions" : null,
           "optionID" : 2522,
           "optionName" : "Additional Warlock",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2523,
           "optionName" : "Singing spear",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -149,9 +157,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 60,
+        "unitCost" : 90,
         "unitID" : 2418,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[2]Warlock Skyrunner Conclave",
         "listOfOptions" : [ {
@@ -161,19 +170,22 @@
           "optionName" : "Additional Warlock Skyrunner",
           "autoAddDictionary" : {
             "2526" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2525,
           "optionName" : "Singing spear",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2526,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
@@ -181,7 +193,8 @@
         "unitID" : 2419,
         "autoAddDictionary" : {
           "2526" : "2"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Warlock",
         "listOfOptions" : [ {
@@ -189,7 +202,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2527,
           "optionName" : "Singing spear",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -210,9 +224,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 35,
+        "unitCost" : 55,
         "unitID" : 2420,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Warlock Skyrunner",
         "listOfOptions" : [ {
@@ -220,13 +235,15 @@
           "listOfRestrictions" : null,
           "optionID" : 2528,
           "optionName" : "Singing spear",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2529,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -268,7 +285,8 @@
         "unitID" : 2421,
         "autoAddDictionary" : {
           "2529" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Prince Yriel",
         "listOfOptions" : null,
@@ -291,9 +309,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 100,
+        "unitCost" : 70,
         "unitID" : 2422,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Autarch",
         "listOfOptions" : [ {
@@ -301,13 +320,15 @@
           "listOfRestrictions" : null,
           "optionID" : 2530,
           "optionName" : "Star glaive",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2531,
           "optionName" : "Forceshield",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -333,7 +354,8 @@
         "autoAddDictionary" : {
           "2531" : "1",
           "2530" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Autarch With Swooping Hawk Wings",
         "listOfOptions" : [ {
@@ -341,19 +363,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2532,
           "optionName" : "Power sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2533,
           "optionName" : "Forceshield",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 9,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 4715,
           "optionName" : "Fusion pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -380,7 +405,8 @@
           "2533" : "1",
           "2532" : "1",
           "4715" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Autarch Skyrunner",
         "listOfOptions" : [ {
@@ -388,25 +414,29 @@
           "listOfRestrictions" : null,
           "optionID" : 2534,
           "optionName" : "Power sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2535,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2536,
           "optionName" : "Laser lance",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2537,
           "optionName" : "Fusion gun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -466,7 +496,8 @@
         "autoAddDictionary" : {
           "2535" : "1",
           "2534" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Avatar Of Khaine",
         "listOfOptions" : null,
@@ -489,9 +520,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 250,
+        "unitCost" : 220,
         "unitID" : 2426,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Asurmen",
         "listOfOptions" : null,
@@ -516,7 +548,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 175,
         "unitID" : 2427,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Baharroth",
         "listOfOptions" : null,
@@ -541,7 +574,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 110,
         "unitID" : 2428,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Fuegan",
         "listOfOptions" : null,
@@ -564,9 +598,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 150,
+        "unitCost" : 140,
         "unitID" : 2429,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Jain Zar",
         "listOfOptions" : null,
@@ -589,9 +624,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 140,
+        "unitCost" : 115,
         "unitID" : 2430,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Karandras",
         "listOfOptions" : null,
@@ -614,9 +650,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 150,
+        "unitCost" : 125,
         "unitID" : 2431,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Maugan Ra",
         "listOfOptions" : null,
@@ -641,7 +678,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 140,
         "unitID" : 2432,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Illic Nightspear",
         "listOfOptions" : null,
@@ -666,15 +704,17 @@
         "unitCategory" : "HQ",
         "unitCost" : 80,
         "unitID" : 2433,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Spiritseer",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 45,
+        "unitCost" : 65,
         "unitID" : 2434,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[10]Guardian Defenders",
         "listOfOptions" : [ {
@@ -682,7 +722,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2255,
           "optionName" : "Additional Guardian",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
@@ -690,19 +731,22 @@
           "optionName" : "Heavy Weapon Platform",
           "autoAddDictionary" : {
             "2440" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2440,
           "optionName" : "Shuriken Cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2515,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -725,33 +769,38 @@
         "unitCategory" : "Troops",
         "unitCost" : 80,
         "unitID" : 2435,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[8]Storm Guardians",
         "listOfOptions" : [ {
-          "optionCost" : 7,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2538,
           "optionName" : "Additional Storm Guardian",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 9,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2539,
           "optionName" : "Flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2540,
           "optionName" : "Fusion gun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4716,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -789,9 +838,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 56,
+        "unitCost" : 48,
         "unitID" : 2436,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Dire Avengers",
         "listOfOptions" : [ {
@@ -801,37 +851,43 @@
           "optionName" : "Additional Dire Avenger",
           "autoAddDictionary" : {
             "2542" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2542,
           "optionName" : "Avenger shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2543,
           "optionName" : "Two avenger shuriken catapults",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2544,
           "optionName" : "Shuriken pistol and power glaive",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2545,
           "optionName" : "Shuriken pistol and diresword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2546,
           "optionName" : "Shimmershield and power glaive",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -873,7 +929,8 @@
         "unitID" : 2437,
         "autoAddDictionary" : {
           "2542" : "5"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Rangers",
         "listOfOptions" : [ {
@@ -881,7 +938,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2547,
           "optionName" : "Additional Ranger",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -904,7 +962,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 60,
         "unitID" : 2438,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Howling Banshees",
         "listOfOptions" : [ {
@@ -914,25 +973,29 @@
           "optionName" : "Additional Howling Banshee",
           "autoAddDictionary" : {
             "2549" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2549,
           "optionName" : "Power sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2550,
           "optionName" : "Executioner",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2551,
           "optionName" : "Mirrorswords",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -972,35 +1035,40 @@
         "unitCategory" : "Elites",
         "unitCost" : 45,
         "unitID" : 2441,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Striking Scorpions",
         "listOfOptions" : [ {
-          "optionCost" : 13,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2552,
           "optionName" : "Additional Striking Scorpion",
           "autoAddDictionary" : {
             "2553" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 2553,
           "optionName" : "Scorpion chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 2554,
           "optionName" : "Scorpion's claw",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2555,
           "optionName" : "Biting blade",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1038,39 +1106,44 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 65,
+        "unitCost" : 50,
         "unitID" : 2442,
         "autoAddDictionary" : {
           "2553" : "5"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Fire Dragons",
         "listOfOptions" : [ {
-          "optionCost" : 7,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2557,
           "optionName" : "Additional Fire Dragon",
           "autoAddDictionary" : {
             "2558" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2558,
           "optionName" : "Fusion gun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2559,
           "optionName" : "Dragon's breath flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 2560,
           "optionName" : "Firepike",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1108,11 +1181,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 35,
+        "unitCost" : 50,
         "unitID" : 2443,
         "autoAddDictionary" : {
           "2558" : "5"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Wraithblades",
         "listOfOptions" : [ {
@@ -1122,19 +1196,22 @@
           "optionName" : "Additional Wraithblade",
           "autoAddDictionary" : {
             "2562" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2562,
           "optionName" : "Ghostswords",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 2563,
           "optionName" : "Ghostaxes and forceshield",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1159,7 +1236,8 @@
         "unitID" : 2444,
         "autoAddDictionary" : {
           "2562" : "5"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Wraithguard",
         "listOfOptions" : [ {
@@ -1169,19 +1247,22 @@
           "optionName" : "Additional Wraithguard",
           "autoAddDictionary" : {
             "2566" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2566,
           "optionName" : "Wraithcannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 22,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2567,
-          "optionName" : "D-scythes",
-          "autoAddDictionary" : null
+          "optionName" : "D-scythe",
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1206,35 +1287,40 @@
         "unitID" : 2445,
         "autoAddDictionary" : {
           "2566" : "5"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Windriders",
         "listOfOptions" : [ {
-          "optionCost" : 18,
+          "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 2568,
           "optionName" : "Additional Windrider",
           "autoAddDictionary" : {
             "2569" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2569,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2570,
           "optionName" : "Scatter laser",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2571,
           "optionName" : "Shuriken cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1255,40 +1341,45 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 54,
+        "unitCost" : 48,
         "unitID" : 2446,
         "autoAddDictionary" : {
           "2569" : "3"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Vypers",
         "listOfOptions" : [ {
-          "optionCost" : 50,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 2572,
           "optionName" : "Additional Vyper",
           "autoAddDictionary" : {
             "2574" : "1",
             "2573" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2573,
           "optionName" : "Shuriken cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2574,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2575,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1309,12 +1400,13 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 50,
+        "unitCost" : 40,
         "unitID" : 2447,
         "autoAddDictionary" : {
           "2574" : "1",
           "2573" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Swooping Hawks",
         "listOfOptions" : [ {
@@ -1324,25 +1416,29 @@
           "optionName" : "Additional Swooping Hawk",
           "autoAddDictionary" : {
             "2577" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2577,
           "optionName" : "Lasblaster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2578,
           "optionName" : "Hawk's talon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2579,
           "optionName" : "Power sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1384,7 +1480,8 @@
         "unitID" : 2448,
         "autoAddDictionary" : {
           "2577" : "5"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Warp Spiders",
         "listOfOptions" : [ {
@@ -1394,19 +1491,22 @@
           "optionName" : "Additional Warp Spider",
           "autoAddDictionary" : {
             "2581" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2581,
           "optionName" : "Death spinner",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2583,
           "optionName" : "Powerblades",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1448,42 +1548,48 @@
         "unitID" : 2449,
         "autoAddDictionary" : {
           "2581" : "5"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Shining Spears",
         "listOfOptions" : [ {
-          "optionCost" : 18,
+          "optionCost" : 24,
           "listOfRestrictions" : null,
           "optionID" : 2584,
           "optionName" : "Additional Shining Spear",
           "autoAddDictionary" : {
             "2586" : "1",
             "2585" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2585,
           "optionName" : "Laser lance",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2586,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2587,
           "optionName" : "Star lance",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2588,
           "optionName" : "Paragon sabre",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1521,34 +1627,38 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 54,
+        "unitCost" : 72,
         "unitID" : 2450,
         "autoAddDictionary" : {
           "2586" : "3",
           "2585" : "3"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "War Walkers",
         "listOfOptions" : [ {
-          "optionCost" : 50,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 2589,
           "optionName" : "Additional War Walker",
           "autoAddDictionary" : {
             "2590" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2590,
           "optionName" : "Two shuriken cannons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2591,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1569,31 +1679,35 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 50,
+        "unitCost" : 40,
         "unitID" : 2451,
         "autoAddDictionary" : {
           "2590" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Wraithlord",
         "listOfOptions" : [ {
-          "optionCost" : 9,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2592,
           "optionName" : "Flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2593,
           "optionName" : "Ghostglaive",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2594,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1614,37 +1728,42 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 103,
+        "unitCost" : 85,
         "unitID" : 2452,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Support Weapons",
         "listOfOptions" : [ {
-          "optionCost" : 30,
+          "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 2595,
           "optionName" : "Additional Support Weapon",
           "autoAddDictionary" : {
             "2596" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 25,
+          "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2596,
           "optionName" : "Shadow weaver",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 30,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2597,
           "optionName" : "Vibro cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 45,
           "listOfRestrictions" : null,
           "optionID" : 2598,
           "optionName" : "D-cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1665,45 +1784,51 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 30,
+        "unitCost" : 25,
         "unitID" : 2453,
         "autoAddDictionary" : {
           "2596" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Dark Reapers",
         "listOfOptions" : [ {
-          "optionCost" : 5,
+          "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2599,
           "optionName" : "Additional Dark Reaper",
           "autoAddDictionary" : {
             "2600" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 2600,
           "optionName" : "Reaper launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2601,
           "optionName" : "Shuriken cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2602,
           "optionName" : "Aeldari missile launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 27,
           "listOfRestrictions" : null,
           "optionID" : 2603,
           "optionName" : "Tempest launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1724,11 +1849,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 15,
+        "unitCost" : 36,
         "unitID" : 2454,
         "autoAddDictionary" : {
           "2600" : "3"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Falcon",
         "listOfOptions" : [ {
@@ -1736,54 +1862,62 @@
           "listOfRestrictions" : null,
           "optionID" : 2604,
           "optionName" : "Shuriken cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2605,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2606,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2608,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 125,
+        "unitCost" : 110,
         "unitID" : 2455,
         "autoAddDictionary" : {
           "2605" : "1",
           "2604" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Night Spinner",
         "listOfOptions" : [ {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2609,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2610,
           "optionName" : "Shuriken cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2611,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1821,31 +1955,35 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 135,
+        "unitCost" : 110,
         "unitID" : 2456,
         "autoAddDictionary" : {
           "2609" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Fire Prism",
         "listOfOptions" : [ {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2612,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2613,
           "optionName" : "Shuriken cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2614,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -1887,7 +2025,8 @@
         "unitID" : 2457,
         "autoAddDictionary" : {
           "2612" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Wave Serpent",
         "listOfOptions" : [ {
@@ -1895,49 +2034,57 @@
           "listOfRestrictions" : null,
           "optionID" : 2615,
           "optionName" : "Twin shuriken cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2616,
           "optionName" : "Twin shuriken catapult",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 2617,
           "optionName" : "Twin bright lance",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2618,
           "optionName" : "Twin scatter laser",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 28,
+          "optionCost" : 24,
           "listOfRestrictions" : null,
           "optionID" : 2619,
           "optionName" : "Twin starcannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 2620,
           "optionName" : "Twin aeldari missile launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2621,
           "optionName" : "Shuriken cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2622,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -2009,12 +2156,13 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 107,
+        "unitCost" : 120,
         "unitID" : 2458,
         "autoAddDictionary" : {
           "2616" : "1",
           "2615" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Crimson Hunter",
         "listOfOptions" : [ {
@@ -2022,7 +2170,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2625,
           "optionName" : "Two bright lances",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2047,7 +2196,8 @@
         "unitID" : 2459,
         "autoAddDictionary" : {
           "2625" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Crimson Hunter Exarch",
         "listOfOptions" : [ {
@@ -2055,13 +2205,15 @@
           "listOfRestrictions" : null,
           "optionID" : 2635,
           "optionName" : "Two bright lances",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 30,
+          "optionCost" : 26,
           "listOfRestrictions" : null,
           "optionID" : 2636,
           "optionName" : "Two starcannons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2103,7 +2255,8 @@
         "unitID" : 2460,
         "autoAddDictionary" : {
           "2635" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Hemlock Wraithfighter",
         "listOfOptions" : [ {
@@ -2111,7 +2264,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2637,
           "optionName" : "Spirit stones",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2136,7 +2290,8 @@
         "unitID" : 2461,
         "autoAddDictionary" : {
           "2638" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Wraithknight",
         "listOfOptions" : [ {
@@ -2144,37 +2299,43 @@
           "listOfRestrictions" : null,
           "optionID" : 2638,
           "optionName" : "Two heavy wraithcannons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 60,
           "listOfRestrictions" : null,
           "optionID" : 2640,
-          "optionName" : "Titanic ghostglaive and scatter shield",
-          "autoAddDictionary" : { }
+          "optionName" : "Titanic ghostglaive and scattershield",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 138,
+          "optionCost" : 90,
           "listOfRestrictions" : null,
           "optionID" : 2641,
-          "optionName" : "Suncannon and scatter shield",
-          "autoAddDictionary" : { }
+          "optionName" : "Suncannon and scattershield",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2642,
           "optionName" : "Scatter laser",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2643,
           "optionName" : "Shuriken cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 2644,
           "optionName" : "Starcannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -2229,43 +2390,49 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 402,
+        "unitCost" : 315,
         "unitID" : 2462,
         "autoAddDictionary" : {
           "2638" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
-          "optionCost" : 25,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2406,
           "optionName" : "Aeldari missile launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2407,
           "optionName" : "Bright lance",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2408,
           "optionName" : "Scatter laser",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2409,
           "optionName" : "Shuriken cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 2410,
           "optionName" : "Starcannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Heavy Weapons"
       }, {
@@ -2274,31 +2441,36 @@
           "listOfRestrictions" : null,
           "optionID" : 2411,
           "optionName" : "Crystal targeting matrix",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2412,
           "optionName" : "Spirit stones",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2413,
           "optionName" : "Star enginges",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2414,
           "optionName" : "Vectored engines",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Vehicle Equipment"
       } ],
       "armyName" : "Craftworlds",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }

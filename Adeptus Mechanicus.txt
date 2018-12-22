@@ -25,9 +25,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 250,
+        "unitCost" : 190,
         "unitID" : 2202,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Tech-Priest Dominus",
         "listOfOptions" : [ {
@@ -35,25 +36,29 @@
           "listOfRestrictions" : null,
           "optionID" : 2224,
           "optionName" : "Volkite blaster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2225,
           "optionName" : "Macrostubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 14,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2226,
           "optionName" : "Eradication ray",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2227,
           "optionName" : "Phosphor Serpenta",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "listOfNamesOfUnitID" : [ "2224", "2226" ],
@@ -126,20 +131,22 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 125,
+        "unitCost" : 80,
         "unitID" : 2203,
         "autoAddDictionary" : {
           "2225" : "1",
           "2224" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Tech-Priest Enginseer",
         "listOfOptions" : [ {
-          "optionCost" : 12,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2228,
           "optionName" : "Servo-arm",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -160,49 +167,56 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 40,
+        "unitCost" : 30,
         "unitID" : 2204,
         "autoAddDictionary" : {
           "2228" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Skitarii Rangers",
         "listOfOptions" : [ {
-          "optionCost" : 8,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2229,
           "optionName" : "Additional Skitarii Ranger",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 9,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2231,
           "optionName" : "Enchanced data-tether",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2232,
           "optionName" : "Omnispex",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2233,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2234,
           "optionName" : "$Pistol Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4710,
           "optionName" : "$Special Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -291,47 +305,54 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 40,
+        "unitCost" : 35,
         "unitID" : 2205,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Skitarii Vanguard",
         "listOfOptions" : [ {
-          "optionCost" : 9,
+          "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2235,
           "optionName" : "Additional Skitarii Vanguard",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2236,
           "optionName" : "$Special Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 9,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2237,
           "optionName" : "Enchanced data-tether",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2238,
           "optionName" : "Omnispex",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2239,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2240,
           "optionName" : "$Pistol Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -420,44 +441,50 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 45,
+        "unitCost" : 40,
         "unitID" : 2206,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Kataphron Breachers",
         "listOfOptions" : [ {
-          "optionCost" : 35,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2241,
           "optionName" : "Additional Kataphron Breacher",
           "autoAddDictionary" : {
             "2243" : "1",
             "2242" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 8,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2242,
           "optionName" : "Heavy arc rifle",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2243,
           "optionName" : "Arc claw",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 22,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2244,
           "optionName" : "Torsion cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2245,
           "optionName" : "Hydraulic claw",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -478,47 +505,53 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 105,
+        "unitCost" : 60,
         "unitID" : 2207,
         "autoAddDictionary" : {
           "2243" : "3",
           "2242" : "3"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Kataphron Destroyers",
         "listOfOptions" : [ {
-          "optionCost" : 35,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2246,
           "optionName" : "Additional Kataphron Destroyer",
           "autoAddDictionary" : {
             "2248" : "1",
             "2247" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 27,
           "listOfRestrictions" : null,
           "optionID" : 2247,
           "optionName" : "Plasma culverin",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2248,
           "optionName" : "Phosphor blaster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 2249,
           "optionName" : "Heavy grav-cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 2250,
           "optionName" : "Cognis flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -539,38 +572,43 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 105,
+        "unitCost" : 45,
         "unitID" : 2208,
         "autoAddDictionary" : {
           "2248" : "3",
           "2247" : "3"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[4]Servitors",
         "listOfOptions" : [ {
-          "optionCost" : 12,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2264,
           "optionName" : "Servo-arm",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2265,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 21,
+          "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 2266,
           "optionName" : "Plasma cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 27,
+          "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 2267,
           "optionName" : "Multi-melta",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 4,
@@ -625,25 +663,28 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 8,
+        "unitCost" : 20,
         "unitID" : 2209,
         "autoAddDictionary" : {
           "2264" : "4"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Cybernetica Datasmith",
         "listOfOptions" : [ {
-          "optionCost" : 20,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 2268,
           "optionName" : "Power fist",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2270,
           "optionName" : "Gamma pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -669,36 +710,41 @@
         "autoAddDictionary" : {
           "2268" : "1",
           "2270" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Sicarian Ruststalkers",
         "listOfOptions" : [ {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2260,
           "optionName" : "Additional Sicarian Ruststalker",
           "autoAddDictionary" : {
             "2262" : "1",
             "2261" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2261,
           "optionName" : "Transonic razor",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2262,
           "optionName" : "Chordclaw",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2263,
           "optionName" : "Transonic blades",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -736,47 +782,53 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 75,
+        "unitCost" : 50,
         "unitID" : 2211,
         "autoAddDictionary" : {
           "2262" : "5",
           "2261" : "5"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Sicarian Infiltrators",
         "listOfOptions" : [ {
-          "optionCost" : 18,
+          "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2271,
           "optionName" : "Additional Scarian Infiltrator",
           "autoAddDictionary" : {
             "2273" : "1",
             "2272" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2272,
           "optionName" : "Stubcarbine",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2273,
           "optionName" : "Power sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2274,
           "optionName" : "Flechette blaster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2275,
           "optionName" : "Taser goad",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -797,20 +849,22 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 90,
+        "unitCost" : 60,
         "unitID" : 2212,
         "autoAddDictionary" : {
           "2273" : "5",
           "2272" : "5"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Fulgurite Electro-Priests",
         "listOfOptions" : [ {
-          "optionCost" : 17,
+          "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 2276,
           "optionName" : "Additional Fulgurite Electro-Priest",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -831,9 +885,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 85,
+        "unitCost" : 80,
         "unitID" : 2213,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Corpuscarii Electro-Priests",
         "listOfOptions" : [ {
@@ -841,7 +896,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2277,
           "optionName" : "Additional Corpuscarii Electro-Priest",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -864,7 +920,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 70,
         "unitID" : 2214,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Sydonian Dragoons",
         "listOfOptions" : [ {
@@ -874,25 +931,29 @@
           "optionName" : "Additional Sydonian Dragoon",
           "autoAddDictionary" : {
             "2279" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 2279,
           "optionName" : "Taser lance",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2280,
           "optionName" : "Radium jezzail",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2281,
           "optionName" : "Phosphor serpenta",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -917,29 +978,33 @@
         "unitID" : 2215,
         "autoAddDictionary" : {
           "2279" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Ironstrider Ballistarii",
         "listOfOptions" : [ {
-          "optionCost" : 50,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 2282,
           "optionName" : "Additional Ironstrider Ballistarii",
           "autoAddDictionary" : {
             "2283" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 25,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2283,
           "optionName" : "Twin cognis autocannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 45,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 2284,
           "optionName" : "Twin cognis lascannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -960,11 +1025,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 50,
+        "unitCost" : 40,
         "unitID" : 2216,
         "autoAddDictionary" : {
           "2283" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[2]Kastelan Robots",
         "listOfOptions" : [ {
@@ -975,31 +1041,36 @@
           "autoAddDictionary" : {
             "2287" : "1",
             "2286" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 35,
+          "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 2286,
           "optionName" : "Kastelan fists",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 21,
           "listOfRestrictions" : null,
           "optionID" : 2287,
           "optionName" : "Incendine combuster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2288,
           "optionName" : "Heavy phosphor blaster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 2289,
           "optionName" : "Two heavy phosphor blaster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1025,7 +1096,8 @@
         "autoAddDictionary" : {
           "2287" : "2",
           "2286" : "2"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Onager Dunecrawler",
         "listOfOptions" : [ {
@@ -1033,43 +1105,50 @@
           "listOfRestrictions" : null,
           "optionID" : 2290,
           "optionName" : "Eradication beamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 2291,
           "optionName" : "Neutron laser and cognis heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 2292,
           "optionName" : "Twin heavy phosphor blaster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 2293,
           "optionName" : "Icarus array",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2294,
           "optionName" : "Cognis heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2295,
           "optionName" : "Broad spectrum data-tether",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2296,
           "optionName" : "Smoke launchers",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -1141,11 +1220,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 90,
+        "unitCost" : 70,
         "unitID" : 2218,
         "autoAddDictionary" : {
           "2290" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Knight Errant",
         "listOfOptions" : [ {
@@ -1153,37 +1233,43 @@
           "listOfRestrictions" : null,
           "optionID" : 2297,
           "optionName" : "Reaper chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 76,
           "listOfRestrictions" : null,
           "optionID" : 2298,
           "optionName" : "Thermal cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2299,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2300,
           "optionName" : "$Carapace Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 2301,
           "optionName" : "Thunderstrike gauntlet",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2302,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1289,13 +1375,14 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 320,
+        "unitCost" : 285,
         "unitID" : 2219,
         "autoAddDictionary" : {
           "2299" : "1",
           "2298" : "1",
           "2297" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Knight Paladin",
         "listOfOptions" : [ {
@@ -1303,37 +1390,43 @@
           "listOfRestrictions" : null,
           "optionID" : 2303,
           "optionName" : "Reaper chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 100,
           "listOfRestrictions" : null,
           "optionID" : 2307,
           "optionName" : "Rapid-fire battle cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2308,
           "optionName" : "Two heavy stubbers",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2309,
           "optionName" : "$Carapace Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 2310,
           "optionName" : "Thunderstrike gauntlet",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2311,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1439,13 +1532,14 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 320,
+        "unitCost" : 285,
         "unitID" : 2220,
         "autoAddDictionary" : {
           "2303" : "1",
           "2308" : "1",
           "2307" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Knight Warden",
         "listOfOptions" : [ {
@@ -1453,43 +1547,50 @@
           "listOfRestrictions" : null,
           "optionID" : 2304,
           "optionName" : "Reaper chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 95,
+          "optionCost" : 75,
           "listOfRestrictions" : null,
           "optionID" : 2312,
           "optionName" : "Avenger gatling cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2313,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2314,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2315,
           "optionName" : "$Carapace Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 2316,
           "optionName" : "Thunderstrike gauntlet",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2317,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1595,14 +1696,15 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 320,
+        "unitCost" : 285,
         "unitID" : 2221,
         "autoAddDictionary" : {
           "2304" : "1",
           "2314" : "1",
           "2313" : "1",
           "2312" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Knight Gallant",
         "listOfOptions" : [ {
@@ -1610,31 +1712,36 @@
           "listOfRestrictions" : null,
           "optionID" : 2306,
           "optionName" : "Reaper chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 2318,
           "optionName" : "Thunderstrike gauntlet",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2319,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2320,
           "optionName" : "$Carapace Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2321,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1706,57 +1813,65 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 320,
+        "unitCost" : 285,
         "unitID" : 2222,
         "autoAddDictionary" : {
           "2306" : "1",
           "2319" : "1",
           "2318" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Knight Crusader",
         "listOfOptions" : [ {
-          "optionCost" : 95,
+          "optionCost" : 75,
           "listOfRestrictions" : null,
           "optionID" : 2322,
           "optionName" : "Avenger gatling cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 76,
           "listOfRestrictions" : null,
           "optionID" : 2323,
           "optionName" : "Thermal cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2324,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2325,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2326,
           "optionName" : "$Carapace Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 104,
           "listOfRestrictions" : null,
           "optionID" : 2327,
           "optionName" : "Rapid-fire battle cannon and heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2328,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1862,14 +1977,15 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 320,
+        "unitCost" : 285,
         "unitID" : 2223,
         "autoAddDictionary" : {
           "2325" : "1",
           "2324" : "1",
           "2323" : "1",
           "2322" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -1877,40 +1993,46 @@
           "listOfRestrictions" : null,
           "optionID" : 2188,
           "optionName" : "Arc rifle",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 14,
+          "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 2189,
           "optionName" : "Plasma caliver",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 2190,
           "optionName" : "Transuranic arqebus",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Special Weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 4,
+          "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2193,
           "optionName" : "Phosphor blast pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 2194,
           "optionName" : "Arc pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 2195,
           "optionName" : "Radium pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Pistol Weapons"
       }, {
@@ -1919,46 +2041,53 @@
           "listOfRestrictions" : null,
           "optionID" : 2196,
           "optionName" : "Arc maul",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2197,
           "optionName" : "Power sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2198,
           "optionName" : "Taser goad",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Melee Weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 30,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2199,
           "optionName" : "Twin Icarus autocannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 45,
           "listOfRestrictions" : null,
           "optionID" : 2200,
           "optionName" : "Stormspear rocket pod",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 2201,
           "optionName" : "Ironstorm missile pod",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Carapace Weapons"
       } ],
       "armyName" : "Adeptus Mechanicus",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }

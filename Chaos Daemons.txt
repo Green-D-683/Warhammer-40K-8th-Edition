@@ -25,33 +25,37 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 360,
+        "unitCost" : 330,
         "unitID" : 2329,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Bloodthirster Of Insensate Rage",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 340,
+        "unitCost" : 260,
         "unitID" : 2330,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Wrath Of Khnore Bloodthirster",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 340,
+        "unitCost" : 240,
         "unitID" : 2331,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Bloodthirster Of Unfettered Fury",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 340,
+        "unitCost" : 240,
         "unitID" : 2332,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Skulltaker",
         "listOfOptions" : null,
@@ -76,7 +80,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 84,
         "unitID" : 2333,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Bloodmaster",
         "listOfOptions" : null,
@@ -84,15 +89,17 @@
         "unitCategory" : "HQ",
         "unitCost" : 56,
         "unitID" : 2334,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Skullmaster",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 100,
+        "unitCost" : 90,
         "unitID" : 2335,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Blood Throne",
         "listOfOptions" : null,
@@ -100,7 +107,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 105,
         "unitID" : 2336,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Karanak",
         "listOfOptions" : null,
@@ -125,7 +133,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 70,
         "unitID" : 2337,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Kairos Fateweaver",
         "listOfOptions" : null,
@@ -148,9 +157,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 370,
+        "unitCost" : 285,
         "unitID" : 2338,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Lord Of Change",
         "listOfOptions" : [ {
@@ -158,13 +168,15 @@
           "listOfRestrictions" : null,
           "optionID" : 2379,
           "optionName" : "Rod of sorcery",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2380,
           "optionName" : "Baleful sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -187,7 +199,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 320,
         "unitID" : 2339,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "The Changeling",
         "listOfOptions" : null,
@@ -212,7 +225,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 100,
         "unitID" : 2340,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "The Blue Scribes",
         "listOfOptions" : null,
@@ -235,17 +249,19 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 86,
+        "unitCost" : 75,
         "unitID" : 2341,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Changecaster",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 78,
+        "unitCost" : 65,
         "unitID" : 2342,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Fateskimmer",
         "listOfOptions" : [ {
@@ -253,13 +269,15 @@
           "listOfRestrictions" : null,
           "optionID" : 2381,
           "optionName" : "Staff of change",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2382,
           "optionName" : "Chanting horrors",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -297,9 +315,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 150,
+        "unitCost" : 130,
         "unitID" : 2343,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Fluxmaster",
         "listOfOptions" : [ {
@@ -307,7 +326,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2141,
           "optionName" : "Staff of change",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -328,9 +348,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 99,
+        "unitCost" : 85,
         "unitID" : 2344,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Rotigus",
         "listOfOptions" : null,
@@ -353,35 +374,40 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 330,
+        "unitCost" : 285,
         "unitID" : 2345,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Great Unclean One",
         "listOfOptions" : [ {
-          "optionCost" : 5,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4711,
           "optionName" : "Bilsword and bileblade",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 5,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 4712,
           "optionName" : "Bilsword and plague flail",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 4713,
           "optionName" : "Doomsday bell and plague flail",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4714,
           "optionName" : "Doomsday bell and bileblade",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -419,11 +445,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 320,
+        "unitCost" : 275,
         "unitID" : 2346,
         "autoAddDictionary" : {
           "4712" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Epidemius",
         "listOfOptions" : null,
@@ -448,7 +475,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 100,
         "unitID" : 2347,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Horticulous Slimux",
         "listOfOptions" : null,
@@ -473,7 +501,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 165,
         "unitID" : 2348,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Poxbringer",
         "listOfOptions" : null,
@@ -481,7 +510,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 70,
         "unitID" : 2349,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Sloppity Bilepiper",
         "listOfOptions" : null,
@@ -489,23 +519,26 @@
         "unitCategory" : "HQ",
         "unitCost" : 60,
         "unitID" : 2350,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Spoilpox Scrivener",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 75,
+        "unitCost" : 95,
         "unitID" : 2351,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Keeper Of Secrets",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 223,
+        "unitCost" : 165,
         "unitID" : 2352,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "The Masque Of Slaanesh",
         "listOfOptions" : null,
@@ -528,17 +561,19 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 78,
+        "unitCost" : 65,
         "unitID" : 2353,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Herald Of Slaanesh",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 66,
+        "unitCost" : 60,
         "unitID" : 2354,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Be'lakor",
         "listOfOptions" : null,
@@ -561,9 +596,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 280,
+        "unitCost" : 240,
         "unitID" : 2355,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Deamon Prince Of Chaos",
         "listOfOptions" : [ {
@@ -571,25 +607,29 @@
           "listOfRestrictions" : null,
           "optionID" : 2230,
           "optionName" : "Hellforged sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2251,
           "optionName" : "Daemonic axe",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2252,
           "optionName" : "Extra Malefic talons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 24,
           "listOfRestrictions" : null,
           "optionID" : 2253,
           "optionName" : "Wings",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -648,7 +688,8 @@
         "unitID" : 2356,
         "autoAddDictionary" : {
           "2230" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Bloodletters",
         "listOfOptions" : [ {
@@ -656,19 +697,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2254,
           "optionName" : "Additional Bloodletter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2256,
           "optionName" : "Instrument of chaos",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2257,
           "optionName" : "Daemonic icon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -691,7 +735,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 70,
         "unitID" : 2357,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Pink Horrors",
         "listOfOptions" : [ {
@@ -699,19 +744,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2258,
           "optionName" : "Additional Pink Horror",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2259,
           "optionName" : "Instrument of chaos",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2269,
           "optionName" : "Daemonic icon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -734,7 +782,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 70,
         "unitID" : 2358,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Plaguebearers",
         "listOfOptions" : [ {
@@ -742,19 +791,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2386,
           "optionName" : "Additional Plaguebearer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2387,
           "optionName" : "Instrument of chaos",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2390,
           "optionName" : "Daemonic icon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -777,7 +829,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 70,
         "unitID" : 2359,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Nurglings",
         "listOfOptions" : [ {
@@ -785,7 +838,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2391,
           "optionName" : "Additional Nurgling",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -808,7 +862,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 54,
         "unitID" : 2360,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Daemonettes",
         "listOfOptions" : [ {
@@ -816,19 +871,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2388,
           "optionName" : "Instrument of chaos",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2389,
           "optionName" : "Daemonic icon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2392,
           "optionName" : "Additional Deamonette",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -849,9 +907,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 70,
+        "unitCost" : 60,
         "unitID" : 2361,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Bloodcrushers",
         "listOfOptions" : [ {
@@ -859,19 +918,22 @@
           "listOfRestrictions" : null,
           "optionID" : 2393,
           "optionName" : "Additional Bloodcrusher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2394,
           "optionName" : "Instrument of chaos",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2395,
           "optionName" : "Daemonic icon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -928,15 +990,17 @@
         "unitCategory" : "Elites",
         "unitCost" : 141,
         "unitID" : 2362,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Flamers",
         "listOfOptions" : [ {
-          "optionCost" : 28,
+          "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 2396,
           "optionName" : "Additional Flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -957,17 +1021,19 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 84,
+        "unitCost" : 75,
         "unitID" : 2363,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Exalted Flamer",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 90,
+        "unitCost" : 70,
         "unitID" : 2364,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Beasts Of Nurgle",
         "listOfOptions" : [ {
@@ -975,7 +1041,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2397,
           "optionName" : "Additional Beast of Nurgle",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -998,15 +1065,17 @@
         "unitCategory" : "Elites",
         "unitCost" : 34,
         "unitID" : 2365,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Fiends of Slaanesh",
         "listOfOptions" : [ {
-          "optionCost" : 46,
+          "optionCost" : 42,
           "listOfRestrictions" : null,
           "optionID" : 2398,
           "optionName" : "Additional fiend of slaanesh",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1027,9 +1096,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 46,
+        "unitCost" : 42,
         "unitID" : 2366,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Flesh Hounds",
         "listOfOptions" : [ {
@@ -1037,7 +1107,15 @@
           "listOfRestrictions" : null,
           "optionID" : 2399,
           "optionName" : "Additional Flesh Hound",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 9,
+          "listOfRestrictions" : null,
+          "optionID" : 5064,
+          "optionName" : "Upgrade to Gore Hound",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1060,15 +1138,17 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 75,
         "unitID" : 2367,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Screamers",
         "listOfOptions" : [ {
-          "optionCost" : 31,
+          "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 2400,
           "optionName" : "Additional Screamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1089,17 +1169,19 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 93,
+        "unitCost" : 84,
         "unitID" : 2368,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Plague Drones",
         "listOfOptions" : [ {
-          "optionCost" : 34,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 2401,
           "optionName" : "Additional Plague Drone",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1120,17 +1202,19 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 102,
+        "unitCost" : 120,
         "unitID" : 2369,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Seekers",
         "listOfOptions" : [ {
-          "optionCost" : 19,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2402,
           "optionName" : "Additional Seeker",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1151,25 +1235,28 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 95,
+        "unitCost" : 75,
         "unitID" : 2370,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Hellflayer",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
-        "unitCost" : 93,
+        "unitCost" : 70,
         "unitID" : 2371,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Furies",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2403,
           "optionName" : "Additional Fury",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1190,17 +1277,19 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 50,
+        "unitCost" : 40,
         "unitID" : 2372,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Skull Cannon",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 100,
+        "unitCost" : 90,
         "unitID" : 2373,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Burning Chariot",
         "listOfOptions" : [ {
@@ -1208,7 +1297,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2404,
           "optionName" : "Chanting horror",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1229,41 +1319,46 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 120,
+        "unitCost" : 110,
         "unitID" : 2374,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Seeker Chariot",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 70,
+        "unitCost" : 50,
         "unitID" : 2375,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Exalted Seeker Chariot",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 100,
+        "unitCost" : 80,
         "unitID" : 2376,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Soul Grinder",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 235,
+        "unitCost" : 180,
         "unitID" : 2377,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Feculent Gnarlmaw",
         "listOfOptions" : [ {
-          "optionCost" : 50,
+          "optionCost" : 85,
           "listOfRestrictions" : null,
           "optionID" : 2405,
           "optionName" : "Additional Feculent Gnarlmaw",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1284,9 +1379,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fortification",
-        "unitCost" : 50,
+        "unitCost" : 85,
         "unitID" : 2378,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[10]Blue Horrors",
         "listOfOptions" : [ {
@@ -1294,7 +1390,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2384,
           "optionName" : "Additional Blue Horror",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1317,7 +1414,8 @@
         "unitCategory" : "Troops",
         "unitCost" : 50,
         "unitID" : 2305,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Brimstone Horrors(pair)",
         "listOfOptions" : [ {
@@ -1325,7 +1423,8 @@
           "listOfRestrictions" : null,
           "optionID" : 2385,
           "optionName" : "Additional Brimstone Horrors",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1348,12 +1447,14 @@
         "unitCategory" : "Troops",
         "unitCost" : 30,
         "unitID" : 2383,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
       "armyName" : "Chaos Daemons",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }

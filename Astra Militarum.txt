@@ -107,9 +107,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 70,
+        "unitCost" : 55,
         "unitID" : 7,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Command Squad",
         "listOfOptions" : [ {
@@ -117,55 +118,64 @@
           "listOfRestrictions" : null,
           "optionID" : 9,
           "optionName" : "Lasgun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 10,
           "optionName" : "Laspistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 11,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 12,
           "optionName" : "Vox-caster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 13,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 14,
           "optionName" : "Regimental standard",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 15,
           "optionName" : "Medi-pack",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 35,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 36,
           "optionName" : "$Special Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -510,7 +520,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 24,
         "unitID" : 8,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Platoon Commander",
         "listOfOptions" : [ {
@@ -518,25 +529,29 @@
           "listOfRestrictions" : null,
           "optionID" : 32,
           "optionName" : "Laspistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 33,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 34,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 37,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -613,7 +628,8 @@
         "autoAddDictionary" : {
           "33" : "1",
           "32" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Tank Commander",
         "listOfOptions" : [ {
@@ -621,91 +637,106 @@
           "listOfRestrictions" : null,
           "optionID" : 39,
           "optionName" : "Battle cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 40,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
-        }, {
-          "optionCost" : 40,
-          "listOfRestrictions" : null,
-          "optionID" : 41,
-          "optionName" : "Demolisher cannon",
-          "autoAddDictionary" : null
-        }, {
-          "optionCost" : 25,
-          "listOfRestrictions" : null,
-          "optionID" : 42,
-          "optionName" : "Eradicator nova cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
+          "optionID" : 41,
+          "optionName" : "Demolisher cannon",
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
+          "optionID" : 42,
+          "optionName" : "Eradicator nova cannon",
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
           "optionID" : 43,
           "optionName" : "Executioner plasma cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 44,
           "optionName" : "Exterminator autocannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 45,
           "optionName" : "Punisher gatling cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 46,
           "optionName" : "Vanquisher battle cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 47,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 48,
           "optionName" : "Lascannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 49,
           "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 34,
+          "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 50,
           "optionName" : "Two heavy flamers",
-          "autoAddDictionary" : null
-        }, {
-          "optionCost" : 40,
-          "listOfRestrictions" : null,
-          "optionID" : 51,
-          "optionName" : "Two multi-melta",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
+          "optionID" : 51,
+          "optionName" : "Two multi-melta",
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
           "optionID" : 52,
           "optionName" : "Two plasma cannons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 53,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -794,12 +825,13 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 167,
+        "unitCost" : 142,
         "unitID" : 38,
         "autoAddDictionary" : {
           "39" : "1",
           "40" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Company Commander",
         "listOfOptions" : [ {
@@ -807,25 +839,29 @@
           "listOfRestrictions" : null,
           "optionID" : 60,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 61,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 62,
           "optionName" : "Laspistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 63,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -867,7 +903,8 @@
         "unitID" : 59,
         "autoAddDictionary" : {
           "62" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Knight Commander Pask",
         "listOfOptions" : [ {
@@ -875,91 +912,106 @@
           "listOfRestrictions" : null,
           "optionID" : 65,
           "optionName" : "Battle cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 66,
           "optionName" : "Exterminator autocannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 67,
           "optionName" : "Vanquisher battle cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 68,
           "optionName" : "Eradicator nova cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 69,
           "optionName" : "Demolisher cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 70,
           "optionName" : "Punisher gatling cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 71,
           "optionName" : "Executioner plasma cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 72,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 73,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 74,
           "optionName" : "Lascannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 75,
           "optionName" : "Two Heavy bolters",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 76,
           "optionName" : "Two Heavy flamers",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 78,
           "optionName" : "Two Multi-meltas",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 79,
           "optionName" : "Two Plasma cannons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 80,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "listOfNamesOfUnitID" : [ "64" ],
@@ -1070,7 +1122,8 @@
         "autoAddDictionary" : {
           "72" : "1",
           "65" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Commissar Yarrick",
         "listOfOptions" : null,
@@ -1161,9 +1214,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 130,
+        "unitCost" : 100,
         "unitID" : 81,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Lord Commissar",
         "listOfOptions" : [ {
@@ -1171,25 +1225,29 @@
           "listOfRestrictions" : null,
           "optionID" : 83,
           "optionName" : "Power sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 84,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 85,
           "optionName" : "Bolt pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 86,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1277,12 +1335,13 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 50,
+        "unitCost" : 30,
         "unitID" : 82,
         "autoAddDictionary" : {
           "83" : "1",
           "85" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Colonel 'Iron Hand' Straken",
         "listOfOptions" : null,
@@ -1341,7 +1400,8 @@
         "unitCategory" : "HQ",
         "unitCost" : 75,
         "unitID" : 87,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Tempestor Prime",
         "listOfOptions" : [ {
@@ -1349,37 +1409,43 @@
           "listOfRestrictions" : null,
           "optionID" : 89,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 90,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : null
-        }, {
-          "optionCost" : 1,
-          "listOfRestrictions" : null,
-          "optionID" : 91,
-          "optionName" : "Hot-shot laspistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
+          "optionID" : 91,
+          "optionName" : "Hot-shot laspistol",
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
           "optionID" : 92,
           "optionName" : "Tempestus command rod",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 93,
           "optionName" : "Bolt pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 94,
           "optionName" : "Plasma pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -1455,15 +1521,17 @@
         "unitID" : 88,
         "autoAddDictionary" : {
           "91" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Primaris Psyker",
         "listOfOptions" : [ {
-          "optionCost" : 12,
+          "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 280,
           "optionName" : "Force Stave",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1501,11 +1569,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 28,
+        "unitCost" : 38,
         "unitID" : 95,
         "autoAddDictionary" : {
           "280" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[10]Infantry Squad",
         "listOfOptions" : [ {
@@ -1513,37 +1582,43 @@
           "listOfRestrictions" : null,
           "optionID" : 97,
           "optionName" : "Vox-caster",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 98,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 99,
           "optionName" : "$Special Weapons(4+)",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 100,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 101,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 102,
           "optionName" : "Power sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1634,15 +1709,17 @@
         "unitCategory" : "Troops",
         "unitCost" : 40,
         "unitID" : 96,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[20]Conscripts",
         "listOfOptions" : [ {
-          "optionCost" : 3,
+          "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 104,
           "optionName" : "Additional Conscript",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1663,9 +1740,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 60,
+        "unitCost" : 80,
         "unitID" : 103,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Militarum Tempestus Scions",
         "listOfOptions" : [ {
@@ -1673,79 +1751,92 @@
           "listOfRestrictions" : null,
           "optionID" : 3399,
           "optionName" : "Additional Tempestus Scion",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3423,
           "optionName" : "Hot-shot laspistol and vox-caster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3442,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 3443,
           "optionName" : "Bolt pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3445,
           "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3446,
           "optionName" : "Flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3447,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 3448,
           "optionName" : "Plasma gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3449,
           "optionName" : "Grenade launcher",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 3450,
           "optionName" : "Hot-shot volley gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4362,
           "optionName" : "Hot-shot lasgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4363,
           "optionName" : "Hot-shot laspistol",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4364,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1841,7 +1932,8 @@
           "4362" : "4",
           "4363" : "1",
           "4364" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Master of Ordnance",
         "listOfOptions" : null,
@@ -1849,7 +1941,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 30,
         "unitID" : 106,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Platoon Commander",
         "listOfOptions" : [ {
@@ -1857,25 +1950,29 @@
           "listOfRestrictions" : null,
           "optionID" : 108,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 109,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 110,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 111,
           "optionName" : "Laspistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1949,7 +2046,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 20,
         "unitID" : 107,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Colour Sergeant Kell",
         "listOfOptions" : null,
@@ -1972,9 +2070,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 50,
+        "unitCost" : 40,
         "unitID" : 112,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[6]Special Weapons Squad",
         "listOfOptions" : [ {
@@ -1982,7 +2081,8 @@
           "listOfRestrictions" : null,
           "optionID" : 114,
           "optionName" : "$Special Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -2022,7 +2122,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 24,
         "unitID" : 113,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Veterans",
         "listOfOptions" : [ {
@@ -2030,55 +2131,64 @@
           "listOfRestrictions" : null,
           "optionID" : 3424,
           "optionName" : "Shotgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3425,
           "optionName" : "Autogun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3426,
           "optionName" : "Vox-caster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3435,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3436,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3437,
           "optionName" : "$Special Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3438,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3451,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3452,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2252,9 +2362,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 60,
+        "unitCost" : 50,
         "unitID" : 115,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Sergeant Harker",
         "listOfOptions" : null,
@@ -2279,7 +2390,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 50,
         "unitID" : 116,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[4]Militarum Tempestus Command Squad",
         "listOfOptions" : [ {
@@ -2287,55 +2399,64 @@
           "listOfRestrictions" : null,
           "optionID" : 3453,
           "optionName" : "Hot-shot laspistol and vox-caster",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 3454,
           "optionName" : "Hot-shot laspistol and medi-pack",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 3457,
           "optionName" : "Platoon standard",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3458,
           "optionName" : "Flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3459,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 3460,
           "optionName" : "Plasma gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 3461,
           "optionName" : "Grenade launcher",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 3462,
           "optionName" : "Hot-shot volley gun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4365,
           "optionName" : "Hot-shot lasgun",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2428,7 +2549,8 @@
         "unitID" : 117,
         "autoAddDictionary" : {
           "4365" : "4"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Ministorum Priest",
         "listOfOptions" : [ {
@@ -2436,13 +2558,15 @@
           "listOfRestrictions" : null,
           "optionID" : 119,
           "optionName" : "Autogun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 120,
           "optionName" : "Chainsword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2482,7 +2606,8 @@
         "unitCategory" : "Elites",
         "unitCost" : 35,
         "unitID" : 118,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[2]Crusaders",
         "listOfOptions" : [ {
@@ -2492,13 +2617,15 @@
           "optionName" : "Additional Crusader",
           "autoAddDictionary" : {
             "4541" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 4541,
           "optionName" : "Power sword",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2523,15 +2650,17 @@
         "unitID" : 121,
         "autoAddDictionary" : {
           "4541" : "2"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Tech-Priest Enginseer",
         "listOfOptions" : [ {
-          "optionCost" : 12,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4549,
           "optionName" : "Servo-arm",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -2539,7 +2668,8 @@
         "unitID" : 123,
         "autoAddDictionary" : {
           "4549" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "[4]Servitors",
         "listOfOptions" : [ {
@@ -2547,25 +2677,29 @@
           "listOfRestrictions" : null,
           "optionID" : 125,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 126,
           "optionName" : "Plasma Cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 127,
           "optionName" : "Multi-melta",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4558,
           "optionName" : "Servo-arm",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2586,11 +2720,12 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 8,
+        "unitCost" : 20,
         "unitID" : 124,
         "autoAddDictionary" : {
           "4558" : "4"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Commissar",
         "listOfOptions" : [ {
@@ -2598,19 +2733,22 @@
           "listOfRestrictions" : null,
           "optionID" : 129,
           "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 130,
           "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 131,
           "optionName" : "Bolt pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2665,27 +2803,30 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 30,
+        "unitCost" : 15,
         "unitID" : 128,
         "autoAddDictionary" : {
           "131" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Officer Of The Fleet",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 25,
+        "unitCost" : 20,
         "unitID" : 132,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Wyrdvane Psykers",
         "listOfOptions" : [ {
-          "optionCost" : 8,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 134,
           "optionName" : "Additional Wyrdvane Psyker",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2706,9 +2847,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 24,
+        "unitCost" : 21,
         "unitID" : 133,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Astropath",
         "listOfOptions" : [ {
@@ -2716,13 +2858,15 @@
           "listOfRestrictions" : null,
           "optionID" : 136,
           "optionName" : "Telepathica Stave",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 137,
           "optionName" : "Laspistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -2760,43 +2904,49 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 15,
+        "unitCost" : 26,
         "unitID" : 135,
         "autoAddDictionary" : {
           "136" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Ogryn Bodyguard",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 138,
           "optionName" : "Grenadier gauntlet",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 139,
           "optionName" : "Bullgryn maul",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 140,
           "optionName" : "Slab shield",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 141,
           "optionName" : "Brute shield",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 142,
           "optionName" : "Bullgryn plate",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2834,17 +2984,19 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 55,
+        "unitCost" : 45,
         "unitID" : 77,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Ogryns",
         "listOfOptions" : [ {
-          "optionCost" : 30,
+          "optionCost" : 24,
           "listOfRestrictions" : null,
           "optionID" : 144,
           "optionName" : "Additional Ogryn",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2865,41 +3017,47 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 90,
+        "unitCost" : 72,
         "unitID" : 143,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Bullgryns",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 146,
           "optionName" : "Grenadier gauntlet",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 147,
           "optionName" : "Bullgryn Maul",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 148,
           "optionName" : "Slabsheild",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 149,
           "optionName" : "Brute sheild",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 4601,
           "optionName" : "Additional Bullgryn",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2975,15 +3133,17 @@
         "autoAddDictionary" : {
           "146" : "3",
           "148" : "3"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Nork Deddog",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 80,
+        "unitCost" : 60,
         "unitID" : 150,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Ratlings",
         "listOfOptions" : [ {
@@ -2991,15 +3151,17 @@
           "listOfRestrictions" : null,
           "optionID" : 152,
           "optionName" : "Sniper rifle",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 153,
           "optionName" : "Additional Ratling",
           "autoAddDictionary" : {
             "152" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3019,11 +3181,12 @@
           "nameOfCompareUpgradeProperty" : "optionQuantity"
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 25,
+        "unitCost" : 35,
         "unitID" : 151,
         "autoAddDictionary" : {
           "152" : "5"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Hellhounds",
         "listOfOptions" : [ {
@@ -3034,7 +3197,8 @@
           "autoAddDictionary" : {
             "3466" : "1",
             "4602" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 73,
           "listOfRestrictions" : null,
@@ -3043,7 +3207,8 @@
           "autoAddDictionary" : {
             "3466" : "1",
             "4603" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 73,
           "listOfRestrictions" : null,
@@ -3052,49 +3217,57 @@
           "autoAddDictionary" : {
             "3466" : "1",
             "4604" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3466,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3467,
           "optionName" : "Multi-melta",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3468,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 3469,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4602,
           "optionName" : "Inferno cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 4603,
           "optionName" : "Melta cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 4604,
           "optionName" : "Chem cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3171,59 +3344,68 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 0,
         "unitID" : 154,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Scout Sentinels",
         "listOfOptions" : [ {
-          "optionCost" : 35,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 156,
           "optionName" : "Additional Scout Sentinel",
           "autoAddDictionary" : {
             "157" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 10,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 157,
           "optionName" : "Multi-laser",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2556,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2607,
           "optionName" : "Autocannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2623,
           "optionName" : "Missile launcher",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2624,
           "optionName" : "Lascannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2626,
           "optionName" : "Sentinel chainsaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2627,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3298,69 +3480,79 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 35,
+        "unitCost" : 30,
         "unitID" : 155,
         "autoAddDictionary" : {
           "157" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Armoured Sentinels",
         "listOfOptions" : [ {
-          "optionCost" : 40,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 159,
           "optionName" : "Additional Armoured Sentinel",
           "autoAddDictionary" : {
             "160" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 10,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 160,
           "optionName" : "Multi-laser",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2628,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2629,
           "optionName" : "Autocannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2630,
           "optionName" : "Missile launcher",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 2631,
           "optionName" : "Lascannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2632,
           "optionName" : "Plasma cannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 2633,
           "optionName" : "Sentinel chainsaw",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2634,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3435,11 +3627,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 40,
+        "unitCost" : 30,
         "unitID" : 158,
         "autoAddDictionary" : {
           "160" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Heavy Weapons Squad",
         "listOfOptions" : [ {
@@ -3447,7 +3640,8 @@
           "listOfRestrictions" : null,
           "optionID" : 162,
           "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3487,7 +3681,8 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 18,
         "unitID" : 161,
-        "autoAddDictionary" : { }
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Basilisks",
         "listOfOptions" : [ {
@@ -3497,25 +3692,29 @@
           "optionName" : "Additional Basilisk",
           "autoAddDictionary" : {
             "165" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 165,
           "optionName" : "Heavy Bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 167,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 168,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3576,35 +3775,40 @@
         "unitID" : 163,
         "autoAddDictionary" : {
           "165" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Wyverns",
         "listOfOptions" : [ {
-          "optionCost" : 85,
+          "optionCost" : 95,
           "listOfRestrictions" : null,
           "optionID" : 170,
           "optionName" : "Additional Wyvern",
           "autoAddDictionary" : {
             "171" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 171,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 172,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 173,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3661,39 +3865,44 @@
           "nameOfCompareUpgradeProperty" : "optionQuantity"
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 85,
+        "unitCost" : 95,
         "unitID" : 169,
         "autoAddDictionary" : {
           "171" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Hydras",
         "listOfOptions" : [ {
-          "optionCost" : 100,
+          "optionCost" : 85,
           "listOfRestrictions" : null,
           "optionID" : 176,
           "optionName" : "Additional Hydra",
           "autoAddDictionary" : {
             "177" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 177,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 178,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 179,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3750,11 +3959,12 @@
           "nameOfCompareUpgradeProperty" : "optionQuantity"
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 100,
+        "unitCost" : 85,
         "unitID" : 174,
         "autoAddDictionary" : {
           "177" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Manticore",
         "listOfOptions" : [ {
@@ -3762,19 +3972,22 @@
           "listOfRestrictions" : null,
           "optionID" : 181,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 182,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 183,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3814,7 +4027,8 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 125,
         "unitID" : 180,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : null,
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Deathstrike",
         "listOfOptions" : [ {
@@ -3822,19 +4036,22 @@
           "listOfRestrictions" : null,
           "optionID" : 185,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 186,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 187,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3872,9 +4089,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 155,
+        "unitCost" : 125,
         "unitID" : 184,
-        "autoAddDictionary" : null
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Leman Russ Battle Tanks",
         "listOfOptions" : [ {
@@ -3885,97 +4103,113 @@
           "autoAddDictionary" : {
             "190" : "1",
             "191" : "1"
-          }
+          },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 190,
           "optionName" : "Battle cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 191,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 192,
           "optionName" : "Eradicator nova cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 193,
           "optionName" : "Exterminator autocannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 194,
           "optionName" : "Vanquisher battle cannon",
-          "autoAddDictionary" : null
-        }, {
-          "optionCost" : 40,
-          "listOfRestrictions" : null,
-          "optionID" : 195,
-          "optionName" : "Demolisher cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
+          "optionID" : 195,
+          "optionName" : "Demolisher cannon",
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
+        }, {
+          "optionCost" : 15,
+          "listOfRestrictions" : null,
           "optionID" : 196,
           "optionName" : "Executioner plasma cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 197,
           "optionName" : "Punisher gatling cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 198,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 199,
           "optionName" : "Lascanon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 200,
           "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 201,
           "optionName" : "Two heavy flamers",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 202,
           "optionName" : "Two multi-meltas",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 203,
           "optionName" : "Two plasma cannons",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 204,
           "optionName" : "$Vehicle Equpiment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4073,33 +4307,38 @@
         "autoAddDictionary" : {
           "190" : "1",
           "191" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Chimera",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 206,
           "optionName" : "Multi-laser",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 207,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 208,
           "optionName" : "Heavy flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 209,
           "optionName" : "$Vehicle Equipment",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4171,32 +4410,36 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 75,
+        "unitCost" : 60,
         "unitID" : 205,
         "autoAddDictionary" : {
           "206" : "1",
           "208" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Taurox",
         "listOfOptions" : [ {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 211,
           "optionName" : "Autocannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 212,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 213,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4250,55 +4493,63 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 40,
+        "unitCost" : 50,
         "unitID" : 210,
         "autoAddDictionary" : {
           "211" : "2"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Taurox Prime",
         "listOfOptions" : [ {
-          "optionCost" : 28,
+          "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 215,
           "optionName" : "Taurox battle cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 18,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 217,
           "optionName" : "Taurox gatling cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 218,
           "optionName" : "Taurox missle launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 220,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 221,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3402,
           "optionName" : "Two hot-shot volley guns",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 3455,
           "optionName" : "Two autocannons",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4370,53 +4621,60 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 65,
+        "unitCost" : 80,
         "unitID" : 214,
         "autoAddDictionary" : {
           "3402" : "1",
           "215" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Valkyries",
         "listOfOptions" : [ {
-          "optionCost" : 110,
+          "optionCost" : 100,
           "listOfRestrictions" : null,
           "optionID" : 223,
           "optionName" : "Additional Valkyrie",
           "autoAddDictionary" : {
             "224" : "1",
             "225" : "1"
-          }
+          },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 10,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 224,
           "optionName" : "Multi-laser",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 225,
-          "optionName" : "Hellstrike missles",
-          "autoAddDictionary" : null
+          "optionName" : "Hellstrike missiles",
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 22,
+          "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 226,
           "optionName" : "Two multiple rocket pods",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 227,
           "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3456,
           "optionName" : "Lascannon",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4491,68 +4749,78 @@
           "nameOfCompareUpgradeProperty" : "optionQuantity"
         } ],
         "unitCategory" : "Flyers",
-        "unitCost" : 110,
+        "unitCost" : 100,
         "unitID" : 222,
         "autoAddDictionary" : {
           "224" : "1",
           "225" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Baneblade",
         "listOfOptions" : [ {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 229,
           "optionName" : "Autocannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 230,
           "optionName" : "Baneblade cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 231,
           "optionName" : "Demolisher cannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 232,
           "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 233,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 234,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 235,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 3470,
           "optionName" : "Lascannon sponson with twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3471,
           "optionName" : "Lascannon sponson with twin heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4665,7 +4933,8 @@
           "232" : "1",
           "229" : "1",
           "230" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Banehammer",
         "listOfOptions" : [ {
@@ -4673,37 +4942,43 @@
           "listOfRestrictions" : null,
           "optionID" : 238,
           "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 239,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 240,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 241,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 3472,
           "optionName" : "Lascannon sponson with twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3473,
           "optionName" : "Lascannon sponson with twin heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4809,11 +5084,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 390,
+        "unitCost" : 370,
         "unitID" : 236,
         "autoAddDictionary" : {
           "238" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Banesword",
         "listOfOptions" : [ {
@@ -4821,37 +5097,43 @@
           "listOfRestrictions" : null,
           "optionID" : 243,
           "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 244,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 245,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 246,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 3474,
           "optionName" : "Lascannon sponson with twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3475,
           "optionName" : "Lascannon sponson with twin heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4957,11 +5239,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 390,
+        "unitCost" : 370,
         "unitID" : 242,
         "autoAddDictionary" : {
           "243" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Doomhammer",
         "listOfOptions" : [ {
@@ -4969,37 +5252,43 @@
           "listOfRestrictions" : null,
           "optionID" : 248,
           "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 249,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 250,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 251,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 3476,
           "optionName" : "Lascannon sponson with twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3477,
           "optionName" : "Lascannon sponson with twin heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5105,61 +5394,70 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 420,
+        "unitCost" : 400,
         "unitID" : 247,
         "autoAddDictionary" : {
           "248" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Hellhammer",
         "listOfOptions" : [ {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 253,
           "optionName" : "Autocannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 254,
           "optionName" : "Demolisher canon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 255,
           "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 256,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 257,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 258,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 3478,
           "optionName" : "Lascannon sponson with twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3479,
           "optionName" : "Lascannon sponson with twin heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5271,7 +5569,8 @@
           "253" : "1",
           "254" : "1",
           "255" : "1"
-        }
+        },
+        "listOfCurrencies" : null
       }, {
         "unitName" : "Shadowsword",
         "listOfOptions" : [ {
@@ -5279,37 +5578,43 @@
           "listOfRestrictions" : null,
           "optionID" : 260,
           "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 261,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 262,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 263,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 3480,
           "optionName" : "Lascannon sponson with twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3481,
           "optionName" : "Lascannon sponson with twin heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5415,55 +5720,63 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 390,
+        "unitCost" : 410,
         "unitID" : 259,
         "autoAddDictionary" : {
           "260" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Stormlord",
         "listOfOptions" : [ {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 266,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 267,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 268,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 270,
           "optionName" : "Heavy bolters",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 3484,
           "optionName" : "Lascannon sponson with twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 3485,
           "optionName" : "Lascannon sponson with twin heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 4605,
           "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5586,12 +5899,13 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 430,
+        "unitCost" : 410,
         "unitID" : 264,
         "autoAddDictionary" : {
           "266" : "2",
           "4605" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Stormsword",
         "listOfOptions" : [ {
@@ -5599,37 +5913,43 @@
           "listOfRestrictions" : null,
           "optionID" : 271,
           "optionName" : "Twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 272,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 273,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 274,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 3482,
           "optionName" : "Lascannon sponson with twin heavy bolter",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 34,
           "listOfRestrictions" : null,
           "optionID" : 3483,
           "optionName" : "Lascannon sponson with twin heavy flamer",
-          "autoAddDictionary" : { }
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5735,11 +6055,21 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 390,
+        "unitCost" : 370,
         "unitID" : 265,
         "autoAddDictionary" : {
           "271" : "1"
-        }
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Sly Marbo",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 55,
+        "unitID" : 5063,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -5747,13 +6077,15 @@
           "listOfRestrictions" : null,
           "optionID" : 1,
           "optionName" : "Augur array",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 2,
           "optionName" : "Dozer blade",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 4,
           "listOfRestrictions" : [ {
@@ -5776,13 +6108,15 @@
           } ],
           "optionID" : 3,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 4,
           "optionName" : "Hunter-killer missile",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : [ {
@@ -5805,13 +6139,15 @@
           } ],
           "optionID" : 5,
           "optionName" : "Storm bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 6,
           "optionName" : "Track guards",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Vehicle Equipment"
       }, {
@@ -5820,31 +6156,36 @@
           "listOfRestrictions" : null,
           "optionID" : 16,
           "optionName" : "Mortar",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 17,
           "optionName" : "Autocannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 18,
           "optionName" : "Heavy bolter",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 19,
           "optionName" : "Missile launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 20,
           "optionName" : "Lascannon",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Heavy Weapons"
       }, {
@@ -5853,31 +6194,36 @@
           "listOfRestrictions" : null,
           "optionID" : 21,
           "optionName" : "Sniper rifle",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 22,
           "optionName" : "Flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 23,
           "optionName" : "Grenade launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 24,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 25,
           "optionName" : "Plasma gun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Special Weapons"
       }, {
@@ -5886,31 +6232,36 @@
           "listOfRestrictions" : null,
           "optionID" : 26,
           "optionName" : "Sniper rifle",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 27,
           "optionName" : "Flamer",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 3,
           "listOfRestrictions" : null,
           "optionID" : 28,
           "optionName" : "Grenade launcher",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 29,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 30,
           "optionName" : "Plasma gun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Special Weapons(4+)"
       }, {
@@ -5919,19 +6270,22 @@
           "listOfRestrictions" : null,
           "optionID" : 54,
           "optionName" : "Bolt pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 55,
           "optionName" : "Boltgun",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 56,
           "optionName" : "Plasma pistol",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Ranged Weapons"
       }, {
@@ -5940,19 +6294,22 @@
           "listOfRestrictions" : null,
           "optionID" : 57,
           "optionName" : "Power sword",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 58,
           "optionName" : "Power fist",
-          "autoAddDictionary" : null
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Melee Weapons"
       } ],
       "armyName" : "Astra Militarum",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ]
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfCurrencies" : [ ]
   } ]
 }
