@@ -167,7 +167,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2861,
-          "optionName" : "Lightening claws(pair)",
+          "optionName" : "Lightning claws(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -1399,12 +1399,12 @@
         },
         "listOfCurrencies" : null
       }, {
-        "unitName" : "[10]Deamonettes",
+        "unitName" : "[10]Daemonettes",
         "listOfOptions" : [ {
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2911,
-          "optionName" : "Additional Deamonette",
+          "optionName" : "Additional Daemonette",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
@@ -1426,7 +1426,7 @@
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : 20,
           "multiplier" : -1,
-          "errorMessage" : "You have too many deamonettes",
+          "errorMessage" : "You have too many daemonettes",
           "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "",
@@ -1957,7 +1957,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2976,
-          "optionName" : "Lightening claws(pair)",
+          "optionName" : "Lightning claws(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -2058,7 +2058,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2855,
-          "optionName" : "Lightening claws(pair)",
+          "optionName" : "Lightning claws(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -2069,12 +2069,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 2913,
-          "optionName" : "Reaper auto-cannon",
+          "optionName" : "Reaper autocannon",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -2262,6 +2262,13 @@
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
+        }, {
+          "optionCost" : 40,
+          "listOfRestrictions" : null,
+          "optionID" : 4143,
+          "optionName" : "Helbrute fist(pair)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -2555,7 +2562,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3004,
-          "optionName" : "Lightening claw (pair)",
+          "optionName" : "Lightning claw (pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         } ],
@@ -2787,7 +2794,7 @@
         },
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "Deflier",
+        "unitName" : "Defiler",
         "listOfOptions" : [ {
           "optionCost" : 10,
           "listOfRestrictions" : null,
@@ -3001,7 +3008,7 @@
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : 1,
           "multiplier" : -1,
-          "errorMessage" : "You may only have deamon jaws or a single ectoplasm cannon.",
+          "errorMessage" : "You may only have daemon jaws or a single ectoplasm cannon.",
           "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "",
@@ -3102,12 +3109,12 @@
       }, {
         "unitName" : "Chaos Vindicator",
         "listOfOptions" : [ {
-          "optionCost" : 11,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3027,
-          "optionName" : "Heavoc launcher",
+          "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -3603,14 +3610,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2767,
-          "optionName" : "Lightening Claw(single)",
+          "optionName" : "Lightning Claw(single)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2768,
-          "optionName" : "Lightening Claw(pair)",
+          "optionName" : "Lightning Claw(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -3807,14 +3814,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2796,
-          "optionName" : "Lightening Claw(single)",
+          "optionName" : "Lightning Claw(single)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2797,
-          "optionName" : "Lightening Claw(pair)",
+          "optionName" : "Lightning Claw(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -3859,14 +3866,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 2803,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 2804,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {

@@ -203,7 +203,7 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 90,
+        "unitCost" : 110,
         "unitID" : 2137,
         "autoAddDictionary" : {
           "2153" : "1"
@@ -462,7 +462,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 2170,
           "optionName" : "Storm shield and misericordia",
@@ -658,14 +658,14 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 130,
+        "unitCost" : 90,
         "unitID" : 2145,
         "autoAddDictionary" : {
           "2178" : "1",
           "2177" : "1",
           "2176" : "1"
         },
-        "listOfCurrencies" : null
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Vertus Praetors",
         "listOfOptions" : [ {

@@ -713,12 +713,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 9,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3290,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -1717,12 +1717,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 80,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 3351,
           "optionName" : "Two ectoplasm cannons",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 20,
           "listOfRestrictions" : null,

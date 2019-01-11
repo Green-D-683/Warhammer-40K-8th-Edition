@@ -372,9 +372,9 @@
           "optionCost" : 35,
           "listOfRestrictions" : null,
           "optionID" : 3505,
-          "optionName" : "Resurection orb",
+          "optionName" : "Resurrection orb",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,

@@ -585,7 +585,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 400,
           "optionName" : "Power fist",
@@ -1110,12 +1110,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 19,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3491,
           "optionName" : "Power fist and plasma pistol",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1632,12 +1632,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 28,
+          "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 450,
           "optionName" : "Servo-harness",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2144,7 +2144,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 478,
           "optionName" : "Plasma pistol",
@@ -2158,7 +2158,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 480,
           "optionName" : "Power fist",
@@ -2241,12 +2241,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 486,
           "optionName" : "Plasma pistol",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 16,
           "listOfRestrictions" : null,
@@ -2255,12 +2255,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 488,
           "optionName" : "Power fist",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2646,12 +2646,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 509,
           "optionName" : "Plasma pistol",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
@@ -2660,7 +2660,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 511,
           "optionName" : "Power fist",
@@ -2850,7 +2850,7 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 521,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -3354,7 +3354,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 551,
           "optionName" : "Power fist",
@@ -3459,7 +3459,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 555,
-          "optionName" : "Lightening claws(pair)",
+          "optionName" : "Lightning claws(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -3564,12 +3564,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 563,
           "optionName" : "Power fist",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
@@ -3581,7 +3581,7 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 565,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -3653,7 +3653,7 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 572,
           "optionName" : "Power fist",
@@ -3930,9 +3930,9 @@
           "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 597,
-          "optionName" : "Assualt cannon",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Assault cannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
@@ -4320,7 +4320,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 636,
           "optionName" : "Plasma pistol",
@@ -4899,18 +4899,18 @@
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 682,
-          "optionName" : "Assault plasma Incinerator",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Assault plasma incinerator",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
           "optionID" : 683,
-          "optionName" : "Heavy plasma Incinerator",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Heavy plasma incinerator",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 7,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 684,
           "optionName" : "Plasma pistol",
@@ -6555,9 +6555,9 @@
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 772,
-          "optionName" : "Hurrican bolter",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Hurricane bolter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -6809,18 +6809,18 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 282,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 283,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 284,
           "optionName" : "Plasma pistol",
@@ -6834,7 +6834,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 286,
           "optionName" : "Power fist",
@@ -6962,7 +6962,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 323,
           "optionName" : "Plasma pistol",
@@ -6982,14 +6982,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 325,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 326,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -7000,7 +7000,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 328,
           "optionName" : "Power fist",
@@ -7086,18 +7086,18 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 347,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 348,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 349,
           "optionName" : "Power fist",
@@ -7238,18 +7238,18 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 301,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 302,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 303,
           "optionName" : "Plasma pistol",
@@ -7263,7 +7263,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 305,
           "optionName" : "Power fist",
@@ -7349,14 +7349,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 333,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 334,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -7367,7 +7367,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 336,
           "optionName" : "Power fist",
@@ -7401,18 +7401,18 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 352,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 353,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 9,
           "listOfRestrictions" : null,
           "optionID" : 354,
           "optionName" : "Power fist",

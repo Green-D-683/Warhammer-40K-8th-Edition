@@ -736,7 +736,7 @@
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : -1,
           "multiplier" : -1,
-          "errorMessage" : "You must take an absolver bolt pistol",
+          "errorMessage" : "You must take an absolvor bolt pistol",
           "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "",
@@ -907,7 +907,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4637,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -1172,12 +1172,12 @@
       }, {
         "unitName" : "Primaris Apothecary",
         "listOfOptions" : [ {
-          "optionCost" : 1,
+          "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 1414,
-          "optionName" : "Absolver bolt pistol",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Absolvor bolt pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1200,7 +1200,7 @@
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : -1,
           "multiplier" : -1,
-          "errorMessage" : "You must take an absolver bolt pistol.",
+          "errorMessage" : "You must take an absolvor bolt pistol.",
           "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "",
@@ -1449,7 +1449,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1440,
-          "optionName" : "Lightening claws(pair)",
+          "optionName" : "Lightning claws(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -3056,14 +3056,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1294,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1295,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -3237,14 +3237,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1307,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1308,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -3459,12 +3459,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 29,
+          "optionCost" : 23,
           "listOfRestrictions" : null,
           "optionID" : 1349,
-          "optionName" : "Power fist & meltagun",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Power fist and meltagun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Terminator Melee Weapons"
       }, {
@@ -3531,14 +3531,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1364,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1367,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -3632,14 +3632,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1365,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1366,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {

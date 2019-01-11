@@ -408,9 +408,9 @@
           "optionCost" : 1,
           "listOfRestrictions" : null,
           "optionID" : 3844,
-          "optionName" : "Equilizers",
+          "optionName" : "Equalizers",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
@@ -1643,7 +1643,7 @@
         },
         "listOfCurrencies" : null
       }, {
-        "unitName" : "TX4 Piranhas",
+        "unitName" : "TX4 Piranha",
         "listOfOptions" : [ {
           "optionCost" : 30,
           "listOfRestrictions" : null,
@@ -3000,8 +3000,17 @@
           "listOfRestrictions" : null,
           "optionID" : 3966,
           "optionName" : "MV7 Marker Drone",
+          "autoAddDictionary" : {
+            "3966" : "1"
+          },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 4141,
+          "optionName" : "Markerlight",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Tactical Drones"
       } ],

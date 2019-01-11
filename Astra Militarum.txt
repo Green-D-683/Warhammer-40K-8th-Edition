@@ -981,30 +981,30 @@
           "optionCost" : 16,
           "listOfRestrictions" : null,
           "optionID" : 75,
-          "optionName" : "Two Heavy bolters",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Two heavy bolters",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 34,
+          "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 76,
-          "optionName" : "Two Heavy flamers",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 40,
-          "listOfRestrictions" : null,
-          "optionID" : 78,
-          "optionName" : "Two Multi-meltas",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Two heavy flamers",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
+          "optionID" : 78,
+          "optionName" : "Two multi-meltas",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
           "optionID" : 79,
-          "optionName" : "Two Plasma cannons",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Two plasma cannons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -1789,19 +1789,19 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3447,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 13,
+          "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 3448,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
@@ -2080,9 +2080,9 @@
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 114,
-          "optionName" : "$Special Weapons",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "$Special Weapons(4+)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -2402,12 +2402,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 11,
+          "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 3454,
           "optionName" : "Hot-shot laspistol and medi-pack",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
@@ -2423,19 +2423,19 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3459,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 13,
+          "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 3460,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 3,
           "listOfRestrictions" : null,
@@ -2449,14 +2449,14 @@
           "optionID" : 3462,
           "optionName" : "Hot-shot volley gun",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4365,
           "optionName" : "Hot-shot lasgun",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4183,33 +4183,33 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34,
+          "optionCost" : 28,
           "listOfRestrictions" : null,
           "optionID" : 201,
           "optionName" : "Two heavy flamers",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 40,
-          "listOfRestrictions" : null,
-          "optionID" : 202,
-          "optionName" : "Two multi-meltas",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
+          "optionID" : 202,
+          "optionName" : "Two multi-meltas",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20,
+          "listOfRestrictions" : null,
           "optionID" : 203,
           "optionName" : "Two plasma cannons",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 204,
-          "optionName" : "$Vehicle Equpiment",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "$Vehicle Equipment",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4516,12 +4516,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 218,
-          "optionName" : "Taurox missle launcher",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Taurox missile launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 2,
           "listOfRestrictions" : null,
@@ -4537,19 +4537,19 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3402,
           "optionName" : "Two hot-shot volley guns",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 30,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 3455,
           "optionName" : "Two autocannons",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4815,12 +4815,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 48,
           "listOfRestrictions" : null,
           "optionID" : 3471,
           "optionName" : "Lascannon sponson with twin heavy flamer",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -4973,12 +4973,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 48,
           "listOfRestrictions" : null,
           "optionID" : 3473,
           "optionName" : "Lascannon sponson with twin heavy flamer",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5128,12 +5128,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 48,
           "listOfRestrictions" : null,
           "optionID" : 3475,
           "optionName" : "Lascannon sponson with twin heavy flamer",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5283,12 +5283,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 48,
           "listOfRestrictions" : null,
           "optionID" : 3477,
           "optionName" : "Lascannon sponson with twin heavy flamer",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5452,12 +5452,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 48,
           "listOfRestrictions" : null,
           "optionID" : 3479,
           "optionName" : "Lascannon sponson with twin heavy flamer",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5609,12 +5609,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 48,
           "listOfRestrictions" : null,
           "optionID" : 3481,
           "optionName" : "Lascannon sponson with twin heavy flamer",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -5764,12 +5764,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 48,
           "listOfRestrictions" : null,
           "optionID" : 3485,
           "optionName" : "Lascannon sponson with twin heavy flamer",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
@@ -5944,12 +5944,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34,
+          "optionCost" : 48,
           "listOfRestrictions" : null,
           "optionID" : 3483,
           "optionName" : "Lascannon sponson with twin heavy flamer",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -6073,12 +6073,12 @@
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 5,
           "listOfRestrictions" : null,
           "optionID" : 1,
           "optionName" : "Augur array",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
@@ -6087,7 +6087,7 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 2,
           "listOfRestrictions" : [ {
             "numberOfTimesNeededToBeFound" : -1,
             "maxAllowed" : 1,
@@ -6108,8 +6108,8 @@
           } ],
           "optionID" : 3,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
@@ -6211,19 +6211,19 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 24,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 13,
+          "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 25,
           "optionName" : "Plasma gun",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Special Weapons"
       }, {
@@ -6249,19 +6249,19 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 29,
           "optionName" : "Meltagun",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 11,
+          "optionCost" : 7,
           "listOfRestrictions" : null,
           "optionID" : 30,
           "optionName" : "Plasma gun",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Special Weapons(4+)"
       }, {

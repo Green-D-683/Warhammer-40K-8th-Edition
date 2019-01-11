@@ -809,12 +809,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 4505,
           "optionName" : "Sniper rifle",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -1171,12 +1171,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 27,
+          "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 4562,
-          "optionName" : "Multi melta",
+          "optionName" : "Multi-melta",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 32,
           "listOfRestrictions" : null,
@@ -1250,12 +1250,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 27,
+          "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 4566,
-          "optionName" : "Multi melta",
+          "optionName" : "Multi-melta",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
@@ -1588,13 +1588,6 @@
             "4592" : "1",
             "4593" : "1"
           },
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 4,
-          "listOfRestrictions" : null,
-          "optionID" : 4956,
-          "optionName" : "Power sword",
-          "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
@@ -2291,7 +2284,7 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 4890,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -2370,7 +2363,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 4900,
-          "optionName" : "Lightening claws(pair)",
+          "optionName" : "Lightning claws(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -2498,12 +2491,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 4919,
-          "optionName" : "Dreadnought combat weapons",
+          "optionName" : "Dreadnought combat weapon",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 25,
           "listOfRestrictions" : null,

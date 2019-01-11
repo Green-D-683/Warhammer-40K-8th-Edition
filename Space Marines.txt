@@ -1250,12 +1250,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 28,
+          "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 1821,
           "optionName" : "Servo-harness",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2137,12 +2137,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 27,
+          "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 1922,
-          "optionName" : "Multi-metla",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Multi-melta",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 4,
@@ -2434,16 +2434,16 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1938,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 18,
           "listOfRestrictions" : null,
           "optionID" : 1939,
-          "optionName" : "Thunder hammer and storm shield.",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Thunder hammer and storm shield",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -2538,7 +2538,7 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1946,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -2651,7 +2651,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1956,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -2886,12 +2886,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 1978,
           "optionName" : "Dreadnought combat weapon",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -2900,12 +2900,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 20,
           "listOfRestrictions" : null,
           "optionID" : 1980,
-          "optionName" : "Missile launchers",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Missile launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
@@ -3061,12 +3061,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 1992,
           "optionName" : "Dreadnought combat weapon",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -3150,12 +3150,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 30,
           "listOfRestrictions" : null,
           "optionID" : 1998,
           "optionName" : "Dreadnought combat weapon",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 25,
           "listOfRestrictions" : null,
@@ -6027,14 +6027,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1654,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1657,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -6114,14 +6114,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1655,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1656,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -6311,14 +6311,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1687,
-          "optionName" : "Lightening claw (single)",
+          "optionName" : "Lightning claw (single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1691,
-          "optionName" : "Lightening claw (pair)",
+          "optionName" : "Lightning claw (pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -6377,14 +6377,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1689,
-          "optionName" : "Lightening claw (single)",
+          "optionName" : "Lightning claw (single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1690,
-          "optionName" : "Lightening claw (pair)",
+          "optionName" : "Lightning claw (pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -6481,14 +6481,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1710,
-          "optionName" : "Lightening claw (single)",
+          "optionName" : "Lightning claw (single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1713,
-          "optionName" : "Lightening claw (pair)",
+          "optionName" : "Lightning claw (pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -6519,14 +6519,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1711,
-          "optionName" : "Lightening claw (single)",
+          "optionName" : "Lightning claw (single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1712,
-          "optionName" : "Lightening claw (pair)",
+          "optionName" : "Lightning claw (pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {

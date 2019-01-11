@@ -1051,12 +1051,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 21,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2287,
-          "optionName" : "Incendine combuster",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Incendine combustor",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 15,
           "listOfRestrictions" : null,
@@ -1108,12 +1108,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 47,
           "listOfRestrictions" : null,
           "optionID" : 2291,
           "optionName" : "Neutron laser and cognis heavy stubber",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 30,
           "listOfRestrictions" : null,
@@ -1400,12 +1400,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 4,
           "listOfRestrictions" : null,
           "optionID" : 2308,
           "optionName" : "Two heavy stubbers",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -1859,12 +1859,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 104,
+          "optionCost" : 102,
           "listOfRestrictions" : null,
           "optionID" : 2327,
           "optionName" : "Rapid-fire battle cannon and heavy stubber",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 14,
           "listOfRestrictions" : null,
@@ -2003,12 +2003,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 2190,
           "optionName" : "Transuranic arqebus",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Special Weapons"
       }, {

@@ -1036,12 +1036,12 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 30,
+          "optionCost" : 40,
           "listOfRestrictions" : null,
           "optionID" : 3206,
-          "optionName" : "Helbrute fist",
+          "optionName" : "Helbrute fist(pair)",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 17,
           "listOfRestrictions" : null,
@@ -1105,6 +1105,13 @@
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
+        }, {
+          "optionCost" : 30,
+          "listOfRestrictions" : null,
+          "optionID" : 4142,
+          "optionName" : "Helbrute fist(single)",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -2102,14 +2109,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3052,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3053,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
@@ -2161,14 +2168,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 3056,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 3057,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {

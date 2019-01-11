@@ -1183,12 +1183,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 27,
+          "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 1588,
-          "optionName" : "Multi metla",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Multi-metla",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1663,12 +1663,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 27,
+          "optionCost" : 22,
           "listOfRestrictions" : null,
           "optionID" : 1614,
-          "optionName" : "Multi melta",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Multi-melta",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2620,7 +2620,7 @@
           "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 1518,
-          "optionName" : "Nemesis Deamon Hammer",
+          "optionName" : "Nemesis Daemon Hammer",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {

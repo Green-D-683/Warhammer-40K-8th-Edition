@@ -2302,19 +2302,19 @@
           "autoAddDictionary" : { },
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 60,
+          "optionCost" : 50,
           "listOfRestrictions" : null,
           "optionID" : 2640,
           "optionName" : "Titanic ghostglaive and scattershield",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
-          "optionCost" : 90,
+          "optionCost" : 80,
           "listOfRestrictions" : null,
           "optionID" : 2641,
           "optionName" : "Suncannon and scattershield",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 7,
           "listOfRestrictions" : null,

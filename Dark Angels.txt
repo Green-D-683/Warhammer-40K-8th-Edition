@@ -108,7 +108,7 @@
         "autoAddDictionary" : null,
         "listOfCurrencies" : null
       }, {
-        "unitName" : "Interrogrator-Chaplain",
+        "unitName" : "Interrogator-Chaplain",
         "listOfOptions" : [ {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -345,7 +345,7 @@
         },
         "listOfCurrencies" : null
       }, {
-        "unitName" : "Interrogrator-Chaplain in Terminator Armour",
+        "unitName" : "Interrogator-Chaplain in Terminator Armour",
         "listOfOptions" : [ {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -526,7 +526,7 @@
         "autoAddDictionary" : null,
         "listOfCurrencies" : null
       }, {
-        "unitName" : "Labrarian",
+        "unitName" : "Librarian",
         "listOfOptions" : [ {
           "optionCost" : 8,
           "listOfRestrictions" : null,
@@ -638,9 +638,9 @@
         "autoAddDictionary" : {
           "891" : "1"
         },
-        "listOfCurrencies" : null
+        "listOfCurrencies" : { }
       }, {
-        "unitName" : "Primaris Labrarian",
+        "unitName" : "Primaris Librarian",
         "listOfOptions" : [ {
           "optionCost" : 8,
           "listOfRestrictions" : null,
@@ -656,9 +656,9 @@
         "autoAddDictionary" : {
           "4619" : "1"
         },
-        "listOfCurrencies" : null
+        "listOfCurrencies" : { }
       }, {
-        "unitName" : "Labrarian in Terminator Armour",
+        "unitName" : "Librarian in Terminator Armour",
         "listOfOptions" : [ {
           "optionCost" : 8,
           "listOfRestrictions" : null,
@@ -1155,12 +1155,12 @@
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 28,
+          "optionCost" : 11,
           "listOfRestrictions" : null,
           "optionID" : 937,
           "optionName" : "Servo-harness",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1802,7 +1802,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1016,
-          "optionName" : "Lightening claws(pair)",
+          "optionName" : "Lightning claws(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -1896,7 +1896,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1025,
-          "optionName" : "Lightening claws(pair)",
+          "optionName" : "Lightning claws(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -2064,7 +2064,7 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 1042,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -2153,7 +2153,7 @@
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 1058,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -2924,9 +2924,9 @@
           "optionCost" : 13,
           "listOfRestrictions" : null,
           "optionID" : 1106,
-          "optionName" : "Addition Assault Squad Marine",
-          "autoAddDictionary" : null,
-          "listOfCurrencies" : null
+          "optionName" : "Additional Assault Squad Marine",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -5217,7 +5217,7 @@
         },
         "listOfCurrencies" : null
       }, {
-        "unitName" : "Stromraven Gunship",
+        "unitName" : "Stormraven Gunship",
         "listOfOptions" : [ {
           "optionCost" : 44,
           "listOfRestrictions" : null,
@@ -5368,7 +5368,7 @@
           "1219" : "1",
           "1218" : "1"
         },
-        "listOfCurrencies" : null
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -5403,14 +5403,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 784,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 785,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -5483,14 +5483,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 783,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 786,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -5680,14 +5680,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 818,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 819,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -5739,14 +5739,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 817,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 820,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -5836,14 +5836,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 837,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 840,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
@@ -5874,14 +5874,14 @@
           "optionCost" : 8,
           "listOfRestrictions" : null,
           "optionID" : 838,
-          "optionName" : "Lightening claw(single)",
+          "optionName" : "Lightning claw(single)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {
           "optionCost" : 12,
           "listOfRestrictions" : null,
           "optionID" : 839,
-          "optionName" : "Lightening claw(pair)",
+          "optionName" : "Lightning claw(pair)",
           "autoAddDictionary" : null,
           "listOfCurrencies" : null
         }, {

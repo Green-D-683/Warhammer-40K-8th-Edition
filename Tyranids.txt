@@ -420,7 +420,7 @@
         },
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "Neurothorpe",
+        "unitName" : "Neurothrope",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
@@ -1254,7 +1254,7 @@
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "Mulcolid Spores",
+        "unitName" : "Mucolid Spores",
         "listOfOptions" : [ {
           "optionCost" : 20,
           "listOfRestrictions" : null,
@@ -1285,7 +1285,7 @@
         "unitCost" : 20,
         "unitID" : 3684,
         "autoAddDictionary" : { },
-        "listOfCurrencies" : null
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Spore Mines",
         "listOfOptions" : [ {
@@ -1531,9 +1531,9 @@
           "optionCost" : 14,
           "listOfRestrictions" : null,
           "optionID" : 3776,
-          "optionName" : "Monstrous scything talona",
+          "optionName" : "Monstrous scything talons",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0,
           "listOfRestrictions" : null,
@@ -1680,9 +1680,9 @@
           "optionCost" : 15,
           "listOfRestrictions" : null,
           "optionID" : 3848,
-          "optionName" : "Two pairs monstrous scything talons",
+          "optionName" : "Two pairs of monstrous scything talons",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2415,9 +2415,9 @@
           "optionCost" : 2,
           "listOfRestrictions" : null,
           "optionID" : 3652,
-          "optionName" : "Lashwhip and bonesword",
+          "optionName" : "Lash whip and bonesword",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Melee Bio-Weapons"
       }, {
@@ -2463,9 +2463,9 @@
           "optionCost" : 25,
           "listOfRestrictions" : null,
           "optionID" : 3658,
-          "optionName" : "Stranglethron cannon",
+          "optionName" : "Stranglethrone cannon",
           "autoAddDictionary" : { },
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 18,
           "listOfRestrictions" : null,

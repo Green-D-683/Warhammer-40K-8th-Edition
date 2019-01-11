@@ -384,14 +384,14 @@
           "optionCost" : 0,
           "listOfRestrictions" : null,
           "optionID" : 4711,
-          "optionName" : "Bilsword and bileblade",
+          "optionName" : "Bilesword and bileblade",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10,
           "listOfRestrictions" : null,
           "optionID" : 4712,
-          "optionName" : "Bilsword and plague flail",
+          "optionName" : "Bilesword and plague flail",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
@@ -601,7 +601,7 @@
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "Deamon Prince Of Chaos",
+        "unitName" : "Daemon Prince Of Chaos",
         "listOfOptions" : [ {
           "optionCost" : 10,
           "listOfRestrictions" : null,
@@ -884,7 +884,7 @@
           "optionCost" : 6,
           "listOfRestrictions" : null,
           "optionID" : 2392,
-          "optionName" : "Additional Deamonette",
+          "optionName" : "Additional Daemonette",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         } ],
@@ -892,7 +892,7 @@
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : 20,
           "multiplier" : -1,
-          "errorMessage" : "You have too many deamonettes",
+          "errorMessage" : "You have too many daemonettes",
           "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "",
