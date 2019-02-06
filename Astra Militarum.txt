@@ -5999,24 +5999,7 @@
           "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
-          "listOfRestrictions" : [ {
-            "numberOfTimesNeededToBeFound" : -1,
-            "maxAllowed" : 1,
-            "multiplier" : -1,
-            "errorMessage" : "You can't have a heavy stubber and storm bolter.",
-            "nameOfCheck" : "",
-            "globalProperty" : "",
-            "nameOfUpgradeProperty" : "",
-            "listOfNamesOfUpgradeID" : [ "3", "5" ],
-            "conditionalType" : "",
-            "upgradeID" : -1,
-            "nameOfUnitProperty" : "",
-            "additionalRestrictions" : null,
-            "numberNeeded" : -1,
-            "unitID" : -1,
-            "startingModels" : -1,
-            "nameOfCompareUpgradeProperty" : ""
-          } ],
+          "listOfRestrictions" : null,
           "optionID" : 3,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : null,
@@ -6030,24 +6013,7 @@
           "listOfCurrencies" : null
         }, {
           "optionCost" : 2,
-          "listOfRestrictions" : [ {
-            "numberOfTimesNeededToBeFound" : -1,
-            "maxAllowed" : 1,
-            "multiplier" : -1,
-            "errorMessage" : "You can't have a heavy stubber and storm bolter.",
-            "nameOfCheck" : "",
-            "globalProperty" : "",
-            "nameOfUpgradeProperty" : "",
-            "listOfNamesOfUpgradeID" : [ "3", "5" ],
-            "conditionalType" : "",
-            "upgradeID" : -1,
-            "nameOfUnitProperty" : "",
-            "additionalRestrictions" : null,
-            "numberNeeded" : -1,
-            "unitID" : -1,
-            "startingModels" : -1,
-            "nameOfCompareUpgradeProperty" : ""
-          } ],
+          "listOfRestrictions" :null,
           "optionID" : 5,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : null,
