@@ -5988,8 +5988,8 @@
           "listOfRestrictions" : null,
           "optionID" : 1,
           "optionName" : "Augur array",
-          "autoAddDictionary" : { },
-          "listOfCurrencies" : { }
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 5,
           "listOfRestrictions" : null,
@@ -6019,8 +6019,8 @@
           } ],
           "optionID" : 3,
           "optionName" : "Heavy stubber",
-          "autoAddDictionary" : { },
-          "listOfCurrencies" : { }
+          "autoAddDictionary" : null,
+          "listOfCurrencies" : null
         }, {
           "optionCost" : 6,
           "listOfRestrictions" : null,
