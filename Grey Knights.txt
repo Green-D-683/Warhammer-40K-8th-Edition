@@ -2237,7 +2237,7 @@
           "numberOfTimesNeededToBeFound" : 1,
           "maxAllowed" : -1,
           "multiplier" : -1,
-          "errorMessage" : "You must take two heavy bolters, skyhammer missile launcher or typhoon missile launcher.",
+          "errorMessage" : "You must take two heavy bolters, a skyhammer missile launcher or a typhoon missile launcher.",
           "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "",
