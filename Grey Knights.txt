@@ -2575,7 +2575,7 @@
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : 1,
           "multiplier" : -1,
-          "errorMessage" : "You have too many heavy bolters, lascannons, skyhammer missile launchers or typhoon missile launchers.",
+          "errorMessage" : "You have too many heavy bolters, lascannons, skyhammer missile launchers, or typhoon missile launchers.",
           "nameOfCheck" : "checkCurrentUnitNotTooManyUpgrades",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "",
