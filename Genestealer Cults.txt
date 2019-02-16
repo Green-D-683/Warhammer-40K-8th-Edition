@@ -1,0 +1,1298 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40K 8th Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Patriarch",
+        "listOfOptions" : [ {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4352,
+          "optionName" : "Familiar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 125.0,
+        "unitID" : 4322,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Magus",
+        "listOfOptions" : [ {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4353,
+          "optionName" : "Familiar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 80.0,
+        "unitID" : 4323,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Primus",
+        "listOfOptions" : [ {
+          "optionCost" : 3.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4354,
+          "optionName" : "Bonesword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 72.0,
+        "unitID" : 4324,
+        "autoAddDictionary" : {
+          "4354" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Acolyte Iconward",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 53.0,
+        "unitID" : 4325,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Abominant",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 105.0,
+        "unitID" : 4326,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Jackal Alphus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 70.0,
+        "unitID" : 4327,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[5]Acolyte Hybrids",
+        "listOfOptions" : [ {
+          "optionCost" : 7.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4355,
+          "optionName" : "Additional Acolyte Hybrid",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4356,
+          "optionName" : "Hand flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4357,
+          "optionName" : "Cult icon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 17.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4358,
+          "optionName" : "Heavy rock drill",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4359,
+          "optionName" : "Heavy rock cutter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4360,
+          "optionName" : "Heavy rock saw",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4361,
+          "optionName" : "Demolition charges",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 3.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4366,
+          "optionName" : "Bonesword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4367,
+          "optionName" : "Lash whip and bonesword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Troops",
+        "unitCost" : 35.0,
+        "unitID" : 4328,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[10]Neophyte Hybrids",
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4368,
+          "optionName" : "Additional Neophyte Hybrid",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4369,
+          "optionName" : "Shotgun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4370,
+          "optionName" : "Cult icon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4371,
+          "optionName" : "$Special Weapons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4372,
+          "optionName" : "$Pistols",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4373,
+          "optionName" : "$Melee Weapons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4374,
+          "optionName" : "$Heavy Mining Weapons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Troops",
+        "unitCost" : 50.0,
+        "unitID" : 4329,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[10]Blood Brothers Infantry Squad",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4377,
+          "optionName" : "$Heavy Weapons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4378,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 3.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4379,
+          "optionName" : "Grenade launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4380,
+          "optionName" : "Cult vox caster",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Troops",
+        "unitCost" : 40.0,
+        "unitID" : 4330,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[5]Hybrid Metamorphs",
+        "listOfOptions" : [ {
+          "optionCost" : 9.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4381,
+          "optionName" : "Additional Hybrid Metamorphs",
+          "autoAddDictionary" : {
+            "4382" : "1"
+          },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4382,
+          "optionName" : "Metamorph talon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4383,
+          "optionName" : "Metamorph whip",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 4.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4384,
+          "optionName" : "Metamorph claw",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4758,
+          "optionName" : "Hand flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 3.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4766,
+          "optionName" : "Bonesword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4767,
+          "optionName" : "Cult icon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 45.0,
+        "unitID" : 4331,
+        "autoAddDictionary" : {
+          "4382" : "5"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[5]Aberrants",
+        "listOfOptions" : [ {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4956,
+          "optionName" : "Additional Aberrant",
+          "autoAddDictionary" : {
+            "5128" : "1"
+          },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5115,
+          "optionName" : "Additional Aberrant Hypermorph",
+          "autoAddDictionary" : {
+            "5128" : "1"
+          },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5128,
+          "optionName" : "Heavy power hammer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 9.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5130,
+          "optionName" : "Power pick",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5131,
+          "optionName" : "Heavy improvised weapon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 80.0,
+        "unitID" : 4332,
+        "autoAddDictionary" : {
+          "5128" : "5"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[5]Purestrain Genestealers",
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5132,
+          "optionName" : "Additional Purestrain Genestealer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5133,
+          "optionName" : "Purestrain talons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 75.0,
+        "unitID" : 4333,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Clamavus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 55.0,
+        "unitID" : 4334,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Locus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 40.0,
+        "unitID" : 4335,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Sanctus",
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5134,
+          "optionName" : "Silencer sniper rifle",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5135,
+          "optionName" : "Sanstus bio-dagger",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 55.0,
+        "unitID" : 4336,
+        "autoAddDictionary" : {
+          "5134" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Kelermorph",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 60.0,
+        "unitID" : 4337,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Nexos",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 50.0,
+        "unitID" : 4338,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Biophagus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 35.0,
+        "unitID" : 4339,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Achilles Ridgerunners",
+        "listOfOptions" : [ {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5136,
+          "optionName" : "Additional Achilles Ridgerunner",
+          "autoAddDictionary" : {
+            "5137" : "1",
+            "5138" : "1",
+            "5139" : "1"
+          },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5137,
+          "optionName" : "Heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5138,
+          "optionName" : "Heavy mining laser",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5139,
+          "optionName" : "Flare launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5140,
+          "optionName" : "Missile launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5141,
+          "optionName" : "Heavy mortar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5142,
+          "optionName" : "Survey augur",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5143,
+          "optionName" : "Spotter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 50.0,
+        "unitID" : 4340,
+        "autoAddDictionary" : {
+          "5137" : "1",
+          "5138" : "1",
+          "5139" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[4]Atalan Jackals",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5144,
+          "optionName" : "Additional Atalan Jackal",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5145,
+          "optionName" : "Additional Atalan Wolfquad",
+          "autoAddDictionary" : {
+            "5146" : "1"
+          },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5146,
+          "optionName" : "Heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5147,
+          "optionName" : "$Atalan Weapons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5148,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5149,
+          "optionName" : "Shotgun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5150,
+          "optionName" : "Improvised weapon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 9.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5151,
+          "optionName" : "Power pick",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5152,
+          "optionName" : "Mining laser",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5153,
+          "optionName" : "Atalan incinerator",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 40.0,
+        "unitID" : 4341,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cult Armoured Sentinels",
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5154,
+          "optionName" : "Additional Cult Armoured Sentinel",
+          "autoAddDictionary" : {
+            "5155" : "1"
+          },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5155,
+          "optionName" : "Multi-laser",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5156,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5157,
+          "optionName" : "Autocannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5158,
+          "optionName" : "Missile launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5159,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5160,
+          "optionName" : "Plasma cannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5161,
+          "optionName" : "Hunter-killer missile",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5162,
+          "optionName" : "Sentinel chainsaw",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 30.0,
+        "unitID" : 4343,
+        "autoAddDictionary" : {
+          "5155" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cult Scout Sentinels",
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5163,
+          "optionName" : "Additional Cult Scout Sentinel",
+          "autoAddDictionary" : {
+            "5164" : "1"
+          },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5164,
+          "optionName" : "Multi-laser",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5165,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5166,
+          "optionName" : "Autocannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5167,
+          "optionName" : "Missile launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5168,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5169,
+          "optionName" : "Hunter-killer missile",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5170,
+          "optionName" : "Sentinel chainsaw",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 30.0,
+        "unitID" : 4344,
+        "autoAddDictionary" : {
+          "5164" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cult Leman Russ",
+        "listOfOptions" : [ {
+          "optionCost" : 22.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5171,
+          "optionName" : "Battle cannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5172,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5173,
+          "optionName" : "Eradicator nova cannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 17.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5174,
+          "optionName" : "Exterminator autocannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5175,
+          "optionName" : "Vanquisher battle cannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5176,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5177,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5178,
+          "optionName" : "Two heavy bolters",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 28.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5179,
+          "optionName" : "Two heavy flamers",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5180,
+          "optionName" : "Two multi-meltas",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5181,
+          "optionName" : "Two plasma cannons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5182,
+          "optionName" : "Heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5183,
+          "optionName" : "Storm bolter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5184,
+          "optionName" : "Hunter-killer missile",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5185,
+          "optionName" : "$Vehicle Upgrades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 122.0,
+        "unitID" : 4345,
+        "autoAddDictionary" : {
+          "5171" : "1",
+          "5172" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Brood Brothers Heavy Weapons Squad",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5186,
+          "optionName" : "$Heavy Weapons",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 18.0,
+        "unitID" : 4346,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Goliath Rockgrinder",
+        "listOfOptions" : [ {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5187,
+          "optionName" : "Heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5188,
+          "optionName" : "Heavy mining laser",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5189,
+          "optionName" : "Cache of demolition charges",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5190,
+          "optionName" : "Clearance incinerator",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5191,
+          "optionName" : "Heavy seismic cannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 78.0,
+        "unitID" : 4347,
+        "autoAddDictionary" : {
+          "5187" : "1",
+          "5188" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Goliath Truck",
+        "listOfOptions" : [ {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5192,
+          "optionName" : "Heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5193,
+          "optionName" : "Twin autocannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5194,
+          "optionName" : "Cache of demolition charges",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Dedicated Transport",
+        "unitCost" : 50.0,
+        "unitID" : 4348,
+        "autoAddDictionary" : {
+          "5192" : "1",
+          "5193" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cult Chimera",
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5195,
+          "optionName" : "Multi-laser",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5196,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5197,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5198,
+          "optionName" : "Hunter-killer missile",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5199,
+          "optionName" : "Storm bolter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5200,
+          "optionName" : "Heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5201,
+          "optionName" : "$Vehicle Upgrades",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Dedicated Transport",
+        "unitCost" : 60.0,
+        "unitID" : 4349,
+        "autoAddDictionary" : {
+          "5195" : "1",
+          "5196" : "1"
+        },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Tectonic Fragdrill",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fortification",
+        "unitCost" : 75.0,
+        "unitID" : 4351,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4144,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 3.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4146,
+          "optionName" : "Grenade launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4147,
+          "optionName" : "Webber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Special Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4148,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4149,
+          "optionName" : "Bolt pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4150,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4151,
+          "optionName" : "Web pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Pistols"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4152,
+          "optionName" : "Chainsword",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4153,
+          "optionName" : "Cultist knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 4.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4154,
+          "optionName" : "Power maul",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 9.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4155,
+          "optionName" : "Power pick",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Melee Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 2.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4192,
+          "optionName" : "Heavy stubber",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4301,
+          "optionName" : "Mining laser",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4302,
+          "optionName" : "Seismic cannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Heavy Mining Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4303,
+          "optionName" : "Autocannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4304,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4305,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4306,
+          "optionName" : "Missile launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 7.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4307,
+          "optionName" : "Mortar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Heavy Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4308,
+          "optionName" : "Augur array",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4309,
+          "optionName" : "Dozer blade",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4310,
+          "optionName" : "Track guards",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Vehicle Upgrades"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4311,
+          "optionName" : "Autogun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4312,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4313,
+          "optionName" : "Bolt pistol",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4314,
+          "optionName" : "Cultist knife",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4315,
+          "optionName" : "Demolition charge",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 3.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4316,
+          "optionName" : "Grenade launcher",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4317,
+          "optionName" : "Improvised weapon",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4318,
+          "optionName" : "Power axe",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 4.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4319,
+          "optionName" : "Power hammer",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 9.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4320,
+          "optionName" : "Power pick",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4321,
+          "optionName" : "Shotgun",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Atalan Weapons"
+      } ],
+      "armyName" : "Genestealer Cults",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}
