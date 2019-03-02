@@ -11,6 +11,7 @@
           "optionID" : 4352,
           "optionName" : "Familiar",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -18,6 +19,7 @@
         "unitCost" : 125.0,
         "unitID" : 4322,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Magus",
@@ -27,6 +29,7 @@
           "optionID" : 4353,
           "optionName" : "Familiar",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -34,6 +37,7 @@
         "unitCost" : 80.0,
         "unitID" : 4323,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Primus",
@@ -43,6 +47,7 @@
           "optionID" : 4354,
           "optionName" : "Bonesword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -52,6 +57,7 @@
         "autoAddDictionary" : {
           "4354" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Acolyte Iconward",
@@ -61,6 +67,7 @@
         "unitCost" : 53.0,
         "unitID" : 4325,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Abominant",
@@ -70,6 +77,7 @@
         "unitCost" : 105.0,
         "unitID" : 4326,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Jackal Alphus",
@@ -79,6 +87,7 @@
         "unitCost" : 70.0,
         "unitID" : 4327,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Acolyte Hybrids",
@@ -88,6 +97,7 @@
           "optionID" : 4355,
           "optionName" : "Additional Acolyte Hybrid",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -95,6 +105,7 @@
           "optionID" : 4356,
           "optionName" : "Hand flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -102,6 +113,7 @@
           "optionID" : 4357,
           "optionName" : "Cult icon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 17.0,
@@ -109,6 +121,7 @@
           "optionID" : 4358,
           "optionName" : "Heavy rock drill",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 12.0,
@@ -116,6 +129,7 @@
           "optionID" : 4359,
           "optionName" : "Heavy rock cutter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -123,6 +137,7 @@
           "optionID" : 4360,
           "optionName" : "Heavy rock saw",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -130,6 +145,7 @@
           "optionID" : 4361,
           "optionName" : "Demolition charges",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
@@ -137,6 +153,7 @@
           "optionID" : 4366,
           "optionName" : "Bonesword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -144,6 +161,7 @@
           "optionID" : 4367,
           "optionName" : "Lash whip and bonesword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -151,6 +169,7 @@
         "unitCost" : 35.0,
         "unitID" : 4328,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[10]Neophyte Hybrids",
@@ -160,6 +179,7 @@
           "optionID" : 4368,
           "optionName" : "Additional Neophyte Hybrid",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -167,6 +187,7 @@
           "optionID" : 4369,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -174,6 +195,7 @@
           "optionID" : 4370,
           "optionName" : "Cult icon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -181,6 +203,7 @@
           "optionID" : 4371,
           "optionName" : "$Special Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -188,6 +211,7 @@
           "optionID" : 4372,
           "optionName" : "$Pistols",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -195,6 +219,7 @@
           "optionID" : 4373,
           "optionName" : "$Melee Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -202,6 +227,7 @@
           "optionID" : 4374,
           "optionName" : "$Heavy Mining Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -209,6 +235,7 @@
         "unitCost" : 50.0,
         "unitID" : 4329,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[10]Blood Brothers Infantry Squad",
@@ -218,6 +245,7 @@
           "optionID" : 4377,
           "optionName" : "$Heavy Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 6.0,
@@ -225,6 +253,7 @@
           "optionID" : 4378,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
@@ -232,6 +261,7 @@
           "optionID" : 4379,
           "optionName" : "Grenade launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -239,6 +269,7 @@
           "optionID" : 4380,
           "optionName" : "Cult vox caster",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -246,6 +277,7 @@
         "unitCost" : 40.0,
         "unitID" : 4330,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Hybrid Metamorphs",
@@ -257,6 +289,7 @@
           "autoAddDictionary" : {
             "4382" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -264,6 +297,7 @@
           "optionID" : 4382,
           "optionName" : "Metamorph talon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -271,6 +305,7 @@
           "optionID" : 4383,
           "optionName" : "Metamorph whip",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 4.0,
@@ -278,6 +313,7 @@
           "optionID" : 4384,
           "optionName" : "Metamorph claw",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -285,6 +321,7 @@
           "optionID" : 4758,
           "optionName" : "Hand flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
@@ -292,6 +329,7 @@
           "optionID" : 4766,
           "optionName" : "Bonesword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -299,6 +337,7 @@
           "optionID" : 4767,
           "optionName" : "Cult icon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -308,6 +347,7 @@
         "autoAddDictionary" : {
           "4382" : "5"
         },
+        "startingModels" : 5,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Aberrants",
@@ -319,6 +359,7 @@
           "autoAddDictionary" : {
             "5128" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 16.0,
@@ -328,6 +369,7 @@
           "autoAddDictionary" : {
             "5128" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 16.0,
@@ -335,6 +377,7 @@
           "optionID" : 5128,
           "optionName" : "Heavy power hammer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 9.0,
@@ -342,6 +385,7 @@
           "optionID" : 5130,
           "optionName" : "Power pick",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -349,6 +393,7 @@
           "optionID" : 5131,
           "optionName" : "Heavy improvised weapon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -358,6 +403,7 @@
         "autoAddDictionary" : {
           "5128" : "5"
         },
+        "startingModels" : 5,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Purestrain Genestealers",
@@ -367,6 +413,7 @@
           "optionID" : 5132,
           "optionName" : "Additional Purestrain Genestealer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -374,6 +421,7 @@
           "optionID" : 5133,
           "optionName" : "Purestrain talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -381,6 +429,7 @@
         "unitCost" : 75.0,
         "unitID" : 4333,
         "autoAddDictionary" : { },
+        "startingModels" : 5,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Clamavus",
@@ -390,6 +439,7 @@
         "unitCost" : 55.0,
         "unitID" : 4334,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Locus",
@@ -399,6 +449,7 @@
         "unitCost" : 40.0,
         "unitID" : 4335,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Sanctus",
@@ -408,6 +459,7 @@
           "optionID" : 5134,
           "optionName" : "Silencer sniper rifle",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -415,6 +467,7 @@
           "optionID" : 5135,
           "optionName" : "Sanstus bio-dagger",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -424,6 +477,7 @@
         "autoAddDictionary" : {
           "5134" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Kelermorph",
@@ -433,6 +487,7 @@
         "unitCost" : 60.0,
         "unitID" : 4337,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Nexos",
@@ -442,6 +497,7 @@
         "unitCost" : 50.0,
         "unitID" : 4338,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Biophagus",
@@ -451,6 +507,7 @@
         "unitCost" : 35.0,
         "unitID" : 4339,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Achilles Ridgerunners",
@@ -464,6 +521,7 @@
             "5138" : "1",
             "5139" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -471,6 +529,7 @@
           "optionID" : 5137,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -478,6 +537,7 @@
           "optionID" : 5138,
           "optionName" : "Heavy mining laser",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -485,6 +545,7 @@
           "optionID" : 5139,
           "optionName" : "Flare launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -492,6 +553,7 @@
           "optionID" : 5140,
           "optionName" : "Missile launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 8.0,
@@ -499,6 +561,7 @@
           "optionID" : 5141,
           "optionName" : "Heavy mortar",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -506,6 +569,7 @@
           "optionID" : 5142,
           "optionName" : "Survey augur",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -513,6 +577,7 @@
           "optionID" : 5143,
           "optionName" : "Spotter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -524,6 +589,7 @@
           "5138" : "1",
           "5139" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[4]Atalan Jackals",
@@ -533,6 +599,7 @@
           "optionID" : 5144,
           "optionName" : "Additional Atalan Jackal",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -542,6 +609,7 @@
           "autoAddDictionary" : {
             "5146" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -549,6 +617,7 @@
           "optionID" : 5146,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -556,6 +625,7 @@
           "optionID" : 5147,
           "optionName" : "$Atalan Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -563,6 +633,7 @@
           "optionID" : 5148,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -570,6 +641,7 @@
           "optionID" : 5149,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -577,6 +649,7 @@
           "optionID" : 5150,
           "optionName" : "Improvised weapon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 9.0,
@@ -584,6 +657,7 @@
           "optionID" : 5151,
           "optionName" : "Power pick",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 12.0,
@@ -591,6 +665,7 @@
           "optionID" : 5152,
           "optionName" : "Mining laser",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
@@ -598,6 +673,7 @@
           "optionID" : 5153,
           "optionName" : "Atalan incinerator",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -605,6 +681,7 @@
         "unitCost" : 40.0,
         "unitID" : 4341,
         "autoAddDictionary" : { },
+        "startingModels" : 4,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cult Armoured Sentinels",
@@ -616,6 +693,7 @@
           "autoAddDictionary" : {
             "5155" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -623,6 +701,7 @@
           "optionID" : 5155,
           "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
@@ -630,6 +709,7 @@
           "optionID" : 5156,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -637,6 +717,7 @@
           "optionID" : 5157,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -644,6 +725,7 @@
           "optionID" : 5158,
           "optionName" : "Missile launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -651,6 +733,7 @@
           "optionID" : 5159,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -658,6 +741,7 @@
           "optionID" : 5160,
           "optionName" : "Plasma cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 6.0,
@@ -665,6 +749,7 @@
           "optionID" : 5161,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -672,6 +757,7 @@
           "optionID" : 5162,
           "optionName" : "Sentinel chainsaw",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -681,6 +767,7 @@
         "autoAddDictionary" : {
           "5155" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cult Scout Sentinels",
@@ -692,6 +779,7 @@
           "autoAddDictionary" : {
             "5164" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -699,6 +787,7 @@
           "optionID" : 5164,
           "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
@@ -706,6 +795,7 @@
           "optionID" : 5165,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -713,6 +803,7 @@
           "optionID" : 5166,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -720,6 +811,7 @@
           "optionID" : 5167,
           "optionName" : "Missile launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -727,6 +819,7 @@
           "optionID" : 5168,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 6.0,
@@ -734,6 +827,7 @@
           "optionID" : 5169,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -741,6 +835,7 @@
           "optionID" : 5170,
           "optionName" : "Sentinel chainsaw",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -750,6 +845,7 @@
         "autoAddDictionary" : {
           "5164" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cult Leman Russ",
@@ -759,6 +855,7 @@
           "optionID" : 5171,
           "optionName" : "Battle cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 8.0,
@@ -766,6 +863,7 @@
           "optionID" : 5172,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -773,6 +871,7 @@
           "optionID" : 5173,
           "optionName" : "Eradicator nova cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 17.0,
@@ -780,6 +879,7 @@
           "optionID" : 5174,
           "optionName" : "Exterminator autocannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -787,6 +887,7 @@
           "optionID" : 5175,
           "optionName" : "Vanquisher battle cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
@@ -794,6 +895,7 @@
           "optionID" : 5176,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -801,6 +903,7 @@
           "optionID" : 5177,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 16.0,
@@ -808,6 +911,7 @@
           "optionID" : 5178,
           "optionName" : "Two heavy bolters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 28.0,
@@ -815,6 +919,7 @@
           "optionID" : 5179,
           "optionName" : "Two heavy flamers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -822,6 +927,7 @@
           "optionID" : 5180,
           "optionName" : "Two multi-meltas",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -829,6 +935,7 @@
           "optionID" : 5181,
           "optionName" : "Two plasma cannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -836,6 +943,7 @@
           "optionID" : 5182,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -843,6 +951,7 @@
           "optionID" : 5183,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 6.0,
@@ -850,6 +959,7 @@
           "optionID" : 5184,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -857,6 +967,7 @@
           "optionID" : 5185,
           "optionName" : "$Vehicle Upgrades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -867,6 +978,7 @@
           "5171" : "1",
           "5172" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Brood Brothers Heavy Weapons Squad",
@@ -876,6 +988,7 @@
           "optionID" : 5186,
           "optionName" : "$Heavy Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -883,6 +996,7 @@
         "unitCost" : 18.0,
         "unitID" : 4346,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Goliath Rockgrinder",
@@ -892,6 +1006,7 @@
           "optionID" : 5187,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -899,6 +1014,7 @@
           "optionID" : 5188,
           "optionName" : "Heavy mining laser",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -906,6 +1022,7 @@
           "optionID" : 5189,
           "optionName" : "Cache of demolition charges",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -913,6 +1030,7 @@
           "optionID" : 5190,
           "optionName" : "Clearance incinerator",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -920,6 +1038,7 @@
           "optionID" : 5191,
           "optionName" : "Heavy seismic cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -930,6 +1049,7 @@
           "5187" : "1",
           "5188" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Goliath Truck",
@@ -939,6 +1059,7 @@
           "optionID" : 5192,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -946,6 +1067,7 @@
           "optionID" : 5193,
           "optionName" : "Twin autocannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -953,6 +1075,7 @@
           "optionID" : 5194,
           "optionName" : "Cache of demolition charges",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -963,6 +1086,7 @@
           "5192" : "1",
           "5193" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cult Chimera",
@@ -972,6 +1096,7 @@
           "optionID" : 5195,
           "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 8.0,
@@ -979,6 +1104,7 @@
           "optionID" : 5196,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
@@ -986,6 +1112,7 @@
           "optionID" : 5197,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 6.0,
@@ -993,6 +1120,7 @@
           "optionID" : 5198,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -1000,6 +1128,7 @@
           "optionID" : 5199,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -1007,6 +1136,7 @@
           "optionID" : 5200,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -1014,6 +1144,7 @@
           "optionID" : 5201,
           "optionName" : "$Vehicle Upgrades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -1024,6 +1155,7 @@
           "5195" : "1",
           "5196" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tectonic Fragdrill",
@@ -1033,6 +1165,7 @@
         "unitCost" : 75.0,
         "unitID" : 4351,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
@@ -1042,6 +1175,7 @@
           "optionID" : 4144,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
@@ -1049,6 +1183,7 @@
           "optionID" : 4146,
           "optionName" : "Grenade launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -1056,6 +1191,7 @@
           "optionID" : 4147,
           "optionName" : "Webber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Special Weapons"
@@ -1066,6 +1202,7 @@
           "optionID" : 4148,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -1073,6 +1210,7 @@
           "optionID" : 4149,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -1080,6 +1218,7 @@
           "optionID" : 4150,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -1087,6 +1226,7 @@
           "optionID" : 4151,
           "optionName" : "Web pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Pistols"
@@ -1097,6 +1237,7 @@
           "optionID" : 4152,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -1104,6 +1245,7 @@
           "optionID" : 4153,
           "optionName" : "Cultist knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 4.0,
@@ -1111,6 +1253,7 @@
           "optionID" : 4154,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 9.0,
@@ -1118,6 +1261,7 @@
           "optionID" : 4155,
           "optionName" : "Power pick",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Melee Weapons"
@@ -1128,6 +1272,7 @@
           "optionID" : 4192,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 12.0,
@@ -1135,6 +1280,7 @@
           "optionID" : 4301,
           "optionName" : "Mining laser",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 12.0,
@@ -1142,6 +1288,7 @@
           "optionID" : 4302,
           "optionName" : "Seismic cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Heavy Mining Weapons"
@@ -1152,6 +1299,7 @@
           "optionID" : 4303,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 8.0,
@@ -1159,6 +1307,7 @@
           "optionID" : 4304,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -1166,6 +1315,7 @@
           "optionID" : 4305,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -1173,6 +1323,7 @@
           "optionID" : 4306,
           "optionName" : "Missile launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 7.0,
@@ -1180,6 +1331,7 @@
           "optionID" : 4307,
           "optionName" : "Mortar",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Heavy Weapons"
@@ -1190,6 +1342,7 @@
           "optionID" : 4308,
           "optionName" : "Augur array",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -1197,6 +1350,7 @@
           "optionID" : 4309,
           "optionName" : "Dozer blade",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -1204,6 +1358,7 @@
           "optionID" : 4310,
           "optionName" : "Track guards",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Vehicle Upgrades"
@@ -1214,6 +1369,7 @@
           "optionID" : 4311,
           "optionName" : "Autogun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -1221,6 +1377,7 @@
           "optionID" : 4312,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -1228,6 +1385,7 @@
           "optionID" : 4313,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -1235,6 +1393,7 @@
           "optionID" : 4314,
           "optionName" : "Cultist knife",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -1242,6 +1401,7 @@
           "optionID" : 4315,
           "optionName" : "Demolition charge",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
@@ -1249,6 +1409,7 @@
           "optionID" : 4316,
           "optionName" : "Grenade launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -1256,6 +1417,7 @@
           "optionID" : 4317,
           "optionName" : "Improvised weapon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -1263,6 +1425,7 @@
           "optionID" : 4318,
           "optionName" : "Power axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 4.0,
@@ -1270,6 +1433,7 @@
           "optionID" : 4319,
           "optionName" : "Power hammer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 9.0,
@@ -1277,6 +1441,7 @@
           "optionID" : 4320,
           "optionName" : "Power pick",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -1284,6 +1449,7 @@
           "optionID" : 4321,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Atalan Weapons"

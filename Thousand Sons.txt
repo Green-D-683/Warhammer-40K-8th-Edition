@@ -6,11 +6,12 @@
       "listOfUnits" : [ {
         "unitName" : "Ahriman",
         "listOfOptions" : [ {
-          "optionCost" : 35,
+          "optionCost" : 35.0,
           "listOfRestrictions" : null,
           "optionID" : 3256,
           "optionName" : "Disk of Tzeentch",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -49,39 +50,44 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 131,
+        "unitCost" : 131.0,
         "unitID" : 3099,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Daemon Prince Of Tzeentch",
         "listOfOptions" : [ {
-          "optionCost" : 24,
+          "optionCost" : 24.0,
           "listOfRestrictions" : null,
           "optionID" : 3257,
           "optionName" : "Wings",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3258,
           "optionName" : "Helforged sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3259,
           "optionName" : "Malefic talons (pair)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3260,
           "optionName" : "Daemonic axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -137,53 +143,60 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 146,
+        "unitCost" : 146.0,
         "unitID" : 3100,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Exalted Sorcerer",
         "listOfOptions" : [ {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3261,
           "optionName" : "Force stave",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3262,
           "optionName" : "Inferno bolt pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3263,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 3,
+          "optionCost" : 3.0,
           "listOfRestrictions" : null,
           "optionID" : 3264,
           "optionName" : "Warpflame pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3265,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 3266,
           "optionName" : "Disk of Tzeentch",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -273,49 +286,55 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 112,
+        "unitCost" : 112.0,
         "unitID" : 3101,
         "autoAddDictionary" : {
           "3262" : "1",
           "3261" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Sorcerer",
         "listOfOptions" : [ {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3267,
           "optionName" : "Force sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3268,
           "optionName" : "Inferno bolt pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3269,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 3,
+          "optionCost" : 3.0,
           "listOfRestrictions" : null,
           "optionID" : 3270,
           "optionName" : "Warpflame pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3271,
           "optionName" : "Force stave",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -388,42 +407,47 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 3102,
         "autoAddDictionary" : {
           "3268" : "1",
           "3267" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Sorcerer In Terminator Armour",
         "listOfOptions" : [ {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3272,
           "optionName" : "Force stave",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 3,
+          "optionCost" : 3.0,
           "listOfRestrictions" : null,
           "optionID" : 3273,
           "optionName" : "Inferno combi-bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3274,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 9,
+          "optionCost" : 9.0,
           "listOfRestrictions" : null,
           "optionID" : 3275,
           "optionName" : "Familiar",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -496,79 +520,89 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 102,
+        "unitCost" : 102.0,
         "unitID" : 3103,
         "autoAddDictionary" : {
           "3273" : "1",
           "3272" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Rubric Marines",
         "listOfOptions" : [ {
-          "optionCost" : 16,
+          "optionCost" : 16.0,
           "listOfRestrictions" : null,
           "optionID" : 3276,
           "optionName" : "Additional Rubric Marine",
           "autoAddDictionary" : {
             "3277" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3277,
           "optionName" : "Inferno boltgun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3278,
           "optionName" : "Inferno bolt pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3279,
           "optionName" : "Force stave",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3280,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 3,
+          "optionCost" : 3.0,
           "listOfRestrictions" : null,
           "optionID" : 3282,
           "optionName" : "Warpflame pistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3283,
           "optionName" : "Warpflamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3284,
           "optionName" : "Soulreaper cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3285,
           "optionName" : "Icon of flame",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -624,36 +658,40 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 80,
+        "unitCost" : 80.0,
         "unitID" : 3104,
         "autoAddDictionary" : {
           "3279" : "1",
           "3278" : "1",
           "3277" : "4"
         },
+        "startingModels" : 5,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[10]Tzaangors",
         "listOfOptions" : [ {
-          "optionCost" : 7,
+          "optionCost" : 7.0,
           "listOfRestrictions" : null,
           "optionID" : 3286,
           "optionName" : "Additional Tzaangor",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3287,
           "optionName" : "Brayhorn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 2876,
           "optionName" : "Autopistol and chainsword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -692,53 +730,60 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 70,
+        "unitCost" : 70.0,
         "unitID" : 3105,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Chaos Cultists",
         "listOfOptions" : [ {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3288,
           "optionName" : "Additional Cultist",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3289,
           "optionName" : "Heavy stubber",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 3290,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 2961,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4709,
           "optionName" : "Brutal assault weapon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4717,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -760,32 +805,36 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 50,
+        "unitCost" : 50.0,
         "unitID" : 3106,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[10]Pink Horrors",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3291,
           "optionName" : "Instrument of chaos",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3292,
           "optionName" : "Daemonic icon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 7.0,
           "listOfRestrictions" : null,
           "optionID" : 3293,
           "optionName" : "Additional Pink Horror",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -841,18 +890,20 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 70,
+        "unitCost" : 70.0,
         "unitID" : 3107,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Blue Horrors",
         "listOfOptions" : [ {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3294,
           "optionName" : "Additional Blue Horror",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -874,18 +925,20 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 50,
+        "unitCost" : 50.0,
         "unitID" : 3108,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Brimestone Horrors(pair)",
         "listOfOptions" : [ {
-          "optionCost" : 3,
+          "optionCost" : 3.0,
           "listOfRestrictions" : null,
           "optionID" : 3295,
           "optionName" : "Additional Brimestone Horror",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -907,18 +960,20 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 30,
+        "unitCost" : 30.0,
         "unitID" : 3109,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Tzaangor Shaman",
         "listOfOptions" : [ {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3296,
           "optionName" : "Force stave",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -940,20 +995,22 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 82,
+        "unitCost" : 82.0,
         "unitID" : 3110,
         "autoAddDictionary" : {
           "3296" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Flamers",
         "listOfOptions" : [ {
-          "optionCost" : 25,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 3297,
           "optionName" : "Additional Flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -975,14 +1032,15 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 75,
+        "unitCost" : 75.0,
         "unitID" : 3111,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Scarab Occult Terminators",
         "listOfOptions" : [ {
-          "optionCost" : 30,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 3298,
           "optionName" : "Additional Scarab Occult Terminator",
@@ -990,48 +1048,55 @@
             "3300" : "1",
             "3299" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 3,
+          "optionCost" : 3.0,
           "listOfRestrictions" : null,
           "optionID" : 3299,
           "optionName" : "Inferno combi-bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3300,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3301,
           "optionName" : "Force stave",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 17.0,
           "listOfRestrictions" : null,
           "optionID" : 3302,
           "optionName" : "Heavy warpflamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3303,
           "optionName" : "Soulreaper cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3304,
           "optionName" : "Hellfyre missile rack",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1053,148 +1118,167 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 150,
+        "unitCost" : 150.0,
         "unitID" : 3112,
         "autoAddDictionary" : {
           "3301" : "1",
           "3300" : "4",
           "3299" : "5"
         },
+        "startingModels" : 5,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Helbrute",
         "listOfOptions" : [ {
-          "optionCost" : 22,
+          "optionCost" : 22.0,
           "listOfRestrictions" : null,
           "optionID" : 3305,
           "optionName" : "Multi-melta",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 30,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 3306,
           "optionName" : "Hellbrute fist(single)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3307,
           "optionName" : "Hellbrute fist(pair)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 17.0,
           "listOfRestrictions" : null,
           "optionID" : 3308,
           "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3309,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 16,
+          "optionCost" : 16.0,
           "listOfRestrictions" : null,
           "optionID" : 3310,
           "optionName" : "Helbrute plasma cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3311,
           "optionName" : "Reaper autocannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 3312,
           "optionName" : "Missile launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 30,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 3313,
           "optionName" : "Helbrute hammer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 35,
+          "optionCost" : 35.0,
           "listOfRestrictions" : null,
           "optionID" : 3314,
           "optionName" : "Power scourge",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3315,
           "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 14,
+          "optionCost" : 14.0,
           "listOfRestrictions" : null,
           "optionID" : 3316,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 3113,
         "autoAddDictionary" : {
           "3306" : "1",
           "3305" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Tzaangor Enlightened",
         "listOfOptions" : [ {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3317,
           "optionName" : "Additional Tzaangor Enlightened",
           "autoAddDictionary" : {
             "3318" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3318,
           "optionName" : "Divining Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3319,
           "optionName" : "Fatecaster greatbow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4735,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4736,
           "optionName" : "Autopistol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1216,20 +1300,22 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 45,
+        "unitCost" : 45.0,
         "unitID" : 3114,
         "autoAddDictionary" : {
           "3318" : "3"
         },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Screamers",
         "listOfOptions" : [ {
-          "optionCost" : 28,
+          "optionCost" : 28.0,
           "listOfRestrictions" : null,
           "optionID" : 3320,
           "optionName" : "Additional Screamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -1251,18 +1337,20 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 84,
+        "unitCost" : 84.0,
         "unitID" : 3115,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Spawn",
         "listOfOptions" : [ {
-          "optionCost" : 25,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 3321,
           "optionName" : "Additional Chaos Spawn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -1284,76 +1372,86 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 25,
+        "unitCost" : 25.0,
         "unitID" : 3116,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mutalith Vortex Beast",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 125,
+        "unitCost" : 125.0,
         "unitID" : 3117,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Predator",
         "listOfOptions" : [ {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3322,
           "optionName" : "Predator autocannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3323,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 3324,
           "optionName" : "Two heavy bolters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 50.0,
           "listOfRestrictions" : null,
           "optionID" : 3325,
           "optionName" : "Two lascannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 3326,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3327,
           "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3328,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3329,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1426,92 +1524,104 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 3118,
         "autoAddDictionary" : {
           "3322" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Chaos Vindicator",
         "listOfOptions" : [ {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 3330,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3331,
           "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3332,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3333,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 125,
+        "unitCost" : 125.0,
         "unitID" : 3119,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Chaos Land Raider",
         "listOfOptions" : [ {
-          "optionCost" : 17,
+          "optionCost" : 17.0,
           "listOfRestrictions" : null,
           "optionID" : 3334,
           "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 80,
+          "optionCost" : 80.0,
           "listOfRestrictions" : null,
           "optionID" : 3335,
           "optionName" : "Two twin lascannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 3336,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3337,
           "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3338,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3339,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1533,77 +1643,87 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 3120,
         "autoAddDictionary" : {
           "3335" : "1",
           "3334" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Defiler",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3340,
           "optionName" : "Reaper autocannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 28,
+          "optionCost" : 28.0,
           "listOfRestrictions" : null,
           "optionID" : 3341,
           "optionName" : "Twin heavy flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 3342,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 12.0,
           "listOfRestrictions" : null,
           "optionID" : 3343,
           "optionName" : "Defiler scourge",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 17.0,
           "listOfRestrictions" : null,
           "optionID" : 3344,
           "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3345,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3346,
           "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3347,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3348,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1693,42 +1813,47 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 3121,
         "autoAddDictionary" : {
           "3341" : "1",
           "3340" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Forgefiend",
         "listOfOptions" : [ {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3349,
           "optionName" : "Two hades autocannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3350,
           "optionName" : "Daemon jaws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3351,
           "optionName" : "Two ectoplasm cannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 3352,
           "optionName" : "Ectoplasma cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1801,28 +1926,31 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 100,
+        "unitCost" : 100.0,
         "unitID" : 3122,
         "autoAddDictionary" : {
           "3349" : "1",
           "3350" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Maulerfiend",
         "listOfOptions" : [ {
-          "optionCost" : 32,
+          "optionCost" : 32.0,
           "listOfRestrictions" : null,
           "optionID" : 3353,
           "optionName" : "Two magma cutters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 24,
+          "optionCost" : 24.0,
           "listOfRestrictions" : null,
           "optionID" : 3354,
           "optionName" : "Two lasher tendrils",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1844,73 +1972,82 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 3123,
         "autoAddDictionary" : {
           "3353" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Rhino",
         "listOfOptions" : [ {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3355,
           "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 3356,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3357,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3358,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 70,
+        "unitCost" : 70.0,
         "unitID" : 3124,
         "autoAddDictionary" : {
           "3355" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Heldrake",
         "listOfOptions" : [ {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 3359,
           "optionName" : "Hades autocannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 17,
+          "optionCost" : 17.0,
           "listOfRestrictions" : null,
           "optionID" : 3360,
           "optionName" : "Heldrake claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 30,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 3361,
           "optionName" : "Baleflamer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1966,12 +2103,13 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Flyers",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 3125,
         "autoAddDictionary" : {
           "3359" : "1",
           "3360" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Magnus The Red",
@@ -1995,9 +2133,10 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 445,
+        "unitCost" : 445.0,
         "unitID" : 3126,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : null,
@@ -2005,6 +2144,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }

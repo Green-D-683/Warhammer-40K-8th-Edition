@@ -8,60 +8,68 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 115,
+        "unitCost" : 115.0,
         "unitID" : 3660,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hive Tyrant",
         "listOfOptions" : [ {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3701,
           "optionName" : "Monstrous scything talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3702,
           "optionName" : "$Monstrous Bio-Cannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3703,
           "optionName" : "$Monstrous Bio-Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 47,
+          "optionCost" : 47.0,
           "listOfRestrictions" : null,
           "optionID" : 3704,
           "optionName" : "Wings",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3705,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3706,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 4748,
           "optionName" : "Monstrous scything talons (two pairs)",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -151,11 +159,12 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 143,
+        "unitCost" : 143.0,
         "unitID" : 3661,
         "autoAddDictionary" : {
           "4748" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "The Swarmlord",
@@ -179,53 +188,60 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 250,
+        "unitCost" : 250.0,
         "unitID" : 3662,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tyranid Prime",
         "listOfOptions" : [ {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3707,
           "optionName" : "Devourer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3708,
           "optionName" : "$Basic Bio-Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3709,
           "optionName" : "$Melee Bio-Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3710,
           "optionName" : "Flesh hooks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3711,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3712,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -281,48 +297,54 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 70,
+        "unitCost" : 70.0,
         "unitID" : 3663,
         "autoAddDictionary" : {
           "3707" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tervigon",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3713,
           "optionName" : "Massive scything talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3714,
           "optionName" : "Stinger salvo",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 3715,
           "optionName" : "Massive crushing claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3716,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3717,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -412,21 +434,23 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 180,
+        "unitCost" : 180.0,
         "unitID" : 3664,
         "autoAddDictionary" : {
           "3713" : "1",
           "3714" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Neurothrope",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 3665,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Old One Eye",
@@ -450,69 +474,78 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 200,
+        "unitCost" : 200.0,
         "unitID" : 3666,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Tyranid Warriors",
         "listOfOptions" : [ {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 3718,
           "optionName" : "Additional Tyranid Warrior",
           "autoAddDictionary" : {
             "3719" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3719,
           "optionName" : "Devourer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3720,
           "optionName" : "$Basic Bio-Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3721,
           "optionName" : "$Melee Bio-Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3722,
           "optionName" : "$Basic Bio-Cannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3723,
           "optionName" : "Flesh hooks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3724,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3725,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -534,64 +567,72 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 3667,
         "autoAddDictionary" : {
           "3719" : "3"
         },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[5]Genestealers",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3726,
           "optionName" : "Additional Genestealer",
           "autoAddDictionary" : {
             "3727" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3727,
           "optionName" : "Rending claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3728,
           "optionName" : "Flesh hooks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3729,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3730,
           "optionName" : "Extended carapaces",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4749,
           "optionName" : "Scything talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4750,
           "optionName" : "Acid maw",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -613,48 +654,54 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 50,
+        "unitCost" : 50.0,
         "unitID" : 3668,
         "autoAddDictionary" : {
           "3727" : "5"
         },
+        "startingModels" : 5,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Termagants",
         "listOfOptions" : [ {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3731,
           "optionName" : "Additional Termagant",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3732,
           "optionName" : "Devourer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3733,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3734,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4751,
           "optionName" : "Spinefists",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -676,32 +723,36 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 40,
+        "unitCost" : 40.0,
         "unitID" : 3669,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[10]Hormagaunts",
         "listOfOptions" : [ {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3735,
           "optionName" : "Additional Hormagaunt",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3736,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3737,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -723,25 +774,28 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 50,
+        "unitCost" : 50.0,
         "unitID" : 3670,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Ripper Swarms",
         "listOfOptions" : [ {
-          "optionCost" : 11,
+          "optionCost" : 11.0,
           "listOfRestrictions" : null,
           "optionID" : 3738,
           "optionName" : "Additional Ripper Swarm",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3739,
           "optionName" : "Spinemaws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -763,55 +817,62 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 33,
+        "unitCost" : 33.0,
         "unitID" : 3671,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Tyrant Guard",
         "listOfOptions" : [ {
-          "optionCost" : 35,
+          "optionCost" : 35.0,
           "listOfRestrictions" : null,
           "optionID" : 3740,
           "optionName" : "Additional Tyrant Guard",
           "autoAddDictionary" : {
             "3741" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3741,
           "optionName" : "Rending claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 12.0,
           "listOfRestrictions" : null,
           "optionID" : 3742,
           "optionName" : "Crushing claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3743,
           "optionName" : "Lash whip and bonesword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3744,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3745,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -833,50 +894,56 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 105,
+        "unitCost" : 105.0,
         "unitID" : 3672,
         "autoAddDictionary" : {
           "3741" : "3"
         },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Hive Guard",
         "listOfOptions" : [ {
-          "optionCost" : 18,
+          "optionCost" : 18.0,
           "listOfRestrictions" : null,
           "optionID" : 3746,
           "optionName" : "Additional Hive Guard",
           "autoAddDictionary" : {
             "3747" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 30,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 3747,
           "optionName" : "Impaler cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 21,
+          "optionCost" : 21.0,
           "listOfRestrictions" : null,
           "optionID" : 3748,
           "optionName" : "Shockcannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3749,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3750,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -898,27 +965,30 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 54,
+        "unitCost" : 54.0,
         "unitID" : 3673,
         "autoAddDictionary" : {
           "3747" : "3"
         },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Lictor",
         "listOfOptions" : [ {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3751,
           "optionName" : "Flesh hooks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3752,
           "optionName" : "Rending claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -940,12 +1010,13 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 30,
+        "unitCost" : 30.0,
         "unitID" : 3674,
         "autoAddDictionary" : {
           "3751" : "1",
           "3752" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Deathleaper",
@@ -986,18 +1057,20 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 3675,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Zoanthropes",
         "listOfOptions" : [ {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3755,
           "optionName" : "Additional Zoanthrope",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1019,18 +1092,20 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 120,
+        "unitCost" : 120.0,
         "unitID" : 3676,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Maleceptor",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3756,
           "optionName" : "Massive scything talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1052,20 +1127,22 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 150,
+        "unitCost" : 150.0,
         "unitID" : 3677,
         "autoAddDictionary" : {
           "3756" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Venomthropes",
         "listOfOptions" : [ {
-          "optionCost" : 30,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 3757,
           "optionName" : "Additional Venomthrope",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1087,18 +1164,20 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 3678,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Pyrovores",
         "listOfOptions" : [ {
-          "optionCost" : 25,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 3758,
           "optionName" : "Additional Pyrovore",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -1120,27 +1199,30 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 25,
+        "unitCost" : 25.0,
         "unitID" : 3679,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Haruspex",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 170,
+        "unitCost" : 170.0,
         "unitID" : 3680,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[10]Gargoyles",
         "listOfOptions" : [ {
-          "optionCost" : 6,
+          "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 3759,
           "optionName" : "Additional Gargoyle",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1162,46 +1244,52 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 60,
+        "unitCost" : 60.0,
         "unitID" : 3681,
         "autoAddDictionary" : { },
+        "startingModels" : 10,
         "listOfCurrencies" : null
       }, {
         "unitName" : "[3]Raveners",
         "listOfOptions" : [ {
-          "optionCost" : 23,
+          "optionCost" : 23.0,
           "listOfRestrictions" : null,
           "optionID" : 3760,
           "optionName" : "Additional Ravener",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3761,
           "optionName" : "Rending claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3762,
           "optionName" : "Spinefists",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3763,
           "optionName" : "Deavourer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3764,
           "optionName" : "Deathspitter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1223,9 +1311,10 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 69,
+        "unitCost" : 69.0,
         "unitID" : 3682,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "The Red Terror",
@@ -1249,18 +1338,20 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 50,
+        "unitCost" : 50.0,
         "unitID" : 3683,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mucolid Spores",
         "listOfOptions" : [ {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 3765,
           "optionName" : "Additional Mucolid Spore",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1282,18 +1373,20 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 20,
+        "unitCost" : 20.0,
         "unitID" : 3684,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Spore Mines",
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3766,
           "optionName" : "Additional Spore Mine",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1315,62 +1408,70 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Fast Attack",
-        "unitCost" : 30,
+        "unitCost" : 30.0,
         "unitID" : 3685,
         "autoAddDictionary" : { },
+        "startingModels" : 3,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Exocrine",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 170,
+        "unitCost" : 170.0,
         "unitID" : 3686,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tyrannofex",
         "listOfOptions" : [ {
-          "optionCost" : 25,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 3767,
           "optionName" : "Acid spray",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3768,
           "optionName" : "Stinger salvo",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3769,
           "optionName" : "Fleshborer hive",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 49,
+          "optionCost" : 49.0,
           "listOfRestrictions" : null,
           "optionID" : 3770,
           "optionName" : "Rupture cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3771,
           "optionName" : "Toxic sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3772,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1460,21 +1561,23 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 151,
+        "unitCost" : 151.0,
         "unitID" : 3687,
         "autoAddDictionary" : {
           "3767" : "1",
           "3768" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Biovores",
         "listOfOptions" : [ {
-          "optionCost" : 50,
+          "optionCost" : 50.0,
           "listOfRestrictions" : null,
           "optionID" : 3773,
           "optionName" : "Additional Biovore",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -1496,134 +1599,152 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 50,
+        "unitCost" : 50.0,
         "unitID" : 3688,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Toxicrene",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 140,
+        "unitCost" : 140.0,
         "unitID" : 3689,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Carnifexes",
         "listOfOptions" : [ {
-          "optionCost" : 67,
+          "optionCost" : 67.0,
           "listOfRestrictions" : null,
           "optionID" : 3774,
           "optionName" : "Additional Carnifex",
           "autoAddDictionary" : {
             "3775" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3775,
           "optionName" : "Two pairs of monstrous scything talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 14,
+          "optionCost" : 14.0,
           "listOfRestrictions" : null,
           "optionID" : 3776,
           "optionName" : "Monstrous scything talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3777,
           "optionName" : "$Monstrous Bio-Cannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 12.0,
           "listOfRestrictions" : null,
           "optionID" : 3778,
           "optionName" : "Monstrous crushing claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 4,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 3779,
           "optionName" : "Toxic sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3780,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 9,
+          "optionCost" : 9.0,
           "listOfRestrictions" : null,
           "optionID" : 3781,
           "optionName" : "Bio-plasma",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3782,
           "optionName" : "Enchanced senses",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3783,
           "optionName" : "Monstrous acid maw",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3784,
           "optionName" : "Tusks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 7.0,
           "listOfRestrictions" : null,
           "optionID" : 3785,
           "optionName" : "Threser scythe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3786,
           "optionName" : "Bone mace",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3787,
           "optionName" : "Spine banks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3788,
           "optionName" : "Spore cysts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3535,
           "optionName" : "Chitin thorns",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1645,43 +1766,48 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 67,
+        "unitCost" : 67.0,
         "unitID" : 3690,
         "autoAddDictionary" : {
           "3775" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Screamer-Killers",
         "listOfOptions" : [ {
-          "optionCost" : 90,
+          "optionCost" : 90.0,
           "listOfRestrictions" : null,
           "optionID" : 3789,
           "optionName" : "Additional Screamer-Killer",
           "autoAddDictionary" : {
             "3848" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3790,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3791,
           "optionName" : "Spore cysts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3848,
           "optionName" : "Two pairs of monstrous scything talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
@@ -1703,16 +1829,17 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 90,
+        "unitCost" : 90.0,
         "unitID" : 3691,
         "autoAddDictionary" : {
           "3848" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Thornbacks",
         "listOfOptions" : [ {
-          "optionCost" : 70,
+          "optionCost" : 70.0,
           "listOfRestrictions" : null,
           "optionID" : 3792,
           "optionName" : "Additional Thornback",
@@ -1721,69 +1848,79 @@
             "3871" : "1",
             "3794" : "1"
           },
+          "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 7.0,
           "listOfRestrictions" : null,
           "optionID" : 3793,
           "optionName" : "Devourer with brainleech worms",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3794,
           "optionName" : "Chitin thorns",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3795,
           "optionName" : "Stranglethorn cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 7.0,
           "listOfRestrictions" : null,
           "optionID" : 3796,
           "optionName" : "Deathspitter with slimer maggots",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3797,
           "optionName" : "Adrenal gland",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3798,
           "optionName" : "Enchanced senses",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3799,
           "optionName" : "Spine banks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7,
+          "optionCost" : 7.0,
           "listOfRestrictions" : null,
           "optionID" : 3800,
           "optionName" : "Thresher scythe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 14,
+          "optionCost" : 14.0,
           "listOfRestrictions" : null,
           "optionID" : 3871,
           "optionName" : "Monstrous scything talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1805,43 +1942,48 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 70,
+        "unitCost" : 70.0,
         "unitID" : 3692,
         "autoAddDictionary" : {
           "3793" : "2",
           "3871" : "1",
           "3794" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Mawloc",
         "listOfOptions" : [ {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3802,
           "optionName" : "Toxin spike",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4752,
           "optionName" : "Biostatic rattle",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 4753,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 4754,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1863,53 +2005,60 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 104,
+        "unitCost" : 104.0,
         "unitID" : 3693,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Trygon",
         "listOfOptions" : [ {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3803,
           "optionName" : "Toxinspike",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3804,
           "optionName" : "Three pairs of massive scything talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3805,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3809,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4755,
           "optionName" : "Biostatic rattle",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4756,
           "optionName" : "Prehensile pincer tail",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -1982,49 +2131,55 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 108,
+        "unitCost" : 108.0,
         "unitID" : 3694,
         "autoAddDictionary" : {
           "3803" : "1",
           "3804" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Trygon Prime",
         "listOfOptions" : [ {
-          "optionCost" : 40,
+          "optionCost" : 40.0,
           "listOfRestrictions" : null,
           "optionID" : 3806,
           "optionName" : "Three pairs of massive scything talons.",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3807,
           "optionName" : "Toxinspike",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3808,
           "optionName" : "Toxin sacs",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3810,
           "optionName" : "Adrenal glands",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4757,
           "optionName" : "Prehensile pincer tail",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -2097,34 +2252,38 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 138,
+        "unitCost" : 138.0,
         "unitID" : 3695,
         "autoAddDictionary" : {
           "3806" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
         "unitName" : "Tyrannocyte",
         "listOfOptions" : [ {
-          "optionCost" : 25,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 3811,
           "optionName" : "Five death spitters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 50.0,
           "listOfRestrictions" : null,
           "optionID" : 3813,
           "optionName" : "Five barbed stranglers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 3814,
           "optionName" : "Five venom cannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -2163,34 +2322,38 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 75,
+        "unitCost" : 75.0,
         "unitID" : 3696,
         "autoAddDictionary" : {
           "3811" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Harpy",
         "listOfOptions" : [ {
-          "optionCost" : 30,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 3815,
           "optionName" : "Two stranglethorn cannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 36,
+          "optionCost" : 36.0,
           "listOfRestrictions" : null,
           "optionID" : 3816,
           "optionName" : "Two heavy venom cannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3817,
           "optionName" : "Stinger salvo",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -2246,21 +2409,23 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Flyers",
-        "unitCost" : 105,
+        "unitCost" : 105.0,
         "unitID" : 3697,
         "autoAddDictionary" : {
           "3815" : "1",
           "3817" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hive Crone",
         "listOfOptions" : [ {
-          "optionCost" : 8,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 3818,
           "optionName" : "Stinger salvos",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -2282,34 +2447,38 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Flyers",
-        "unitCost" : 135,
+        "unitCost" : 135.0,
         "unitID" : 3698,
         "autoAddDictionary" : {
           "3818" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Sporocyst",
         "listOfOptions" : [ {
-          "optionCost" : 25,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 3819,
           "optionName" : "Five death spitters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50,
+          "optionCost" : 50.0,
           "listOfRestrictions" : null,
           "optionID" : 3820,
           "optionName" : "Five barbed stranglers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 100,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 3821,
           "optionName" : "Five venom cannons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "listOfRestrictions" : [ {
@@ -2348,154 +2517,173 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Fortification",
-        "unitCost" : 79,
+        "unitCost" : 79.0,
         "unitID" : 3699,
         "autoAddDictionary" : {
           "3819" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : null
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3540,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 1,
+          "optionCost" : 1.0,
           "listOfRestrictions" : null,
           "optionID" : 3551,
           "optionName" : "Spinefists",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3633,
           "optionName" : "Deathspitter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Basic Bio-Weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 10,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 3648,
           "optionName" : "Barbed strangler",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12,
+          "optionCost" : 12.0,
           "listOfRestrictions" : null,
           "optionID" : 3649,
           "optionName" : "Venom cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Basic Bio-Cannons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3650,
           "optionName" : "Rending claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3651,
           "optionName" : "Boneswords",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 2,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 3652,
           "optionName" : "Lash whip and bonesword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Melee Bio-Weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3653,
           "optionName" : "Monstrous rending claws",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20,
+          "optionCost" : 20.0,
           "listOfRestrictions" : null,
           "optionID" : 3654,
           "optionName" : "Monstrous boneswords",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3655,
           "optionName" : "Lash whip and monstrous bonesword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Monstrous Bio-Weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 14,
+          "optionCost" : 14.0,
           "listOfRestrictions" : null,
           "optionID" : 3656,
           "optionName" : "Two deathspitters with slimer maggots",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 14,
+          "optionCost" : 14.0,
           "listOfRestrictions" : null,
           "optionID" : 3657,
           "optionName" : "Two devourers with brainleech worms",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 25,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 3658,
           "optionName" : "Stranglethrone cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 18,
+          "optionCost" : 18.0,
           "listOfRestrictions" : null,
           "optionID" : 3659,
           "optionName" : "Heavy venom cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Monstrous Bio-Cannons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3645,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 3646,
           "optionName" : "Spinefists",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 5,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3647,
           "optionName" : "Deathspitter",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : null
         } ],
         "equipmentName" : "$Basic Bio-Weapons Termagants"
@@ -2504,6 +2692,7 @@
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ ]
   } ]
 }
