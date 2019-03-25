@@ -737,7 +737,7 @@
         "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "Captain Gravis Armour",
+        "unitName" : "Captain in Gravis Armour",
         "listOfOptions" : [ {
           "optionCost" : 6.0,
           "listOfRestrictions" : null,
