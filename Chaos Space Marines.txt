@@ -397,10 +397,11 @@
         "unitCost" : 146.0,
         "unitID" : 2816,
         "autoAddDictionary" : {
+          "2867" : "1",
           "2866" : "1"
         },
         "startingModels" : 1,
-        "listOfCurrencies" : null
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Lord",
         "listOfOptions" : [ {
@@ -482,10 +483,10 @@
           "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 2878,
-          "optionName" : "Comi-bolter",
+          "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
@@ -755,31 +756,7 @@
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dark Apostle",
-        "listOfOptions" : [ {
-          "optionCost" : 4.0,
-          "listOfRestrictions" : null,
-          "optionID" : 2892,
-          "optionName" : "Power maul",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
-          "optionID" : 2893,
-          "optionName" : "$Pistols",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
-          "optionID" : 2894,
-          "optionName" : "$Combi-Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        } ],
+        "listOfOptions" : null,
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : -1,
@@ -1708,7 +1685,7 @@
           "optionCost" : 16.0,
           "listOfRestrictions" : null,
           "optionID" : 2941,
-          "optionName" : "Additional Ruberic Marine",
+          "optionName" : "Additional Rubric Marine",
           "autoAddDictionary" : {
             "2945" : "1"
           },
@@ -1786,6 +1763,14 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : null
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 16,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -1963,6 +1948,14 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : null
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 17,
+          "optionName" : "Melta gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
@@ -2097,13 +2090,13 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 12.0,
+          "optionCost" : 8.0,
           "listOfRestrictions" : null,
           "optionID" : 2976,
-          "optionName" : "Lightning claws(pair)",
+          "optionName" : "Lightning claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
@@ -2164,12 +2157,12 @@
         "startingModels" : 3,
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "[5]Chaos Terminators",
+        "unitName" : "[5]Terminators",
         "listOfOptions" : [ {
-          "optionCost" : 28.0,
+          "optionCost" : 26.0,
           "listOfRestrictions" : null,
           "optionID" : 2639,
-          "optionName" : "Additional Chaos Terminator",
+          "optionName" : "Additional Terminator",
           "autoAddDictionary" : {
             "2701" : "1",
             "2660" : "1"
@@ -2181,14 +2174,6 @@
           "listOfRestrictions" : null,
           "optionID" : 2660,
           "optionName" : "Combi-bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 5.0,
-          "listOfRestrictions" : null,
-          "optionID" : 2701,
-          "optionName" : "Power axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : null
@@ -2277,7 +2262,7 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 140.0,
+        "unitCost" : 130.0,
         "unitID" : 2838,
         "autoAddDictionary" : {
           "2701" : "5",
@@ -2787,13 +2772,15 @@
       }, {
         "unitName" : "[5]Havocs",
         "listOfOptions" : [ {
-          "optionCost" : 13.0,
+          "optionCost" : 14.0,
           "listOfRestrictions" : null,
           "optionID" : 3005,
           "optionName" : "Additional Havoc",
-          "autoAddDictionary" : { },
+          "autoAddDictionary" : {
+            "18" : "1"
+          },
           "modelsAdded" : 1,
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
@@ -2834,6 +2821,22 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : null
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 18,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 20,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -2905,11 +2908,13 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 65.0,
+        "unitCost" : 70.0,
         "unitID" : 2845,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "18" : "5"
+        },
         "startingModels" : 5,
-        "listOfCurrencies" : null
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[3]Obliterators",
         "listOfOptions" : null,
@@ -2931,10 +2936,10 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 50.0,
+          "optionCost" : 80.0,
           "listOfRestrictions" : null,
           "optionID" : 3011,
-          "optionName" : "Twin lascannons",
+          "optionName" : "Two twin lascannons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : null
@@ -3277,13 +3282,13 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 24.0,
+          "optionCost" : 12.0,
           "listOfRestrictions" : null,
           "optionID" : 3026,
-          "optionName" : "Two lasher tendrils",
+          "optionName" : "Lasher tendrils",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : 1,
@@ -3829,6 +3834,130 @@
         },
         "startingModels" : 1,
         "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Haarken Worldclaimer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 115.0,
+        "unitID" : 5,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Master Of Possession",
+        "listOfOptions" : [ {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 7,
+          "optionName" : "Force stave",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 90.0,
+        "unitID" : 6,
+        "autoAddDictionary" : {
+          "7" : "1"
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Lord Discordant On Helstalker",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 9,
+          "optionName" : "Autocannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 10,
+          "optionName" : "Baleflamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 11,
+          "optionName" : "Magma Cutter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 150.0,
+        "unitID" : 8,
+        "autoAddDictionary" : {
+          "9" : "1"
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Master of Executions",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 70.0,
+        "unitID" : 12,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Dark Disciples",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 10.0,
+        "unitID" : 13,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Greater Possessed",
+        "listOfOptions" : [ {
+          "optionCost" : 70.0,
+          "listOfRestrictions" : null,
+          "optionID" : 15,
+          "optionName" : "Additional Greater Possessed",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 70.0,
+        "unitID" : 14,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Venomcrawler",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 130.0,
+        "unitID" : 21,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Noctilith Crown",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fortification",
+        "unitCost" : 100.0,
+        "unitID" : 22,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -4040,6 +4169,14 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : null
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 1,
+          "optionName" : "Reaper chaincannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Heavy Weapons"
       }, {
@@ -4134,6 +4271,22 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : null
+        }, {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 2,
+          "optionName" : "Thunder hammer (non-characters)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 21.0,
+          "listOfRestrictions" : null,
+          "optionID" : 3,
+          "optionName" : "Thunder hammer (characters)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Melee Weapons"
       }, {
@@ -4193,6 +4346,14 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : null
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4,
+          "optionName" : "Chainaxe",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Terminator Melee Weapons"
       }, {
