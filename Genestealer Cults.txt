@@ -238,8 +238,16 @@
         "startingModels" : 10,
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "[10]Blood Brothers Infantry Squad",
+        "unitName" : "[10]Brood Brothers Infantry Squad",
         "listOfOptions" : [ {
+          "optionCost" : 4.0,
+          "listOfRestrictions" : null,
+          "optionID" : 123456,
+          "optionName" : "Additional Brood Brothers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 4377,
