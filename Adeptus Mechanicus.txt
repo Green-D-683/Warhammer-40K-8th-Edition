@@ -1645,13 +1645,13 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 75.0,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 2312,
           "optionName" : "Avenger gatling cannon",
-          "autoAddDictionary" : null,
+          "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
           "listOfRestrictions" : null,
@@ -1932,13 +1932,13 @@
       }, {
         "unitName" : "Knight Crusader",
         "listOfOptions" : [ {
-          "optionCost" : 75.0,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 2322,
           "optionName" : "Avenger gatling cannon",
-          "autoAddDictionary" : null,
+          "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : null
+          "listOfCurrencies" : { }
         }, {
           "optionCost" : 76.0,
           "listOfRestrictions" : null,

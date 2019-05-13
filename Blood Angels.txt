@@ -1982,6 +1982,30 @@
           "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 35,
+          "optionName" : "Chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 4.0,
+          "listOfRestrictions" : null,
+          "optionID" : 36,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 37,
+          "optionName" : "Power fist",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : [ {
           "numberOfTimesNeededToBeFound" : -1,
@@ -3073,7 +3097,7 @@
         "startingModels" : 1,
         "listOfCurrencies" : null
       }, {
-        "unitName" : "Company Anicent",
+        "unitName" : "Company Ancient",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
@@ -3156,7 +3180,7 @@
           "529" : "1"
         },
         "startingModels" : 1,
-        "listOfCurrencies" : null
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Primaris Ancient",
         "listOfOptions" : null,
