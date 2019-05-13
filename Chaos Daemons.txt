@@ -1543,6 +1543,16 @@
         "autoAddDictionary" : { },
         "startingModels" : 10,
         "listOfCurrencies" : null
+      }, {
+        "unitName" : "Chaos Spawn",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fast Attack",
+        "unitCost" : 25.0,
+        "unitID" : 23,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,
       "armyName" : "Chaos Daemons",

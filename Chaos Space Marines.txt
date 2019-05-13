@@ -2916,15 +2916,23 @@
         "startingModels" : 5,
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "[3]Obliterators",
-        "listOfOptions" : null,
+        "unitName" : "[1]Obliterators",
+        "listOfOptions" : [ {
+          "optionCost" : 115.0,
+          "listOfRestrictions" : null,
+          "optionID" : 28,
+          "optionName" : "Additional Obliterators",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : { }
+        } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 195.0,
+        "unitCost" : 115.0,
         "unitID" : 2846,
         "autoAddDictionary" : { },
-        "startingModels" : 3,
-        "listOfCurrencies" : null
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Land Raider",
         "listOfOptions" : [ {

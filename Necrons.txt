@@ -878,14 +878,14 @@
           "startingModels" : -1,
           "nameOfCompareUpgradeProperty" : null
         } ],
-        "unitCategory" : "Troops",
+        "unitCategory" : "Elites",
         "unitCost" : 95.0,
         "unitID" : 3376,
         "autoAddDictionary" : {
           "3525" : "5"
         },
         "startingModels" : 5,
-        "listOfCurrencies" : null
+        "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Deathmarks",
         "listOfOptions" : [ {
@@ -915,7 +915,7 @@
           "startingModels" : -1,
           "nameOfCompareUpgradeProperty" : null
         } ],
-        "unitCategory" : "Troops",
+        "unitCategory" : "Elites",
         "unitCost" : 85.0,
         "unitID" : 3377,
         "autoAddDictionary" : { },
