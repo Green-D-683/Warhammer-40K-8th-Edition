@@ -1,0 +1,25 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40k",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Iron Father Feirros",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 110.0,
+        "unitID" : 1,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Iron Hands",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

@@ -1,0 +1,25 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40k",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Kayvaan Shrike",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 130.0,
+        "unitID" : 2,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Raven Guard",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

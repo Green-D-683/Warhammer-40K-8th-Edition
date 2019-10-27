@@ -1,0 +1,143 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40k",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Roboute Guilliman",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lords of War",
+        "unitCost" : 350.0,
+        "unitID" : 3,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Marneus Calgar",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 200.0,
+        "unitID" : 4,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[2]Victrix Honour Guard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 60.0,
+        "unitID" : 5,
+        "autoAddDictionary" : { },
+        "startingModels" : 2,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Chief Librarian Tigurius",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 130.0,
+        "unitID" : 6,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Chaplain Cassius",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 85.0,
+        "unitID" : 7,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Captain Sicarius",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 100.0,
+        "unitID" : 8,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Sergeant Telion",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 65.0,
+        "unitID" : 9,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Sergeant Chronus",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 30.0,
+        "unitID" : 10,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Chapter Ancient",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 75.0,
+        "unitID" : 11,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Chapter Champion",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 55.0,
+        "unitID" : 12,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[2]Honour Guard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 40.0,
+        "unitID" : 13,
+        "autoAddDictionary" : { },
+        "startingModels" : 2,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[4]Tyrannic War Veterans",
+        "listOfOptions" : [ {
+          "optionCost" : 16.0,
+          "listOfRestrictions" : null,
+          "optionID" : 16,
+          "optionName" : "Additional Tyrannic War Veteran",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 64.0,
+        "unitID" : 14,
+        "autoAddDictionary" : { },
+        "startingModels" : 4,
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Ultramarines",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}
