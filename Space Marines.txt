@@ -6875,7 +6875,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
-        "equipmentName" : "$Sergeant Equipment"
+        "equipmentName" : "$Sergeant Weapons"
       } ],
       "armyName" : "Space Marines",
       "armyCategories" : [ ]
