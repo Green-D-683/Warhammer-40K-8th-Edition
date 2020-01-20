@@ -1204,16 +1204,8 @@
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 1837,
-          "optionName" : "$Sergeant Equipment",
+          "optionName" : "$Sergeant Weapons",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
-          "optionID" : 1838,
-          "optionName" : "$Sergeant Equipment Two",
-          "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
@@ -1362,16 +1354,8 @@
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 1845,
-          "optionName" : "$Sergeant Equipment",
+          "optionName" : "$Sergeant Weapons",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
-          "optionID" : 1846,
-          "optionName" : "$Sergeant Equipment Two",
-          "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
@@ -1654,15 +1638,7 @@
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 1912,
-          "optionName" : "$Sergeant Equipment",
-          "autoAddDictionary" : null,
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
-          "optionID" : 1913,
-          "optionName" : "$Sergeant Equipment Two",
+          "optionName" : "$Sergeant Weapons",
           "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
@@ -2496,15 +2472,7 @@
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 1970,
-          "optionName" : "$Sergeant Equipment",
-          "autoAddDictionary" : null,
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
-          "optionID" : 1971,
-          "optionName" : "$Sergeant Equipment Two",
+          "optionName" : "$Sergeant Weapons",
           "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
@@ -3312,15 +3280,7 @@
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 2016,
-          "optionName" : "$Sergeant Equipment",
-          "autoAddDictionary" : null,
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
-          "optionID" : 2017,
-          "optionName" : "$Sergeant Equipment Two",
+          "optionName" : "$Sergeant Weapons",
           "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
@@ -3659,15 +3619,7 @@
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 2041,
-          "optionName" : "$Sergeant Equipment",
-          "autoAddDictionary" : null,
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
-          "optionID" : 2042,
-          "optionName" : "$Sergeant Equipment Two",
+          "optionName" : "$Sergeant Weapons",
           "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
@@ -3783,15 +3735,7 @@
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
           "optionID" : 2049,
-          "optionName" : "$Sergeant Equipment",
-          "autoAddDictionary" : null,
-          "modelsAdded" : 0,
-          "listOfCurrencies" : null
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
-          "optionID" : 2050,
-          "optionName" : "$Sergeant Equipment Two",
+          "optionName" : "$Sergeant Weapons",
           "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
