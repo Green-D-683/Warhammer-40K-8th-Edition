@@ -6,7 +6,7 @@
       "listOfUnits" : [ {
         "unitName" : "Armiger Helverin",
         "listOfOptions" : [ {
-          "optionCost" : 170.0,
+          "optionCost" : 155.0,
           "listOfRestrictions" : null,
           "optionID" : 3398,
           "optionName" : "Additional Armiger Helverin",
@@ -52,7 +52,7 @@
           "nameOfCompareUpgradeProperty" : "optionQuantity"
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 170.0,
+        "unitCost" : 155.0,
         "unitID" : 3131,
         "autoAddDictionary" : {
           "4737" : "1"
@@ -62,7 +62,7 @@
       }, {
         "unitName" : "Armiger Warglaive",
         "listOfOptions" : [ {
-          "optionCost" : 160.0,
+          "optionCost" : 145.0,
           "listOfRestrictions" : null,
           "optionID" : 3401,
           "optionName" : "Additional Armiger Warglaive",
@@ -108,7 +108,7 @@
           "nameOfCompareUpgradeProperty" : "optionQuantity"
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 160.0,
+        "unitCost" : 145.0,
         "unitID" : 3132,
         "autoAddDictionary" : {
           "4738" : "1"
@@ -253,7 +253,7 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 385.0,
+        "unitCost" : 340.0,
         "unitID" : 3133,
         "autoAddDictionary" : {
           "3405" : "1",
@@ -702,7 +702,7 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 285.0,
+        "unitCost" : 305.0,
         "unitID" : 3136,
         "autoAddDictionary" : {
           "3431" : "1",
@@ -1010,7 +1010,7 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 450.0,
+        "unitCost" : 400.0,
         "unitID" : 3138,
         "autoAddDictionary" : { },
         "startingModels" : 1,
@@ -1053,7 +1053,7 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 510.0,
+        "unitCost" : 610.0,
         "unitID" : 3139,
         "autoAddDictionary" : {
           "3444" : "2",
