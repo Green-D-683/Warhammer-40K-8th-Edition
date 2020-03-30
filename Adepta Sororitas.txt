@@ -18,24 +18,56 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "listOfRestrictions" : null,
-          "optionID" : 4523,
-          "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "listOfRestrictions" : null,
           "optionID" : 4524,
           "optionName" : "$Pistols",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 9.0,
           "listOfRestrictions" : null,
-          "optionID" : 4525,
-          "optionName" : "$Melee Weapons",
+          "optionID" : 33,
+          "optionName" : "Bolt pistol, power sword, and rod of office",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 34,
+          "optionName" : "Condemnor boltgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 4.0,
+          "listOfRestrictions" : null,
+          "optionID" : 35,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 9.0,
+          "listOfRestrictions" : null,
+          "optionID" : 36,
+          "optionName" : "Blessed blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 8.0,
+          "listOfRestrictions" : null,
+          "optionID" : 37,
+          "optionName" : "Brazier of holy fire",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 12.0,
+          "listOfRestrictions" : null,
+          "optionID" : 38,
+          "optionName" : "Null rod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -48,21 +80,19 @@
         "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "Uriah Jacobus",
-        "listOfOptions" : null,
-        "listOfRestrictions" : null,
-        "unitCategory" : "HQ",
-        "unitCost" : 50.0,
-        "unitID" : 4443,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : { }
-      }, {
         "unitName" : "Missionary",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 3,
+          "optionName" : "Bolt pistol and shotgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
         "listOfRestrictions" : null,
         "unitCategory" : "HQ",
-        "unitCost" : 35.0,
+        "unitCost" : 38.0,
         "unitID" : 4444,
         "autoAddDictionary" : { },
         "startingModels" : 1,
@@ -94,7 +124,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 10.0,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 4537,
           "optionName" : "Simulacrum Imperialis",
@@ -125,6 +155,14 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4,
+          "optionName" : "Insensor Cherub",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Troops",
@@ -136,7 +174,7 @@
       }, {
         "unitName" : "Geminae Superia",
         "listOfOptions" : [ {
-          "optionCost" : 21.0,
+          "optionCost" : 16.0,
           "listOfRestrictions" : null,
           "optionID" : 4550,
           "optionName" : "Additional Geminae Superia",
@@ -156,7 +194,7 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 21.0,
+        "unitCost" : 16.0,
         "unitID" : 4446,
         "autoAddDictionary" : {
           "4584" : "1"
@@ -164,37 +202,9 @@
         "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
-        "unitName" : "[3]Repentia Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "listOfRestrictions" : null,
-          "optionID" : 4783,
-          "optionName" : "Additional Sister Repentia",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : { }
-        } ],
-        "listOfRestrictions" : null,
-        "unitCategory" : "Elites",
-        "unitCost" : 45.0,
-        "unitID" : 4457,
-        "autoAddDictionary" : { },
-        "startingModels" : 3,
-        "listOfCurrencies" : { }
-      }, {
-        "unitName" : "Mistress of Repentance",
-        "listOfOptions" : null,
-        "listOfRestrictions" : null,
-        "unitCategory" : "Elites",
-        "unitCost" : 35.0,
-        "unitID" : 4487,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : { }
-      }, {
         "unitName" : "[5]Celestian Squad",
         "listOfOptions" : [ {
-          "optionCost" : 11.0,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 4784,
           "optionName" : "Additional Celestian",
@@ -249,10 +259,18 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 17,
+          "optionName" : "Insensor Cherub",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 55.0,
+        "unitCost" : 50.0,
         "unitID" : 4491,
         "autoAddDictionary" : { },
         "startingModels" : 5,
@@ -262,7 +280,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 25.0,
+        "unitCost" : 30.0,
         "unitID" : 4492,
         "autoAddDictionary" : { },
         "startingModels" : 1,
@@ -272,7 +290,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 30.0,
+        "unitCost" : 35.0,
         "unitID" : 4493,
         "autoAddDictionary" : { },
         "startingModels" : 1,
@@ -282,7 +300,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 30.0,
+        "unitCost" : 35.0,
         "unitID" : 4494,
         "autoAddDictionary" : { },
         "startingModels" : 1,
@@ -290,7 +308,7 @@
       }, {
         "unitName" : "[3]Arco-flagellants",
         "listOfOptions" : [ {
-          "optionCost" : 15.0,
+          "optionCost" : 13.0,
           "listOfRestrictions" : null,
           "optionID" : 4792,
           "optionName" : "Additional Arco-flagellant",
@@ -300,7 +318,7 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 45.0,
+        "unitCost" : 39.0,
         "unitID" : 4495,
         "autoAddDictionary" : { },
         "startingModels" : 3,
@@ -338,7 +356,7 @@
       }, {
         "unitName" : "[2]Death Cult Assassins",
         "listOfOptions" : [ {
-          "optionCost" : 17.0,
+          "optionCost" : 13.0,
           "listOfRestrictions" : null,
           "optionID" : 4795,
           "optionName" : "Additional Death Assasssin",
@@ -348,7 +366,7 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 34.0,
+        "unitCost" : 26.0,
         "unitID" : 4497,
         "autoAddDictionary" : { },
         "startingModels" : 2,
@@ -461,6 +479,14 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5,
+          "optionName" : "Insensor Cherub",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Fast Attack",
@@ -472,14 +498,6 @@
       }, {
         "unitName" : "Exorcist",
         "listOfOptions" : [ {
-          "optionCost" : 2.0,
-          "listOfRestrictions" : null,
-          "optionID" : 5045,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 5046,
@@ -487,18 +505,45 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 70.0,
+          "listOfRestrictions" : null,
+          "optionID" : 6,
+          "optionName" : "Exorcist missile launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 39,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 40,
+          "optionName" : "Exorcist conflagration rockets",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 125.0,
+        "unitCost" : 90.0,
         "unitID" : 4518,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "6" : "1",
+          "39" : "1"
+        },
         "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "[5]Retributor Squad",
         "listOfOptions" : [ {
-          "optionCost" : 9.0,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 5047,
           "optionName" : "Additional Retributor",
@@ -545,10 +590,18 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 16,
+          "optionName" : "Amorium Cherub",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 45.0,
+        "unitCost" : 50.0,
         "unitID" : 4519,
         "autoAddDictionary" : { },
         "startingModels" : 5,
@@ -556,12 +609,13 @@
       }, {
         "unitName" : "Penitent Engines",
         "listOfOptions" : [ {
-          "optionCost" : 72.0,
+          "optionCost" : 28.0,
           "listOfRestrictions" : null,
           "optionID" : 5053,
           "optionName" : "Additional Penitent Engine",
           "autoAddDictionary" : {
-            "5054" : "1"
+            "5054" : "1",
+            "15" : "2"
           },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
@@ -573,13 +627,30 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 14,
+          "optionName" : "Penitent flail",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 15,
+          "optionName" : "Penitent buzz-blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 72.0,
+        "unitCost" : 28.0,
         "unitID" : 4520,
         "autoAddDictionary" : {
-          "5054" : "1"
+          "5054" : "1",
+          "15" : "2"
         },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -604,7 +675,7 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 73.0,
+        "unitCost" : 65.0,
         "unitID" : 4521,
         "autoAddDictionary" : {
           "5055" : "1"
@@ -617,7 +688,7 @@
           "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 5057,
-          "optionName" : "Immolation flamer",
+          "optionName" : "Immolation flamers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -638,14 +709,6 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 2.0,
-          "listOfRestrictions" : null,
-          "optionID" : 5060,
-          "optionName" : "Storm bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 6.0,
           "listOfRestrictions" : null,
           "optionID" : 5061,
@@ -653,15 +716,202 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 30,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 68.0,
+        "unitCost" : 70.0,
         "unitID" : 4522,
         "autoAddDictionary" : {
-          "5057" : "1"
+          "5057" : "1",
+          "30" : "1"
         },
         "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Junith Eruita",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 110.0,
+        "unitID" : 1,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Triumph of Saint Katherine",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "HQ",
+        "unitCost" : 185.0,
+        "unitID" : 2,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mortifiers",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 8,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 9,
+          "optionName" : "Penitent flail",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 36.0,
+          "listOfRestrictions" : null,
+          "optionID" : 10,
+          "optionName" : "Additional Mortifier",
+          "autoAddDictionary" : {
+            "8" : "2",
+            "9" : "2"
+          },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "listOfRestrictions" : null,
+          "optionID" : 11,
+          "optionName" : "Upgrade to Anchorite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 14.0,
+          "listOfRestrictions" : null,
+          "optionID" : 12,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 13,
+          "optionName" : "Penitent buzz-blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heavy Support",
+        "unitCost" : 36.0,
+        "unitID" : 7,
+        "autoAddDictionary" : {
+          "8" : "2",
+          "9" : "2"
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Imagifier",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 45.0,
+        "unitID" : 18,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Repentia Superior",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 35.0,
+        "unitID" : 20,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[4]Sisters Repentia",
+        "listOfOptions" : [ {
+          "optionCost" : 13.0,
+          "listOfRestrictions" : null,
+          "optionID" : 22,
+          "optionName" : "Additional Sister Repentia",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 52.0,
+        "unitID" : 21,
+        "autoAddDictionary" : { },
+        "startingModels" : 4,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[5]Zephyrim Squad",
+        "listOfOptions" : [ {
+          "optionCost" : 4.0,
+          "listOfRestrictions" : null,
+          "optionID" : 24,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 13.0,
+          "listOfRestrictions" : null,
+          "optionID" : 25,
+          "optionName" : "Additional Zephyrim",
+          "autoAddDictionary" : {
+            "24" : "1"
+          },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 26,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 27,
+          "optionName" : "Zephyrim pennant",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Elites",
+        "unitCost" : 65.0,
+        "unitID" : 23,
+        "autoAddDictionary" : {
+          "24" : "5"
+        },
+        "startingModels" : 5,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Battle Sanctum",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Fortification",
+        "unitCost" : 50.0,
+        "unitID" : 28,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
@@ -706,10 +956,10 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 2.0,
+          "optionCost" : 0.0,
           "listOfRestrictions" : null,
-          "optionID" : 4420,
-          "optionName" : "Storm bolter",
+          "optionID" : 31,
+          "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -764,6 +1014,14 @@
           "listOfRestrictions" : null,
           "optionID" : 4426,
           "optionName" : "Inferno pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 32,
+          "optionName" : "Hand flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
