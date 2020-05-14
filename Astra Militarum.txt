@@ -697,7 +697,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 45,
           "optionName" : "Punisher gatling cannon",
@@ -721,7 +721,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 48,
           "optionName" : "Lascannon",
@@ -985,7 +985,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 70,
           "optionName" : "Punisher gatling cannon",
@@ -1017,7 +1017,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 74,
           "optionName" : "Lascannon",
@@ -1583,7 +1583,7 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "HQ",
-        "unitCost" : 40.0,
+        "unitCost" : 35.0,
         "unitID" : 88,
         "autoAddDictionary" : {
           "91" : "1"
@@ -1825,7 +1825,7 @@
       }, {
         "unitName" : "[5]Militarum Tempestus Scions",
         "listOfOptions" : [ {
-          "optionCost" : 9.0,
+          "optionCost" : 7.0,
           "listOfRestrictions" : null,
           "optionID" : 3399,
           "optionName" : "Additional Tempestus Scion",
@@ -1833,7 +1833,7 @@
           "modelsAdded" : 1,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 6.0,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3423,
           "optionName" : "Hot-shot laspistol and vox-caster",
@@ -2017,7 +2017,7 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Troops",
-        "unitCost" : 45.0,
+        "unitCost" : 35.0,
         "unitID" : 105,
         "autoAddDictionary" : {
           "4362" : "4",
@@ -2507,7 +2507,7 @@
       }, {
         "unitName" : "[4]Militarum Tempestus Command Squad",
         "listOfOptions" : [ {
-          "optionCost" : 6.0,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3453,
           "optionName" : "Hot-shot laspistol and vox-caster",
@@ -2515,7 +2515,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 6.0,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 3454,
           "optionName" : "Hot-shot laspistol and medi-pack",
@@ -2736,7 +2736,7 @@
       }, {
         "unitName" : "[2]Crusaders",
         "listOfOptions" : [ {
-          "optionCost" : 11.0,
+          "optionCost" : 9.0,
           "listOfRestrictions" : null,
           "optionID" : 122,
           "optionName" : "Additional Crusader",
@@ -2773,7 +2773,7 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 22.0,
+        "unitCost" : 18.0,
         "unitID" : 121,
         "autoAddDictionary" : {
           "4541" : "2"
@@ -3048,7 +3048,7 @@
           "nameOfCompareUpgradeProperty" : ""
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 26.0,
+        "unitCost" : 15.0,
         "unitID" : 135,
         "autoAddDictionary" : {
           "136" : "1"
@@ -3142,7 +3142,7 @@
       }, {
         "unitName" : "[3]Ogryns",
         "listOfOptions" : [ {
-          "optionCost" : 24.0,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 144,
           "optionName" : "Additional Ogryn",
@@ -3169,7 +3169,7 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 72.0,
+        "unitCost" : 90.0,
         "unitID" : 143,
         "autoAddDictionary" : { },
         "startingModels" : 3,
@@ -3299,7 +3299,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Elites",
-        "unitCost" : 60.0,
+        "unitCost" : 55.0,
         "unitID" : 150,
         "autoAddDictionary" : { },
         "startingModels" : 1,
@@ -3315,7 +3315,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 7.0,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 153,
           "optionName" : "Additional Ratling",
@@ -3343,7 +3343,7 @@
           "nameOfCompareUpgradeProperty" : "optionQuantity"
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 35.0,
+        "unitCost" : 25.0,
         "unitID" : 151,
         "autoAddDictionary" : {
           "152" : "5"
@@ -3557,7 +3557,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15.0,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 2623,
           "optionName" : "Missile launcher",
@@ -3565,7 +3565,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 2624,
           "optionName" : "Lascannon",
@@ -3706,7 +3706,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15.0,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 2630,
           "optionName" : "Missile launcher",
@@ -3714,7 +3714,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 2631,
           "optionName" : "Lascannon",
@@ -3980,7 +3980,7 @@
       }, {
         "unitName" : "Wyverns",
         "listOfOptions" : [ {
-          "optionCost" : 95.0,
+          "optionCost" : 105.0,
           "listOfRestrictions" : null,
           "optionID" : 170,
           "optionName" : "Additional Wyvern",
@@ -4069,7 +4069,7 @@
           "nameOfCompareUpgradeProperty" : "optionQuantity"
         } ],
         "unitCategory" : "Heavy Support",
-        "unitCost" : 95.0,
+        "unitCost" : 105.0,
         "unitID" : 169,
         "autoAddDictionary" : {
           "171" : "1"
@@ -4314,7 +4314,7 @@
       }, {
         "unitName" : "Leman Russ Battle Tanks",
         "listOfOptions" : [ {
-          "optionCost" : 122.0,
+          "optionCost" : 107.0,
           "listOfRestrictions" : null,
           "optionID" : 189,
           "optionName" : "Additional Leman Russ Battle Tank",
@@ -4381,7 +4381,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 197,
           "optionName" : "Punisher gatling cannon",
@@ -4397,7 +4397,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 199,
           "optionName" : "Lascanon",
@@ -4447,7 +4447,7 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 122.0,
+        "unitCost" : 107.0,
         "unitID" : 188,
         "autoAddDictionary" : {
           "190" : "1",
@@ -4599,7 +4599,7 @@
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : -1,
           "multiplier" : -1,
-          "errorMessage" : "Turox must be equiped with 2 autocannons.",
+          "errorMessage" : "Taurox must be equiped with 2 autocannons.",
           "nameOfCheck" : "checkCurrentUnitMustHaveUpgrades",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "",
@@ -4837,7 +4837,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 3456,
           "optionName" : "Lascannon",
@@ -4985,7 +4985,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34.0,
+          "optionCost" : 29.0,
           "listOfRestrictions" : null,
           "optionID" : 3470,
           "optionName" : "Lascannon sponson with twin heavy bolter",
@@ -4993,7 +4993,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 48.0,
+          "optionCost" : 43.0,
           "listOfRestrictions" : null,
           "optionID" : 3471,
           "optionName" : "Lascannon sponson with twin heavy flamer",
@@ -5105,7 +5105,7 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 390.0,
+        "unitCost" : 350.0,
         "unitID" : 228,
         "autoAddDictionary" : {
           "231" : "1",
@@ -5150,7 +5150,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34.0,
+          "optionCost" : 29.0,
           "listOfRestrictions" : null,
           "optionID" : 3472,
           "optionName" : "Lascannon sponson with twin heavy bolter",
@@ -5158,7 +5158,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 48.0,
+          "optionCost" : 43.0,
           "listOfRestrictions" : null,
           "optionID" : 3473,
           "optionName" : "Lascannon sponson with twin heavy flamer",
@@ -5270,7 +5270,7 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 370.0,
+        "unitCost" : 350.0,
         "unitID" : 236,
         "autoAddDictionary" : {
           "238" : "1"
@@ -5312,7 +5312,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34.0,
+          "optionCost" : 29.0,
           "listOfRestrictions" : null,
           "optionID" : 3474,
           "optionName" : "Lascannon sponson with twin heavy bolter",
@@ -5320,7 +5320,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 48.0,
+          "optionCost" : 43.0,
           "listOfRestrictions" : null,
           "optionID" : 3475,
           "optionName" : "Lascannon sponson with twin heavy flamer",
@@ -5432,7 +5432,7 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 370.0,
+        "unitCost" : 350.0,
         "unitID" : 242,
         "autoAddDictionary" : {
           "243" : "1"
@@ -5474,7 +5474,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34.0,
+          "optionCost" : 29.0,
           "listOfRestrictions" : null,
           "optionID" : 3476,
           "optionName" : "Lascannon sponson with twin heavy bolter",
@@ -5482,7 +5482,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 48.0,
+          "optionCost" : 43.0,
           "listOfRestrictions" : null,
           "optionID" : 3477,
           "optionName" : "Lascannon sponson with twin heavy flamer",
@@ -5594,7 +5594,7 @@
           "nameOfCompareUpgradeProperty" : null
         } ],
         "unitCategory" : "Lords of War",
-        "unitCost" : 400.0,
+        "unitCost" : 350.0,
         "unitID" : 247,
         "autoAddDictionary" : {
           "248" : "1"
@@ -5652,7 +5652,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34.0,
+          "optionCost" : 29.0,
           "listOfRestrictions" : null,
           "optionID" : 3478,
           "optionName" : "Lascannon sponson with twin heavy bolter",
@@ -5660,7 +5660,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 48.0,
+          "optionCost" : 43.0,
           "listOfRestrictions" : null,
           "optionID" : 3479,
           "optionName" : "Lascannon sponson with twin heavy flamer",
@@ -5816,7 +5816,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34.0,
+          "optionCost" : 29.0,
           "listOfRestrictions" : null,
           "optionID" : 3480,
           "optionName" : "Lascannon sponson with twin heavy bolter",
@@ -5824,7 +5824,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 48.0,
+          "optionCost" : 43.0,
           "listOfRestrictions" : null,
           "optionID" : 3481,
           "optionName" : "Lascannon sponson with twin heavy flamer",
@@ -5970,15 +5970,15 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 8.0,
+          "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 270,
-          "optionName" : "Heavy bolters",
+          "optionName" : "Heavy Stubbers",
           "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34.0,
+          "optionCost" : 29.0,
           "listOfRestrictions" : null,
           "optionID" : 3484,
           "optionName" : "Lascannon sponson with twin heavy bolter",
@@ -5986,7 +5986,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 48.0,
+          "optionCost" : 43.0,
           "listOfRestrictions" : null,
           "optionID" : 3485,
           "optionName" : "Lascannon sponson with twin heavy flamer",
@@ -6166,7 +6166,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 34.0,
+          "optionCost" : 29.0,
           "listOfRestrictions" : null,
           "optionID" : 3482,
           "optionName" : "Lascannon sponson with twin heavy bolter",
@@ -6174,7 +6174,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 48.0,
+          "optionCost" : 43.0,
           "listOfRestrictions" : null,
           "optionID" : 3483,
           "optionName" : "Lascannon sponson with twin heavy flamer",
@@ -6303,6 +6303,17 @@
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
+      }, {
+        "unitname" : "Severina Raine",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "elites",
+        "unitCost" : 32.0,
+        "unitID" : 5064, ##this may need to change
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -6357,7 +6368,7 @@
         "equipmentName" : "$Vehicle Equipment"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 5.0,
+          "optionCost" : 9.0,
           "listOfRestrictions" : null,
           "optionID" : 16,
           "optionName" : "Mortar",
@@ -6381,7 +6392,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 15.0,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 19,
           "optionName" : "Missile launcher",
@@ -6389,7 +6400,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : null
         }, {
-          "optionCost" : 20.0,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 20,
           "optionName" : "Lascannon",
